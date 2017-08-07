@@ -1,0 +1,11 @@
+Hospital_Name,Country,Type,Address,Contact,Email,District,latitude,needs_recoding,longitude
+Bernardino General Hospital II,PHILIPPINES,Private,"Block 1 Lot Zabarte Rd. Brgy., 2 Olympus, Novaliches, Quezon City, Metro Manila",(02) 418 6684,n/a,5,14.739742,False,121.04675
+Cruz-Dalida Maternity Hospital Inc,PHILIPPINES,Private,1025 F. Salvador Ave Jordan Plains Subd Bgy Santa Monic,417-4080/Fax: 936-6135,n/a,5,14.724238,False,121.047287
+Nodado General Hospital,PHILIPPINES,Private,23 Zabarte Road Kaligayan,(02) 937 1485,n/a,5,14.738316,False,121.047242
+DIHMESCO General Hospital,PHILIPPINES,Private,"215 Gen. Luis Street, San Agustin , San Agustin , 1117 Quezon City , Metro Manila, Novaliches, Quezon City, Metro Manila",(02) 937 4552,n/a,5,14.722041,False,121.035899
+Valdez-Padron Hospital,PHILIPPINES,Private,"12 Marianito St., Gulod, Novaliches, Quezon City",Tel.  419-9339,n/a,5,14.708397,False,121.03966
+Neopolitan General Hospital,PHILIPPINES,Private,"Flordeliza Bldg., KM 23 Quirino Highway Lagro, Novaliches, Quezon City",936-4575 to 76,n/a,5,14.735265,False,121.068683
+FEU-Nicanor Reyes Medical Foundation Medical Center,PHILIPPINES,Private,"Regalado Ave., West Fairview, Quezon City 1108",427-0213/938-4881/Fax: 938-4881,n/a,5,14.699865,False,121.067706
+Fairview General Hospital,PHILIPPINES,Private,"Lot 20 Fairview Ave., cor. Mercury St., Brgy. Fairview, Capitol District,Quezon City",939-9689/Fax: 938-4796,n/a,5,14.671402,False,121.035894
+Newman Homecare and Rehabilitation Center Inc,PHILIPPINES,Private,"37, Fairlane Street, corner Coronet Street, Fairview Park, Quezon City, 1118 Metro Manila",(02) 431 5059,n/a,5,14.70269,False,121.065545
+North Fairview Health Center,PHILIPPINES,,"9 Avon, Novaliches, Quezon City",,n/a,5,14.708616,False,121.065018

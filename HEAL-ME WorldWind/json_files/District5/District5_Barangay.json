@@ -1,0 +1,168 @@
+[ {
+  "Barangay" : "BAGBAG ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#625 Parokya ng Pagkabuhay Road ",
+  "Population": "56936",
+  "location" : {
+    "latitude" : "14.696594",
+    "needs_recoding" : false,
+    "longitude" : "121.030395"
+  }
+}
+,
+ {
+  "Barangay" : "CAPRI ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Narra St., Area 3, Brgy. Capri ",
+  "Population": "14587",
+  "location" : {
+    "latitude" : "14.686648",
+    "needs_recoding" : false,
+    "longitude" : "121.063411"
+  }
+}
+,
+ {
+  "Barangay" : "FAIRVIEW ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Dahlia Ave., West fairview ",
+  "Population": "53151",
+  "location" : {
+    "latitude" : "14.699475",
+    "needs_recoding" : false,
+    "longitude" : "121.062935"
+  }
+}
+,
+ {
+  "Barangay" : "GREATER LAGRO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Blk. 47 Lot 1 Ascension St., Lagro Plaza ",
+  "Population": "22764",
+  "location" : {
+    "latitude" : "14.714986",
+    "needs_recoding" : false,
+    "longitude" : "121.067109"
+  }
+}
+,
+ {
+  "Barangay" : "GULOD ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#915 Quirino Highway ",
+  "Population": "53325",
+  "location" : {
+    "latitude" : "14.6954",
+    "needs_recoding" : false,
+    "longitude" : "121.031778"
+  }
+}
+,
+ {
+  "Barangay" : "KALIGAYAHAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Mockingbird St., Zabarte Subd. ",
+  "Population": "54576",
+  "location" : {
+    "latitude" : "14.734037",
+    "needs_recoding" : false,
+    "longitude" : "121.052349"
+  }
+}
+,
+ {
+  "Barangay" : "NAGKAISANG NAYON ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Banahaw St., Sito Capri ",
+  "Population": "49048",
+  "location" : {
+    "latitude" : "14.632288",
+    "needs_recoding" : false,
+    "longitude" : "120.967551"
+  }
+}
+,
+ {
+  "Barangay" : "NORTH FAIRVIEW ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Brookside cor. Brimley St., Fairview Homes ",
+  "Population": "41154",
+  "location" : {
+    "latitude" : "14.707246",
+    "needs_recoding" : false,
+    "longitude" : "121.06355"
+  }
+}
+,
+ {
+  "Barangay" : "NOVALICHES PROPER ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Novaliches Proper ",
+  "Population": "15381",
+  "location" : {
+    "latitude" : "14.720093",
+    "needs_recoding" : false,
+    "longitude" : "121.03781"
+  }
+}
+,
+ {
+  "Barangay" : "PASONG PUTIK PROPER ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Belfast Ave., cor. Bishop St., Teresa Heights Subd.",
+  "Population": "35135",
+  "location" : {
+    "latitude" : "14.731246",
+    "needs_recoding" : false,
+    "longitude" : "121.054293"
+  }
+}
+,
+ {
+  "Barangay" : "SAN AGUSTIN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Patnubay St., St. Francis Village ",
+  "Population": "22423",
+  "location" : {
+    "latitude" : "14.729589",
+    "needs_recoding" : false,
+    "longitude" : "121.039548"
+  }
+}
+,
+ {
+  "Barangay" : "SAN BARTOLOME ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Quirino Highway cor. P. Dela Cruz St. ",
+  "Population": "45188",
+  "location" : {
+    "latitude" : "14.700796",
+    "needs_recoding" : false,
+    "longitude" : "121.034961"
+  }
+}
+,
+ {
+  "Barangay" : "STA. LUCIA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Sta. Lucia Ave ",
+  "Population": "25577",
+  "location" : {
+    "latitude" : "14.707447",
+    "needs_recoding" : false,
+    "longitude" : "121.053584"
+  }
+}
+,
+ {
+  "Barangay" : "STA. MONICA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Moises St., Jordan Plains ",
+  "Population": "46553",
+  "location" : {
+    "latitude" : "14.721386",
+    "needs_recoding" : false,
+    "longitude" : "121.047838"
+  }
+}
+]

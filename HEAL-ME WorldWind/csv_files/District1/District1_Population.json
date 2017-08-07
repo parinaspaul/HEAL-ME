@@ -1,0 +1,16 @@
+{
+"District 1":{ "Population":"433,689.00"},
+"District 2":{ "Population":"732,764.00"},
+"District 3":{ "Population":"325,304.00"},
+"District 4":{ "Population":"460,149.00"},
+"District 5":{ "Population":"433,689.00"},
+"District 6":{ "Population":"433,689.00"},
+"Quezon City": { 
+"Population":"3,085,786.00",
+"Infants": "61,481.00",
+"Toddlers": "426,876.00",
+"Child": "245,923.00",
+"Male PWD": "15,350.00",
+"Female PWD": "14,636.00"
+}
+}

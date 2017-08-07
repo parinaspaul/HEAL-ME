@@ -1,0 +1,409 @@
+[ {
+  "Barangay" : "AMIHAN",
+  "Country" : "PHILIPPINES",
+  "Address" : "#13 Palosapis St., Proj. 3",
+  "Population": "4788",
+  "location" : {
+    "latitude" : "14.632957",
+    "needs_recoding" : false,
+    "longitude" : "121.067015"
+  }
+}
+, {
+  "Barangay" : "BAGUMBAYAN",
+  "Country" : "PHILIPPINES",
+  "Address" : "#6 San Roque St.",
+  "Population": "13832",
+  "location" : {
+    "latitude" : "14.605702",
+    "needs_recoding" : false,
+    "longitude" : "121.08362"
+  }
+}
+, {
+  "Barangay" : "BAGUMBUHAY",
+  "Country" : "PHILIPPINES",
+  "Address" : "Gen. Malvar St., Project 4",
+  "Population": "6767",
+  "location" : {
+    "latitude" : "14.635457",
+    "needs_recoding" : false,
+    "longitude" : "121.090967"
+  }
+}
+, {
+  "Barangay" : "BAYANIHAN",
+  "Country" : "PHILIPPINES",
+  "Address" : "#553 Pelaez St., Proj. 4",
+  "Population": "1222",
+  "location" : {
+    "latitude" : "14.61563",
+    "needs_recoding" : false,
+    "longitude" : "121.069065"
+  }
+}
+, {
+  "Barangay" : "BLUE RIDGE A ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#13 Cliff Drive ",
+  "Population": "1730",
+  "location" : {
+    "latitude" : "14.622792",
+    "needs_recoding" : false,
+    "longitude" : "121.074339"
+  }
+}
+, {
+  "Barangay" : "BLUE RIDGE B",
+  "Country" : "PHILIPPINES",
+  "Address" : "Moonlight Loop St.",
+  "Population": "1701",
+  "location" : {
+    "latitude" : "14.618657",
+    "needs_recoding" : false,
+    "longitude" : "121.074562"
+  }
+}
+, {
+  "Barangay" : "CAMP AGUINALDO",
+  "Country" : "PHILIPPINES",
+  "Address" : "Gozar St., Road., West Castaneda, CGEA",
+  "Population": "4977",
+  "location" : {
+    "latitude" : "14.602426",
+    "needs_recoding" : false,
+    "longitude" : "121.060917"
+  }
+}
+, {
+  "Barangay" : "CLARO (QUIRINO 3-B)",
+  "Country" : "PHILIPPINES",
+  "Address" : "#20 Almon St., Proj. 3",
+  "Population": "4432",
+  "location" : {
+    "latitude" : "14.632474",
+    "needs_recoding" : false,
+    "longitude" : "121.065153"
+  }
+}
+, {
+  "Barangay" : "DIOQUINO ZOBEL",
+  "Country" : "PHILIPPINES",
+  "Address" : "Lizardo St., 20th Ave.",
+  "Population": "1887",
+  "location" : {
+    "latitude" : "14.619608",
+    "needs_recoding" : false,
+    "longitude" : "121.064704"
+  }
+}
+, {
+  "Barangay" : "DUYAN-DUYAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Kalantas St., cor. Kamagong St.",
+  "Population": "3870",
+  "location" : {
+    "latitude" : "14.630512",
+    "needs_recoding" : false,
+    "longitude" : "121.066633"
+  }
+}
+, {
+  "Barangay" : "E. RODRIGUEZ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#40 Purdue St., Cubao",
+  "Population": "19594",
+  "location" : {
+    "latitude" : "14.628071",
+    "needs_recoding" : false,
+    "longitude" : "121.052315"
+  }
+}
+, {
+  "Barangay" : "EAST KAMIAS",
+  "Country" : "PHILIPPINES",
+  "Address" : "K-10th St., cor. Kasing-kasing St.",
+  "Population": "6206",
+  "location" : {
+    "latitude" : "14.631607",
+    "needs_recoding" : false,
+    "longitude" : "121.05732"
+  }
+}
+, {
+  "Barangay" : "ESCOPA I ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#51 Escopa I, along P. Burgos St.",
+  "Population": "2221",
+  "location" : {
+    "latitude" : "14.624536",
+    "needs_recoding" : false,
+    "longitude" : "121.074025"
+  }
+}
+, {
+  "Barangay" : "ESCOPA II ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Escopa II Proper",
+  "Population": "1766",
+  "location" : {
+    "latitude" : "14.624399",
+    "needs_recoding" : false,
+    "longitude" : "121.074714"
+  }
+}
+, {
+  "Barangay" : "ESCOPA III",
+  "Country" : "PHILIPPINES",
+  "Address" : "PUD Site Escopa III ",
+  "Population": "8554",
+  "location" : {
+    "latitude" : "14.627542",
+    "needs_recoding" : false,
+    "longitude" : "121.072678"
+  }
+}
+, {
+  "Barangay" : "ESCOPA IV",
+  "Country" : "PHILIPPINES",
+  "Address" : "Block 4 Lot 20 Escopa IV, Proj. 4 ",
+  "Population": "1919",
+  "location" : {
+    "latitude" : "14.625119",
+    "needs_recoding" : false,
+    "longitude" : "121.073887"
+  }
+}
+, {
+  "Barangay" : "LIBIS",
+  "Country" : "PHILIPPINES",
+  "Address" : "E. Rodriguez Sitio 2 ",
+  "Population": "4018",
+  "location" : {
+    "latitude" : "14.615805",
+    "needs_recoding" : false,
+    "longitude" : "121.074958"
+  }
+}
+, {
+  "Barangay" : "LOYOLA HEIGHTS",
+  "Country" : "PHILIPPINES",
+  "Address" : "Park 9 St., Esteban Abada",
+  "Population": "18884",
+  "location" : {
+    "latitude" : "14.641133",
+    "needs_recoding" : false,
+    "longitude" : "121.074375"
+  }
+}
+, {
+  "Barangay" : "MANGGA",
+  "Country" : "PHILIPPINES",
+  "Address" : "#4-3C Private Compound., 20th Ave. ",
+  "Population": "1158",
+  "location" : {
+    "latitude" : "14.668591",
+    "needs_recoding" : false,
+    "longitude" : "121.057108"
+  }
+}
+, {
+  "Barangay" : "MARILAG ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Plaza Camerino Compound Proj. 4",
+  "Population": "9812",
+  "location" : {
+    "latitude" : "14.625087",
+    "needs_recoding" : false,
+    "longitude" : "121.068794"
+  }
+}
+, {
+  "Barangay" : "MASAGANA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#7 Callejon Conchu St., Proj. 4 ",
+  "Population": "4421",
+  "location" : {
+    "latitude" : "14.617681",
+    "needs_recoding" : false,
+    "longitude" : "121.066033"
+  }
+}
+, {
+  "Barangay" : "MATANDANG BALARA",
+  "Country" : "PHILIPPINES",
+  "Address" : "252 Calderon St., Commonwealth Ave.",
+  "Population": "71022",
+  "location" : {
+    "latitude" : "14.66792",
+    "needs_recoding" : false,
+    "longitude" : "121.077031"
+  }
+}
+, {
+  "Barangay" : "MILAGROSA",
+  "Country" : "PHILIPPINES",
+  "Address" : "Tirona St., Proj. 4 ",
+  "Population": "6130",
+  "location" : {
+    "latitude" : "14.621221",
+    "needs_recoding" : false,
+    "longitude" : "121.071026"
+  }
+}
+, {
+  "Barangay" : "PANSOL",
+  "Country" : "PHILIPPINES",
+  "Address" : "Plaza St.",
+  "Population": "34240",
+  "location" : {
+    "latitude" : "14.645",
+    "needs_recoding" : false,
+    "longitude" : "121.050551"
+  }
+}
+, {
+  "Barangay" : "QUIRINO 2-A ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Chico cor. Kubili St., Project 2",
+  "Population": "5520",
+  "location" : {
+    "latitude" : "14.630994",
+    "needs_recoding" : false,
+    "longitude" : "121.058539"
+  }
+}
+, {
+  "Barangay" : "QUIRINO 2-B ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Paco cor. Langka St.",
+  "Population": "3612",
+  "location" : {
+    "latitude" : "14.581666",
+    "needs_recoding" : false,
+    "longitude" : "120.997168"
+  }
+}
+, {
+  "Barangay" : "QUIRINO 2-C ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#179 Bignay St., Project 2",
+  "Population": "2830",
+  "location" : {
+    "latitude" : "14.635929",
+    "needs_recoding" : false,
+    "longitude" : "121.06299"
+  }
+}
+, {
+  "Barangay" : "QUIRINO 3-A ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#17 Anonas St., Proj. 3 ",
+  "Population": "1141",
+  "location" : {
+    "latitude" : "14.628714",
+    "needs_recoding" : false,
+    "longitude" : "121.062979"
+  }
+}
+, {
+  "Barangay" : "SAN ROQUE",
+  "Country" : "PHILIPPINES",
+  "Address" : "#85 19th Ave., Diego Silang St.",
+  "Population": "20095",
+  "location" : {
+    "latitude" : "14.617802",
+    "needs_recoding" : false,
+    "longitude" : "121.063817"
+  }
+}
+, {
+  "Barangay" : "SILANGAN",
+  "Country" : "PHILIPPINES",
+  "Address" : "#193 Ermin Garcia St., cor. Kalayaan St",
+  "Population": "5036",
+  "location" : {
+    "latitude" : "14.629165",
+    "needs_recoding" : false,
+    "longitude" : "121.056047"
+  }
+}
+, {
+  "Barangay" : "SOCORRO",
+  "Country" : "PHILIPPINES",
+  "Address" : "15th Ave. cor. Boni Serrano St., Cubao",
+  "Population": "25073",
+  "location" : {
+    "latitude" : "14.618824",
+    "needs_recoding" : false,
+    "longitude" : "121.060173"
+  }
+}
+, {
+  "Barangay" : "ST. IGNATIUS",
+  "Country" : "PHILIPPINES",
+  "Address" : "Riverside St.",
+  "Population": "2005",
+  "location" : {
+    "latitude" : "14.693267",
+    "needs_recoding" : false,
+    "longitude" : "121.08456"
+  }
+}
+, {
+  "Barangay" : "TAGUMPAY ",
+  "Country" : "PHILIPPINES",
+  "Address" : "2-B P. Tuazon St., Proj. 4 ",
+  "Population": "2208",
+  "location" : {
+    "latitude" : "14.62182",
+    "needs_recoding" : false,
+    "longitude" : "121.06433"
+  }
+}
+, {
+  "Barangay" : "UGONG NORTE",
+  "Country" : "PHILIPPINES",
+  "Address" : "Gate 1, Corinthian Garden",
+  "Population": "9953",
+  "location" : {
+    "latitude" : "14.595757",
+    "needs_recoding" : false,
+    "longitude" : "121.065041"
+  }
+}
+, {
+  "Barangay" : "VILLA MARIA CLARA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Alimudin St., Proj. 4",
+  "Population": "2393",
+  "location" : {
+    "latitude" : "14.618921",
+    "needs_recoding" : false,
+    "longitude" : "121.068819"
+  }
+}
+, {
+  "Barangay" : "WEST KAMIAS",
+  "Country" : "PHILIPPINES",
+  "Address" : "#2 K-10th St., West Kamias",
+  "Population": "4918",
+  "location" : {
+    "latitude" : "14.628865",
+    "needs_recoding" : false,
+    "longitude" : "121.047841"
+  }
+}
+, {
+  "Barangay" : "WHITE PLAINS",
+  "Country" : "PHILIPPINES",
+  "Address" : "Gold Star St.",
+  "Population": "4734",
+  "location" : {
+    "latitude" : "14.698265",
+    "needs_recoding" : false,
+    "longitude" : "121.052408"
+  }
+}
+] 		 			 			 					 					 								 			
+		

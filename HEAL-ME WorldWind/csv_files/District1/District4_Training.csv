@@ -1,0 +1,61 @@
+Type_of_Training,Training_Center,District,Barangay,latitude,needs_recoding,longitude
+Automotive,CAL Headquarters 3rd Street cor. New Jersey New Manila,District 4,Mariana,14.654235,FALSE,121.034022
+Automotive,"587 EDSA, Cubao",District 4,Kaunlaran,14.616915,FALSE,121.051965
+Electrical,"E. Virata Hall, UP-ISSI E Jacinto St. UP Diliman",District 4,UP Village,14.656528,FALSE,121.061762
+Electrical,"587 EDSA, Cubao",District 4,Kaunlaran,14.616915,FALSE,121.051965
+Programming,"Mercury Drug Bldg. Aurora Blvd., Cubao",District 4,Kaunlaran,14.621045,FALSE,121.049776
+Programming,"Estolano Bldg. cor. Aurora, Cubao",District 4,Kaunlaran,14.735205,FALSE,121.066914
+Programming,Our Home Bldg.114 Malakas St,District 4,Central,14.64728,FALSE,121.054538
+Programming,Mahinhin St.U.P. Village Diliman,District 4,UP Village,14.593591,FALSE,121.077668
+Programming,"5th Flr. CTTM Square Bldg. 68 Timog Ave., cor. Tomas Morato",District 4,Sacred Heart,14.723099,FALSE,121.041729
+Programming,"91, 4th Avenue Murphy, Cubao",District 4,Kaunlaran,14.657437,FALSE,121.014199
+Animation,"St. Francis Condominium 941 Aurora Blvd., Cubao",District 4,Kaunlaran,14.604909,FALSE,121.038174
+Animation,"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao",District 4,Pinagkaisahan,14.62147,FALSE,121.016266
+Animation,Cinderella Building 825 EDSA,District 4,Kaunlaran,14.607723,FALSE,121.080295
+Animation,"No. 21 1st Avenue Bagong Lipunan, Crame Santolan",District 4,Bagong Lipunan ng Crame,14.604909,FALSE,121.038174
+Animation,Unit 7-8 Timog Commercial Complex Timog Avenue cor. Panay Ave.,District 4 ,South Triangle,14.622434,FALSE,121.049293
+Animation,"33 Bonnie Serrano cor. Sunrise Drive BL ng crame, Cubao",District 4,Bagong Lipunan ng Crame ,14.609145,FALSE,121.053327
+Animation,FBR Arcade Katipunan Avenue,District 4,Botocan,14.663801,FALSE,121.069597
+Animation,JIAO Building Delta Timog Ave.,District 4 ,South Triangle,14.734037,FALSE,121.052349
+Animation,"91, 4th Avenue Murphy, Cubao",District 4,Kaunlaran,14.641817,FALSE,121.032411
+Culinary,"St. Francis Condominium 941 Aurora Blvd., Cubao",District 4,Kaunlaran,14.608759,FALSE,121.045243
+Culinary,"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao",District 4,Pinagkaisahan,14.715902,FALSE,121.061376
+Culinary,"No. 21 1st Avenue Bagong Lipunan, Crame Santolan",District 4,Bagong Lipunan ng Crame ,14.73188,FALSE,121.048517
+Culinary,Unit 7-8 Timog Commercial Complex Timog Avenue cor. Panay Ave.,District 4 ,South Triangle,14.665227,FALSE,121.003798
+Culinary,"33 Bonnie Serrano cor. Sunrise Drive BL ng crame, Cubao",District 4,Bagong Lipunan ng Crame ,14.656845,FALSE,121.045132
+Culinary,FBR Arcade Katipunan Avenue,District 4,Botocan,14.678702,FALSE,121.08278
+Culinary,JIAO Building Delta Timog Ave.,District 4 ,South Triangle,14.733449,FALSE,121.061437
+Culinary,"91, 4th Avenue Murphy, Cubao",District 4,Kaunlaran,14.706076,FALSE,121.070594
+Bookkeeping,"Mercury Drug Bldg. Aurora Blvd., Cubao",District 4,Kaunlaran,14.678702,FALSE,121.08278
+Bookkeeping,"Estolano Bldg. cor. Aurora, Cubao",District 4,Kaunlaran,14.733449,FALSE,121.061437
+Bookkeeping,12 P. Bernardo St. Cubao,District 4,Kaunlaran,14.62045,FALSE,121.006989
+Bookkeeping,Our Home Bldg.114 Malakas St,District 4,Central,14.644806,FALSE,121.051024
+Bookkeeping,Kostka Building 289 Katipunan Ave. Loyola Heights,District 4,Botocan,14.620645,FALSE,121.047838
+Call Center Training,"Estolano Bldg. cor. Aurora, Cubao",District 4,Kaunlaran,14.73379,FALSE,121.061465
+Call Center Training,52 Aurora Blvd,District 4,Kaunlaran,14.639122,FALSE,121.074087
+Call Center Training,"46 Units 2B & 2C D Tuazon Brgy., Doña Josefa",District 4 ,Mariana,14.675342,FALSE,121.082088
+Call Center Training,Unit 203 HS Building 22 Matalino St. Brgy. Central,District 4,Central,14.627549,FALSE,121.01
+Call Center Training,960 Aurora Boulevard Cubao,District 4,Kaunlaran,14.656845,FALSE,121.045132
+Baking,Unit 7-8 Timog Commercial Complex Timog Avenue cor. Panay Ave.,District 4 ,South Triangle,14.735748,FALSE,121.065854
+Baking,"33 Bonnie Serrano cor. Sunrise Drive BL ng crame, Cubao",District 4,Bagong Lipunan ng Crame ,14.734253,FALSE,121.054514
+Baking,FBR Arcade Katipunan Avenue,District 4,Botocan,14.631312,FALSE,121.042055
+Baking,JIAO Building Delta Timog Ave.,District 4 ,South Triangle,14.663801,FALSE,121.069597
+Baking,"91, 4th Avenue Murphy, Cubao",District 4,Kaunlaran,14.619821,FALSE,121.017648
+Baking,960 Aurora Boulevard Cubao,District 4,Kaunlaran,14.706076,FALSE,121.070594
+Bartending,"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao",District 4,Pinagkaisahan,14.653013,FALSE,121.018416
+Bartending,Llanar Building Boni Serrano cor. 10th Ave. Cubao,District 4,Bagong Lipunan ng Crame ,14.627549,FALSE,121.01
+Bartending,No. 5 South J Street Brgy. Sacred Heart,District 4,Sacred Heart,14.73379,FALSE,121.061465
+Bartending,JIAO Building Delta Timog Ave.,District 4 ,South Triangle,14.627126,FALSE,121.048479
+Bartending,960 Aurora Boulevard Cubao,District 4,Kaunlaran,14.658298,FALSE,121.019382
+Housekeeping,"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao",District 4,Pinagkaisahan,14.60593,FALSE,121.019444
+Caregiving,Panorama Building 1139 EDSA,District 4,Bagong Lipunan ng Crame ,14.642931,FALSE,121.036162
+Caregiving,"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao",District 4,Pinagkaisahan,14.698952,FALSE,121.034274
+Caregiving,52 Aurora Blvd,District 4,Kaunlaran,14.654235,FALSE,121.034022
+Caregiving,960 Aurora Boulevard Cubao,District 4,Kaunlaran,14.638358,FALSE,121.074433
+Massage Therapy,Panorama Building 1139 EDSA,District 4,Bagong Lipunan ng Crame ,14.616915,FALSE,121.051965
+Massage Therapy,Llanar Building Boni Serrano cor. 10th Ave. Cubao,District 4,Bagong Lipunan ng Crame ,14.647578,FALSE,121.055048
+Massage Therapy,52 Aurora Blvd,District 4,Kaunlaran,14.663519,FALSE,121.059153
+Massage Therapy,"4th Floor, Victoria 1 Building. Quezon Avenue, South Triangle",District 4 ,South Triangle,14.717264,FALSE,121.041349
+Massage Therapy,CAL Headquarters 3rd Street cor. New Jersey New Manila,District 4 ,Mariana,14.639899,FALSE,121.016643
+Massage Therapy,FSS Building No. 2 Scout Tuazon cor. Scout Castor Brgy. Laging Handa,District 4 ,South Triangle,14.663519,FALSE,121.059153
+Dress Making,"Katipunan road, Loyola Heights",District 4,Botocan,14.663519,FALSE,121.059153

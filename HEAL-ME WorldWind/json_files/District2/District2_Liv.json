@@ -1,0 +1,188 @@
+[
+  {
+     "Address":"Block 3 Lot 1 Don Enrique Heights Commonwealth Avenue Brgy. Holy Spirit"
+    ,"District":"District 2"
+    ,"Barangay":"Holy Spirit"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.683218
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.08152
+}
+  },
+  {
+     "Address":"372 Commonwealth Avenue "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.673049
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080766
+}
+  },
+  {
+     "Address":"40 Sampaguita Avenue, Mapayapa Village, Barangay Holy Spirit "
+    ,"District":"District 2"
+    ,"Barangay":"Holy Spirit"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.711466
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028258
+}
+  },
+  {
+     "Address":"UNIT 211 JOCFER BLDG. COMMONWEALTH AVE. "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.609133
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079678
+}
+  },
+  {
+     "Address":"2F ARB House #11 Don Jose ext. cor. Samonte Rd., Brgy. Holy Spirit, Diliman "
+    ,"District":"District 2"
+    ,"Barangay":"Holy Spirit"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.605396
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.081904
+}
+  },
+  {
+     "Address":"JETTI GAS HOLY SPIRIT DR. COMMONWEALTH "
+    ,"District":"District 2"
+    ,"Barangay":"Holy Spirit"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.676044
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.081019
+}
+  },
+  {
+     "Address":"Leyte Gulf St. Brgy. Holy Spirit "
+    ,"District":"District 2"
+    ,"Barangay":"Holy Spirit"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.665113
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.008695
+}
+  },
+  {
+     "Address":"15-A LG/F Ever Gotesco Commonwealth "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.681649
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.067277
+}
+  },
+  {
+     "Address":"ME 2-1 Commonwealth Market, Commonwealth Avenue "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.661267
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.065431
+}
+  },
+  {
+     "Address":"463 Commonwealth Avenue "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.658243
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.980513
+}
+  },
+  {
+     "Address":"27 Commonwealth Ave "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.635735
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.059184
+}
+  },
+  {
+     "Address":"G/F Jocfer Building Commonwealth Avenue Diliman "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.60432
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.018814
+}
+  },
+  {
+     "Address":"Unit 403 - 404 Don Antonio Sports Complex Brgy. Holy Spirit "
+    ,"District":"District 2"
+    ,"Barangay":"Holy Spirit"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.638143
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.027919
+}
+  },
+  {
+     "Address":"Batasan Hills "
+    ,"District":"District 2"
+    ,"Barangay":"Batasan Hills"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.644856
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.015018
+}
+  },
+  {
+     "Address":"Unit 406, Jocfer Building, Commonwealth Avenue "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.64168
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.074384
+}
+  },
+  {
+     "Address":"2/F Aguirre Building, 2211 Commonwealth Avenue, Holy Spirit "
+    ,"District":"District 2"
+    ,"Barangay":"Holy Spirit"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.637107
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.041591
+}
+  },
+  {
+     "Address":"Unit 5 Parian Center Ave., Commonwealth Ave "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.6412
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.055
+}
+  }]

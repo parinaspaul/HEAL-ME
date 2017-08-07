@@ -1,0 +1,407 @@
+[
+  {
+     "Hospital_Name":"AFP Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"V. Luna Ave, Diliman, Quezon City, 1100 Metro Manila"
+    ,"Contact":"921-1753/426-2701/Fax: 921-1741"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.596853
+         ,"needs_recoding":"False"
+         ,"longitude":121.067051
+    }
+  },
+  {
+     "Hospital_Name":"Quezon Institute"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"1113 E Rodriguez Sr. Ave, Quezon City, Metro Manila"
+    ,"Contact":"(02) 781 3762"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.622081
+         ,"needs_recoding":"False"
+         ,"longitude":121.025301
+    }
+  },
+  {
+     "Hospital_Name":"PNP General Hospital (Main)"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"EDSA, Camp Crame, Quezon City"
+    ,"Contact":"722-6850/ 722-0670"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.609145
+         ,"needs_recoding":"False"
+         ,"longitude":121.053327
+    }
+  },
+  {
+     "Hospital_Name":"National Children?s Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"264 E. Rodriguez Sr. Blvd, New Manila, Lungsod Quezon, Kalakhang Maynila"
+    ,"Contact":"(02) 724 0656"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.620452
+         ,"needs_recoding":"False"
+         ,"longitude":121.020928
+    }
+  },
+  {
+     "Hospital_Name":"East Avenue Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"East Avenue, Diliman, Quezon City"
+    ,"Contact":"927-9900/928-0611"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.641184
+         ,"needs_recoding":"False"
+         ,"longitude":121.046908
+    }
+  },
+  {
+     "Hospital_Name":"National Kidney & Transplant Institute"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"East Avenue, Quezon City"
+    ,"Contact":"924-0701/Fax: 922-5608"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.641184
+         ,"needs_recoding":"False"
+         ,"longitude":121.046908
+    }
+  },
+  {
+     "Hospital_Name":"Philippine Heart Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"East Avenue, Diliman, Quezon City 1110"
+    ,"Contact":"Tel.  925-2401 to 50/922-0551/Telefax: 922-0551"
+    ,"Email":"director@phc.gov.ph"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.641184
+         ,"needs_recoding":"False"
+         ,"longitude":121.046908
+    }
+  },
+  {
+     "Hospital_Name":"UP Health Services"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"J.P. Laurel St., UP Campus, Diliman"
+    ,"Contact":"(02) 981 8500"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.659242
+         ,"needs_recoding":"False"
+         ,"longitude":121.067846
+    }
+  },
+  {
+     "Hospital_Name":"Lung Center of the Philippines"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"Quezon Ave. Ext., Quezon City"
+    ,"Contact":"927-5643/927-1339/Fax: 455-4281"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.648043
+         ,"needs_recoding":"False"
+         ,"longitude":121.046065
+    }
+  },
+  {
+     "Hospital_Name":"Estrellas Nex Care Co"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"175 Kamias Road, Quirino"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.631786
+         ,"needs_recoding":"False"
+         ,"longitude":121.049427
+    }
+  },
+  {
+     "Hospital_Name":"Full House Custodial Care Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"150 K-6th St., East Kamias"
+    ,"Contact":"(02) 922 3751"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.633792
+         ,"needs_recoding":"False"
+         ,"longitude":121.058367
+    }
+  },
+  {
+     "Hospital_Name":"Dr. Jesus C. Delgado Memorial Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"7 Kamuning Road"
+    ,"Contact":"Tel: 924-4051 to 61/Fax: 928-5945"
+    ,"Email":"jdmh@skyinet.net"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.6277
+         ,"needs_recoding":"False"
+         ,"longitude":121.034809
+    }
+  },
+  {
+     "Hospital_Name":"Life Change Recovery Center Inc."
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"105 Scout Rallos St., Bgy. Kamuning"
+    ,"Contact":"(02) 415 6529"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.633055
+         ,"needs_recoding":"False"
+         ,"longitude":121.040284
+    }
+  },
+  {
+     "Hospital_Name":"The Clinic of the Holy Spirit Inc."
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"4 Los Angeles St., Immaculate Concepcion"
+    ,"Contact":"(02) 721 7180"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.624069
+         ,"needs_recoding":"False"
+         ,"longitude":121.04269
+    }
+  },
+  {
+     "Hospital_Name":"St. Luke?s Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"279 E. Rodriguez Sr. Blvd"
+    ,"Contact":"Tel.? 723-0101/Fax ?724-4227"
+    ,"Email":"info@stluke.com.ph"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.622527
+         ,"needs_recoding":"False"
+         ,"longitude":121.023238
+    }
+  },
+  {
+     "Hospital_Name":"De Los Santos Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"201 E. Rodriguez Sr. Blvd"
+    ,"Contact":"(02) 893 5762"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.619821
+         ,"needs_recoding":"False"
+         ,"longitude":121.017648
+    }
+  },
+  {
+     "Hospital_Name":"UERM Memorial Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Aurora Blvd., Quezon City"
+    ,"Contact":"(02) 715 0861"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.62024
+         ,"needs_recoding":"False"
+         ,"longitude":121.046889
+    }
+  },
+  {
+     "Hospital_Name":"World Citi Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"960 Aurora Blvd. Extension"
+    ,"Contact":"Tel. 913-8380/Fax ?913-8383"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.627197
+         ,"needs_recoding":"False"
+         ,"longitude":121.063374
+    }
+  },
+  {
+     "Hospital_Name":"Sunshine.Com Inc."
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"95 4th St., New Manila"
+    ,"Contact":"(02) 721 7767"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.615148
+         ,"needs_recoding":"False"
+         ,"longitude":121.03353
+    }
+  },
+  {
+     "Hospital_Name":"Sunrise Hill Therapeutic Community Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"20 11th St., New Manila"
+    ,"Contact":"(02) 724 6128"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.616958
+         ,"needs_recoding":"False"
+         ,"longitude":121.023175
+    }
+  },
+  {
+     "Hospital_Name":"Capitol Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"17 Panay Avenue"
+    ,"Contact":"Tel. ?938-7789/938-8882/Fax: 939-7229"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.631611
+         ,"needs_recoding":"False"
+         ,"longitude":121.019331
+    }
+  },
+  {
+     "Hospital_Name":"Dr. Fe Del Mundo Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"11 Banaue St."
+    ,"Contact":"(02) 712 0845"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.620645
+         ,"needs_recoding":"False"
+         ,"longitude":121.009388
+    }
+  },
+  {
+     "Hospital_Name":"United Doctors Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"6 N. Ramirez St."
+    ,"Contact":"Tel. 712-3640 to 49"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.616894
+         ,"needs_recoding":"False"
+         ,"longitude":121.00196
+    }
+  },
+  {
+     "Hospital_Name":"Roxas Community Medical Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"61 Sct. Chuatoco St, Diliman, Quezon City"
+    ,"Contact":"(02) 373 4860"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.628984
+         ,"needs_recoding":"False"
+         ,"longitude":121.022951
+    }
+  },
+  {
+     "Hospital_Name":"Christian Medical Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"22-B Madison, New Manila"
+    ,"Contact":"(02) 411 1452"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.613026
+         ,"needs_recoding":"False"
+         ,"longitude":121.031063
+    }
+  },
+  {
+     "Hospital_Name":"The Clinic of the Holy Spirit"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"4, Quezon City, 1100"
+    ,"Contact":"(02) 721 7180"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.659699
+         ,"needs_recoding":"False"
+         ,"longitude":121.034216
+    }
+  },
+  {
+     "Hospital_Name":"Bernardo Social Hygiene Clinic-Primary Care Hub"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"Bernardo Clinic, Quezon City, Metro Manila"
+    ,"Contact":"0915 701 6278"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.627913
+         ,"needs_recoding":"False"
+         ,"longitude":121.04664
+    }
+  },
+  {
+     "Hospital_Name":"Pendragon Veterinary Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"Ground Floor Amaremca Bldg. 107A Kalayaan avenue, Diliman"
+    ,"Contact":"(02) 436 3833"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.643609
+         ,"needs_recoding":"False"
+         ,"longitude":121.053859
+    }
+  },
+  {
+     "Hospital_Name":"EDMED Multispecialty Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"2nd Flr., RVC Bldg, 92 corner Anonas Road and K6 St., East Kamia"
+    ,"Contact":"(02) 435 7947"
+    ,"Email":"n/a"
+    ,"District":"4"
+    ,"location":{
+          "latitude":14.633817
+         ,"needs_recoding":"False"
+         ,"longitude":121.059219
+    }
+  }]

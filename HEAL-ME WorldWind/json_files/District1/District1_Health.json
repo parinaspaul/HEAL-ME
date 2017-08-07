@@ -1,0 +1,253 @@
+﻿[
+  {
+     "Hospital_Name":"Philippine Orthopedic Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"78-A Maria Clara St, Santa Mesa Heights, Quezon City, 1114 Metro Manila"
+    ,"Contact":"712-4602/711-4276 to 80/Fax: 712-4601"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.627444
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.004263
+    }
+  },
+  {
+     "Hospital_Name":"Quezon City General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"Seminary Road, EDSA"
+    ,"Contact":"455-4801/Fax 453-0928"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.661149
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.018132
+    }
+  },
+  {
+     "Hospital_Name":"Veterans Memorial Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"North Ave., Diliman, Quezon City"
+    ,"Contact":"927-6426 to 39/Fax 926-2437"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.653781
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.038358
+    }
+  },
+  {
+     "Hospital_Name":"Philippine Children’s Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"Quezon Ave., Quezon City"
+    ,"Contact":"924-6601 to 25/Fax: 924-0840"
+    ,"Email":"drlee@hiss.pcmc.org.ph"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.635176
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.023176
+    }
+  },
+  {
+     "Hospital_Name":"San Lorenzo Hospital Health Management Co"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Quirino Highway, Bgy. Pasong Putik Lagro, Novaliches"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.692606
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.029594
+    }
+  },
+  {
+     "Hospital_Name":"Dr. Montano G. Ramos Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Mindanao Avenue, Bahay Toro"
+    ,"Contact":"0905 557 7613"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.669378
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.033026
+    }
+  },
+  {
+     "Hospital_Name":"Q.C. St. Agnes General Hospital Inc"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"241 Roosevelt Ave San Francisco Del Monte"
+    ,"Contact":"374-2769/374-2772 to 73 (Dr. Marianito Abagon, Medical Director)"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.640133
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.016412
+    }
+  },
+  {
+     "Hospital_Name":"Excellent Community Care Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"141 Roosevelt St., Bgy. Paraiso San Francisco Del Monte"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.639462
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.017721
+    }
+  },
+  {
+     "Hospital_Name":"Dr. Montano G. Ramos General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"46 Bukidnon St., Bago Bantay"
+    ,"Contact":"927-6628/453-1377/Fax: 453-2453 / (0919) 288-7389"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.65962
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.023498
+    }
+  },
+  {
+     "Hospital_Name":"J.P. Sioson Gen. Hosp. and Colleges Inc."
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"75 Bukidnon St., Bago Bantay"
+    ,"Contact":"927-1339/927-5643/Fax: 455-4281"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.659852
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.025494
+    }
+  },
+  {
+     "Hospital_Name":"Sta. Teresita General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"100 Tuazon St"
+    ,"Contact":"Tel. 731-9803/731-7511/743-8770"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.624705
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.00235
+    }
+  },
+  {
+     "Hospital_Name":"Tolentino Community Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"Project 8, Quezon City, Metro Manila"
+    ,"Contact":"(02) 225 0695"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.676436
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.038233
+    }
+  },
+  {
+     "Hospital_Name":"FPOP Community Health Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":" 248 Brgy Tandang Sora, Basement, Tandang Sora Ave"
+    ,"Contact":"(02) 920 4223"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.676273
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.042206
+    }
+  },
+  {
+     "Hospital_Name":"Qualimed Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"U.P. Town Center, Katipunan Ave, Diliman, Quezon City"
+    ,"Contact":"(02) 962 4776"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.649517
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.075212
+    }
+  },
+  {
+     "Hospital_Name":"Myhealth Clinic Sm North Edsa"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"SM North Edsa North Link, North Link Access Road Quezon City"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.657626
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.029434
+    }
+  },
+  {
+     "Hospital_Name":"EXCELLENT Community Care Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":" Ernesto Porto, San Francisco del Monte"
+    ,"Contact":"(02) 514 5229"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.644282
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.013735
+    }
+  },
+  {
+     "Hospital_Name":"Mabuhay Chiropractic Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"Unit 552a, The Block Bldg., SM City North Edsa, North Avenue, Brgy. Sto Cristo 1"
+    ,"Contact":"(02) 351 8412"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.657194
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.026536
+    }
+  },
+  {
+     "Hospital_Name":"Children International (Quezon City) Inc. - Community Center 2 Vasra"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"Forestry, Vasra Diliman, Quezon City"
+    ,"Contact":"(02) 455 9237"
+    ,"Email":"n/a"
+    ,"District":"1"
+    ,"location":{
+          "latitude":14.659629
+         ,"needs_recoding":"FALSE"
+         ,"longitude":121.045705
+    }
+  }]

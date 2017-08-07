@@ -1,0 +1,188 @@
+[
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"No. 83 Quirino Highway Brgy. Balon Bato "
+    ,"District":"District 6"
+    ,"Barangay":"Balonbato"
+    ,"location":{
+    "latitude":14.664911
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.003583
+}
+  },
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"16 Tandang Sora Avenue"
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"location":{
+    "latitude":14.679639
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.020947
+}
+  },
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"16 Tandang Sora Avenue"
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"location":{
+    "latitude":14.732767
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052894
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":" Maximina Street Villa Arca Subd. Project 8"
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"location":{
+    "latitude":14.678702
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.08278
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"St. Joseph Street Milton Hills Subd. Bgy. New Era"
+    ,"District":"District 6"
+    ,"Barangay":"New Era"
+    ,"location":{
+    "latitude":14.658298
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019382
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"Lourdes Arcade No. 986 Tandang Sora Ave."
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"location":{
+    "latitude":14.73188
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048517
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"Lourdes Arcade No. 986 Tandang Sora Ave."
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"location":{
+    "latitude":14.735572
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.064778
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":" Maximina Street Villa Arca Subd. Project 8"
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"location":{
+    "latitude":14.671248
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.036998
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":" Maximina Street Villa Arca Subd. Project 8"
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"location":{
+    "latitude":14.706076
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.070594
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"2 Uranus Street Congressional Avenue Project 8"
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"location":{
+    "latitude":14.633758
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040061
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"Lourdes Arcade No. 986 Tandang Sora Ave."
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"location":{
+    "latitude":14.734253
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.054514
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"Lourdes Arcade No. 986 Tandang Sora Ave."
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"location":{
+    "latitude":14.620645
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047838
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"16 Tandang Sora Avenue"
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"location":{
+    "latitude":14.631798
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048737
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"Tanco-Cu Bldg. EDSA cor. Congressional Avenue"
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"location":{
+    "latitude":14.731247
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048126
+}
+  },
+  {
+     "Type_of_Training":"Caregiving"
+    ,"Training_Center":"Tanco-Cu Bldg. EDSA cor. Congressional Avenue"
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"location":{
+    "latitude":14.664433
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.021228
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"SK Hall Building Bahay Toro, Project 8"
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"location":{
+    "latitude":14.698952
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034274
+}
+  },
+  {
+     "Type_of_Training":"Dress Making"
+    ,"Training_Center":"SK Hall Building Bahay Toro, Project 8"
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"location":{
+    "latitude":14.663519
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.059153
+}
+  }]

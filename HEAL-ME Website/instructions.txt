@@ -1,0 +1,17 @@
+(Provided By PirateCity.NET)
+
+(iNSTRUCTIONS)
+
+Turn off internet connection. (important)
+install > adobe photoshop CC 2017 v18.0.0 trial setup (provided)
+After installation do not run photoshop cc (Close / Exit "if running")
+Run > amtemu.v0.9.1-painter.exe (as administrator) and select custom "option"
+
+Enter the following data after selecting custom option.
+	
+Application Name: Adobe Photoshop CC 2017
+Application LEID: Photoshop-CS7-Win-GM
+Version: 18.0.0
+
+Click install "option" > complete the operation.
+Do not update after patching (Block ALL (exe's) via firewall) > [Recommended]

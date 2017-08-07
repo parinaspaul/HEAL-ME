@@ -1,0 +1,30 @@
+Hospital_Name,Country,Type,Address,Contact,Email,District,latitude,needs_recoding,longitude
+AFP Medical Center,PHILIPPINES,Public,"V. Luna Ave, Diliman, Quezon City, 1100 Metro Manila",921-1753/426-2701/Fax: 921-1741,n/a,4,14.596853,False,121.067051
+Quezon Institute,PHILIPPINES,Public,"1113 E Rodriguez Sr. Ave, Quezon City, Metro Manila",(02) 781 3762,n/a,4,14.622081,False,121.025301
+PNP General Hospital (Main),PHILIPPINES,Public,"EDSA, Camp Crame, Quezon City",722-6850/ 722-0670,n/a,4,14.609145,False,121.053327
+National Children�s Hospital,PHILIPPINES,Public,"264 E. Rodriguez Sr. Blvd, New Manila, Lungsod Quezon, Kalakhang Maynila",(02) 724 0656,n/a,4,14.620452,False,121.020928
+East Avenue Medical Center,PHILIPPINES,Public,"East Avenue, Diliman, Quezon City",927-9900/928-0611,n/a,4,14.641184,False,121.046908
+National Kidney & Transplant Institute,PHILIPPINES,Public,"East Avenue, Quezon City",924-0701/Fax: 922-5608,n/a,4,14.641184,False,121.046908
+Philippine Heart Center,PHILIPPINES,Public,"East Avenue, Diliman, Quezon City 1110",Tel.  925-2401 to 50/922-0551/Telefax: 922-0551,director@phc.gov.ph,4,14.641184,False,121.046908
+UP Health Services,PHILIPPINES,Public,"J.P. Laurel St., UP Campus, Diliman",(02) 981 8500,n/a,4,14.659242,False,121.067846
+Lung Center of the Philippines,PHILIPPINES,Public,"Quezon Ave. Ext., Quezon City",927-5643/927-1339/Fax: 455-4281,n/a,4,14.648043,False,121.046065
+Estrellas Nex Care Co,PHILIPPINES,Private,"175 Kamias Road, Quirino",,n/a,4,14.631786,False,121.049427
+Full House Custodial Care Center,PHILIPPINES,Private,"150 K-6th St., East Kamias",(02) 922 3751,n/a,4,14.633792,False,121.058367
+Dr. Jesus C. Delgado Memorial Hospital,PHILIPPINES,Private,7 Kamuning Road,Tel: 924-4051 to 61/Fax: 928-5945,jdmh@skyinet.net,4,14.6277,False,121.034809
+Life Change Recovery Center Inc.,PHILIPPINES,Private,"105 Scout Rallos St., Bgy. Kamuning",(02) 415 6529,n/a,4,14.633055,False,121.040284
+The Clinic of the Holy Spirit Inc.,PHILIPPINES,Private,"4 Los Angeles St., Immaculate Concepcion",(02) 721 7180,n/a,4,14.624069,False,121.04269
+St. Luke�s Medical Center,PHILIPPINES,Private,279 E. Rodriguez Sr. Blvd,Tel.� 723-0101/Fax �724-4227,info@stluke.com.ph,4,14.622527,False,121.023238
+De Los Santos Medical Center,PHILIPPINES,Private,201 E. Rodriguez Sr. Blvd,(02) 893 5762,n/a,4,14.619821,False,121.017648
+UERM Memorial Medical Center,PHILIPPINES,Private,"Aurora Blvd., Quezon City",(02) 715 0861,n/a,4,14.62024,False,121.046889
+World Citi Medical Center,PHILIPPINES,Private,960 Aurora Blvd. Extension,Tel. 913-8380/Fax �913-8383,n/a,4,14.627197,False,121.063374
+Sunshine.Com Inc.,PHILIPPINES,Private,"95 4th St., New Manila",(02) 721 7767,n/a,4,14.615148,False,121.03353
+Sunrise Hill Therapeutic Community Hospital,PHILIPPINES,Private,"20 11th St., New Manila",(02) 724 6128,n/a,4,14.616958,False,121.023175
+Capitol Medical Center,PHILIPPINES,Private,17 Panay Avenue,Tel. �938-7789/938-8882/Fax: 939-7229,n/a,4,14.631611,False,121.019331
+Dr. Fe Del Mundo Medical Center,PHILIPPINES,Private,11 Banaue St.,(02) 712 0845,n/a,4,14.620645,False,121.009388
+United Doctors Medical Center,PHILIPPINES,Private,6 N. Ramirez St.,Tel. 712-3640 to 49,n/a,4,14.616894,False,121.00196
+Roxas Community Medical Clinic,PHILIPPINES,,"61 Sct. Chuatoco St, Diliman, Quezon City",(02) 373 4860,n/a,4,14.628984,False,121.022951
+Christian Medical Clinic,PHILIPPINES,,"22-B Madison, New Manila",(02) 411 1452,n/a,4,14.613026,False,121.031063
+The Clinic of the Holy Spirit,PHILIPPINES,,"4, Quezon City, 1100",(02) 721 7180,n/a,4,14.659699,False,121.034216
+Bernardo Social Hygiene Clinic-Primary Care Hub,PHILIPPINES,,"Bernardo Clinic, Quezon City, Metro Manila",0915 701 6278,n/a,4,14.627913,False,121.04664
+Pendragon Veterinary Clinic,PHILIPPINES,,"Ground Floor Amaremca Bldg. 107A Kalayaan avenue, Diliman",(02) 436 3833,n/a,4,14.643609,False,121.053859
+EDMED Multispecialty Clinic,PHILIPPINES,,"2nd Flr., RVC Bldg, 92 corner Anonas Road and K6 St., East Kamia",(02) 435 7947,n/a,4,14.633817,False,121.059219

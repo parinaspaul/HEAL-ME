@@ -1,0 +1,114 @@
+[
+ {
+   "Cases": "Dengue",
+   "Location": "NCR",
+   "Location_Num_Cases": 5252,
+   "Total_Cases": 43770,
+   "Deaths": 32
+ },
+ {
+   "Cases": "Measles",
+   "Location": "NCR",
+   "Location_Num_Cases": 206,
+   "Total_Cases": 1595,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Influenza",
+   "Location": "NCR",
+   "Location_Num_Cases": 216,
+   "Total_Cases": 30963,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Foot and Mouth",
+   "Location": "NCR",
+   "Location_Num_Cases": 135,
+   "Total_Cases": 1026,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Food and Water Borne",
+   "Location": "NCR",
+   "Location_Num_Cases": 68,
+   "Total_Cases": 8169,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Leptospirosis",
+   "Location": "NCR",
+   "Location_Num_Cases": 135,
+   "Total_Cases": 722,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Neonatal Tetanus",
+   "Location": "NCR",
+   "Location_Num_Cases": 1,
+   "Total_Cases": 31,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Diphtheria",
+   "Location": "NCR",
+   "Location_Num_Cases": 13,
+   "Total_Cases": 25,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Dengue",
+   "Location": "Others",
+   "Location_Num_Cases": 38486,
+   "Total_Cases": 43770,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Measles",
+   "Location": "Others",
+   "Location_Num_Cases": 1389,
+   "Total_Cases": 1595,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Influenza",
+   "Location": "Others",
+   "Location_Num_Cases": 30747,
+   "Total_Cases": 30963,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Foot and Mouth",
+   "Location": "Others",
+   "Location_Num_Cases": 891,
+   "Total_Cases": 1026,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Food and Water Borne",
+   "Location": "Others",
+   "Location_Num_Cases": 8101,
+   "Total_Cases": 8169,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Leptospirosis",
+   "Location": "Others",
+   "Location_Num_Cases": 587,
+   "Total_Cases": 722,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Neonatal Tetanus",
+   "Location": "Others",
+   "Location_Num_Cases": 30,
+   "Total_Cases": 31,
+   "Deaths": 0
+ },
+ {
+   "Cases": "Diphtheria",
+   "Location": "Others",
+   "Location_Num_Cases": 12,
+   "Total_Cases": 25,
+   "Deaths": 0
+ }
+]

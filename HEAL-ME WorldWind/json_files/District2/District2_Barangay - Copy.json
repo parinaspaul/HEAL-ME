@@ -1,0 +1,57 @@
+[ {
+  "Barangay" : "BAGONG SILANGAN  ",
+  "Country" : "PHILIPPINES",
+  "Address" : "A. Bonifacio St. ",
+  "Population": "88299",
+  "location" : {
+    "latitude" : "14.706505",
+    "needs_recoding" : false,
+    "longitude" : "121.05331"
+  }
+}
+, {
+  "Barangay" : " BATASAN HILLS ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Saret St., Sitio Talanay ",
+  "Population": "161409",
+  "location" : {
+    "latitude" : "14.686104",
+    "needs_recoding" : false,
+    "longitude" : "121.099351"
+  }
+}
+, {
+  "Barangay" : " COMMONWEALTH ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Commonwealth Ave., cor. Katuparan St. ",
+  "Population": "198285",
+  "location" : {
+    "latitude" : "14.696745",
+    "needs_recoding" : false,
+    "longitude" : "121.090912"
+  }
+}
+, {
+  "Barangay" : "HOLY SPIRIT ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Faustino St., (Annex) – San Simon Road ",
+  "Population": "110447",
+  "location" : {
+    "latitude" : "14.68367",
+    "needs_recoding" : false,
+    "longitude" : "121.075795"
+  }
+}
+, {
+  "Barangay" : "PAYATAS ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Bulacan St., Group 3, Area B ",
+  "Population": "130333",
+  "location" : {
+    "latitude" : "14.685021",
+    "needs_recoding" : false,
+    "longitude" : "121.090985"
+  }
+}
+
+]

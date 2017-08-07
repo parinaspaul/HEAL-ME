@@ -1,0 +1,29 @@
+[
+  {
+     "Hospital_Name":"Gen. Miguel Malvar Medical Foundation Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"531 Commonwealth Avenue"
+    ,"Contact":"(02) 932 8867"
+    ,"Email":"n/a"
+    ,"District":"2"
+    ,"location":{
+          "latitude":14.667328
+         ,"needs_recoding":"False"
+         ,"longitude":121.073205
+    }
+  },
+  {
+     "Hospital_Name":"Isidora Community Clinic and Lying In"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"De Leon Street, Holy Spirit , 1127"
+    ,"Contact":"(02) 385 9490"
+    ,"Email":"n/a"
+    ,"District":"2"
+    ,"location":{
+          "latitude":14.6849
+         ,"needs_recoding":"False"
+         ,"longitude":121.075646
+    }
+  }]

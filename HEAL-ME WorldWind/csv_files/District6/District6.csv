@@ -1,0 +1,13 @@
+Hospital_Name,Country,Type,Address,Contact,Email,Founded,location__latitude,location__needs_recoding,location__longitude,District
+Novaliches District Hospital,PHILIPPINES,Public,"Quirino Highway, San Bartolome, Novaliches, Quezon City",418-5987/418-5970 ,n/a,,14.703598,False,121.036985,6
+Novaliches General Hospital,PHILIPPINES,Private,"793 Quirino Highway, Gulod, Novaliches, Quezon City",936-1817/938-7840/Fax:418-5074,novagenhosp@tri_isys.com,,14.709467,False,121.038901,6
+Casaul General Hospital Inc.,PHILIPPINES,Private,"16 Tandang Sora Avenue, Novaliches",,n/a,,14.674436,False,121.047146,6
+Bernardino General Hospital Corporation,PHILIPPINES,Private,"680 Quirino Highway, San Bartolome, Novaliches, Quezon City", 418-6711/418-6684/Fax: 939-8050 ,n/a,,14.695336,False,121.031738,6
+Queensberry Hospital,PHILIPPINES,Private,"56 Ramirez St., Novaliches",(02) 417 5827,n/a,,14.723806,False,121.039794,6
+Word of Hope General Hospital Foundation Inc,PHILIPPINES,Private,"23 Buenamar Street, Buenamar Subd",(02) 417 9175,n/a,,14.719355,False,121.039035,6
+Ann Francis Mother & Child Hospital,PHILIPPINES,Private,606 Quirino Highway,938-9424/936-3256,n/a,,14.725003,False,121.041442,6
+Pascual General Hospital,PHILIPPINES,Private,"130 Baesa, Novaliches, Quezon City",Telefax: 362-5862,n/a,,14.665979,False,121.006702,6
+F.Y. Manalo Medical Foundation Inc,PHILIPPINES,Private,Commonwealth Ave. cor Tandang Sora,,n/a,,14.665753,False,121.070844,6
+F.Y. Manalo Medical Foundation Inc,PHILIPPINES,Private,Commonwealth Ave. cor Tandang Sora,,n/a,,14.665753,False,121.070844,6
+Overseas Contract Workers General Hospital,PHILIPPINES,Private,"39 Tandang Sora Avenue, Culiat St.",,n/a,,14.670622,False,121.051978,6
+Tandang Sora Multispecialty Clinic ,PHILIPPINES,,"285 Tandang Sora Ave, Quezon City ",,n/a,,14.676142,False,121.044197,6

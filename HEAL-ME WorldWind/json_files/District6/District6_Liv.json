@@ -1,0 +1,452 @@
+[
+  {
+     "Address":"102D Tandang Sora Ave. PAsong Tamo Quezon City, "
+    ,"District":"District 6"
+    ,"Barangay":"Pasong Tamo"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.674839
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.046534
+}
+  },
+  {
+     "Address":"#90 Gonzales Drive, Balonbato "
+    ,"District":"District 6"
+    ,"Barangay":"Balonbato"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.663434
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.003682
+}
+  },
+  {
+     "Address":"8 Marvex Drive, 1-C, Balintawak "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.650322
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.997315
+}
+  },
+  {
+     "Address":"794 A. Bonifacio Avenue, Balintawak "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.642609
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.993311
+}
+  },
+  {
+     "Address":"122 Old Samson Road, Balintawak "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.656396
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.008929
+}
+  },
+  {
+     "Address":"NLEX Compound, Balintawak "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.656835
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.999577
+}
+  },
+  {
+     "Address":"225 BANLAT ROAD TANDANG SORA "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.682736
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040555
+}
+  },
+  {
+     "Address":"24-B Joy street, Grace Village, Balintawak "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.726661
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.032793
+}
+  },
+  {
+     "Address":"75 Tandang Sora Avenue "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.73332
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052706
+}
+  },
+  {
+     "Address":"17 Production, G S I S, Project 8 "
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.614188
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.014779
+}
+  },
+  {
+     "Address":"951-953 A. Bonifacio Avenue, Balintawak "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.744485
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.077376
+}
+  },
+  {
+     "Address":"130 BBG Building Road 20, Project 8, "
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.59135
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.058414
+}
+  },
+  {
+     "Address":"# 48 Block 3 Lot 12 Servant of Charity HOA Brgy. Pasong Tamo,Tandang Sora "
+    ,"District":"District 6"
+    ,"Barangay":"Pasong Tamo"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.606737
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.08152
+}
+  },
+  {
+     "Address":"36A Embassy Terraces, Teodoro M Kalaw Avenue, Tandang Sora "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.647046
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.001178
+}
+  },
+  {
+     "Address":"Unit-B 195 Pluto St., Brgy. Bahay Toro, Project 8, "
+    ,"District":"District 6"
+    ,"Barangay":"Bahay Toro"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.630627
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047491
+}
+  },
+  {
+     "Address":"33 Republic Avenue West Fairview? "
+    ,"District":"District 6"
+    ,"Barangay":"Sauyo"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.636783
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.03633
+}
+  },
+  {
+     "Address":"Blk 2 Lot 2 Topaz st., San Pedro 6 Subd, Tandang Sora "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.643528
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.014463
+}
+  },
+  {
+     "Address":"203 Mindanao Avenue Extension, Project 8, "
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.637085
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.041528
+}
+  },
+  {
+     "Address":"130-C Road 20, Project 8 "
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.626204
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061168
+}
+  },
+  {
+     "Address":"323-A-2 Quirino Highway, Baesa "
+    ,"District":"District 6"
+    ,"Barangay":"Baesa"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.650696
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.062368
+}
+  },
+  {
+     "Address":"85 Howmart Road Road "
+    ,"District":"District 6"
+    ,"Barangay":"Baesa"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.63465
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.071117
+}
+  },
+  {
+     "Address":"#45 Diego Silang St. Pasong Tamo "
+    ,"District":"District 6"
+    ,"Barangay":"Pasong Tamo"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.640462
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.073386
+}
+  },
+  {
+     "Address":"Main Street, Convenience Plaza, Quirino Highway, Baesa "
+    ,"District":"District 6"
+    ,"Barangay":"Baesa"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.651929
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.053534
+}
+  },
+  {
+     "Address":"48 Howmart Road, Baesa "
+    ,"District":"District 6"
+    ,"Barangay":"Baesa"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.606912
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079003
+}
+  },
+  {
+     "Address":"7 Banlat Road, Tandang Sora "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.653373
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.053305
+}
+  },
+  {
+     "Address":"158 Tandang Sora "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.639103
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.006766
+}
+  },
+  {
+     "Address":"Unit A-5 Genito Apt. Tandang Sora, "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.649881
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028623
+}
+  },
+  {
+     "Address":"597 Quirini Hi-way Bagbag, Novaliches "
+    ,"District":"District 6"
+    ,"Barangay":"Bagbag"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.708206
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038751
+}
+  },
+  {
+     "Address":"15 VisayasAvenue, Tandang Sora, "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.68197
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.07958
+}
+  },
+  {
+     "Address":"668 Quirino Hi-way, Bagbag? "
+    ,"District":"District 6"
+    ,"Barangay":"Bagbag"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.640859
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.016584
+}
+  },
+  {
+     "Address":"339 Tandang Sora Ave "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.716332
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040733
+}
+  },
+  {
+     "Address":"#20 Kapiligas St., Araneta Subd., Bo. Imelda,? "
+    ,"District":"District 6"
+    ,"Barangay":"Sauyo"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.62349
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.031531
+}
+  },
+  {
+     "Address":"Unit F, Balite Bldg.,#26 20th Ave., Murphy Cubao "
+    ,"District":"District 6"
+    ,"Barangay":"Tandang Sora"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.728354
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.03779
+}
+  },
+  {
+     "Address":"78 Lorraine Street, Parkway Village, Balintawak, "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson "
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.676041
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.0437
+}
+  },
+  {
+     "Address":"145 Kaingin Road, "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson "
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.630155
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.011958
+}
+  },
+  {
+     "Address":"116 Sauyo Road "
+    ,"District":"District 6"
+    ,"Barangay":"Sauyo"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.731107
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047541
+}
+  },
+  {
+     "Address":"24-B Joy street, Grace Village, Balintawak "
+    ,"District":"District 6"
+    ,"Barangay":"Apolonio Samson "
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607586
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079893
+}
+  },
+  {
+     "Address":"37 Insurance St., Project 8 "
+    ,"District":"District 6"
+    ,"Barangay":"Sangandaan"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.644371
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.027819
+}
+  },
+  {
+     "Address":"9/F, Lansbersh Bldg. #170 Tomas Morato, "
+    ,"District":"District 6"
+    ,"Barangay":"Sauyo"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.647742
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.073251
+}
+  },
+  {
+     "Address":"207 J.P Ramoy St. Libis, Talipapa, Novaliches, 207 J.P Ramoy St. Libis, Talipapa "
+    ,"District":"District 6"
+    ,"Barangay":"Talipapa"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.667803
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.07347
+}
+  },
+  {
+     "Address":"Unit 1, 21B Monarda st. St. Dominic 9 "
+    ,"District":"District 6"
+    ,"Barangay":"Talipapa"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.67166
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040946
+}
+  }]

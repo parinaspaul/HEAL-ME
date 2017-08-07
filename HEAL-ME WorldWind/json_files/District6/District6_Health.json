@@ -1,0 +1,169 @@
+[
+  {
+     "Hospital_Name":"Novaliches District Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"Quirino Highway, San Bartolome, Novaliches, Quezon City"
+    ,"Contact":"418-5987/418-5970"
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.703598
+         ,"needs_recoding":"False"
+         ,"longitude":121.036985
+    }
+  },
+  {
+     "Hospital_Name":"Novaliches General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"793 Quirino Highway, Gulod, Novaliches, Quezon City"
+    ,"Contact":"936-1817/938-7840/Fax:418-5074"
+    ,"Email":"novagenhosp@tri_isys.com"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.709467
+         ,"needs_recoding":"False"
+         ,"longitude":121.038901
+    }
+  },
+  {
+     "Hospital_Name":"Casaul General Hospital Inc."
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"16 Tandang Sora Avenue, Novaliches"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.674436
+         ,"needs_recoding":"False"
+         ,"longitude":121.047146
+    }
+  },
+  {
+     "Hospital_Name":"Bernardino General Hospital Corporation"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"680 Quirino Highway, San Bartolome, Novaliches, Quezon City"
+    ,"Contact":"418-6711/418-6684/Fax: 939-8050"
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.695336
+         ,"needs_recoding":"False"
+         ,"longitude":121.031738
+    }
+  },
+  {
+     "Hospital_Name":"Queensberry Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"56 Ramirez St., Novaliches"
+    ,"Contact":"(02) 417 5827"
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.723806
+         ,"needs_recoding":"False"
+         ,"longitude":121.039794
+    }
+  },
+  {
+     "Hospital_Name":"Word of Hope General Hospital Foundation Inc"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"23 Buenamar Street, Buenamar Subd"
+    ,"Contact":"(02) 417 9175"
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.719355
+         ,"needs_recoding":"False"
+         ,"longitude":121.039035
+    }
+  },
+  {
+     "Hospital_Name":"Ann Francis Mother & Child Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"606 Quirino Highway"
+    ,"Contact":"938-9424/936-3256"
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.725003
+         ,"needs_recoding":"False"
+         ,"longitude":121.041442
+    }
+  },
+  {
+     "Hospital_Name":"Pascual General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"130 Baesa, Novaliches, Quezon City"
+    ,"Contact":"Telefax: 362-5862"
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.665979
+         ,"needs_recoding":"False"
+         ,"longitude":121.006702
+    }
+  },
+  {
+     "Hospital_Name":"F.Y. Manalo Medical Foundation Inc"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Commonwealth Ave. cor Tandang Sora"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.665753
+         ,"needs_recoding":"False"
+         ,"longitude":121.070844
+    }
+  },
+  {
+     "Hospital_Name":"F.Y. Manalo Medical Foundation Inc"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Commonwealth Ave. cor Tandang Sora"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.665753
+         ,"needs_recoding":"False"
+         ,"longitude":121.070844
+    }
+  },
+  {
+     "Hospital_Name":"Overseas Contract Workers General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"39 Tandang Sora Avenue, Culiat St."
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.670622
+         ,"needs_recoding":"False"
+         ,"longitude":121.051978
+    }
+  },
+  {
+     "Hospital_Name":"Tandang Sora Multispecialty Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"285 Tandang Sora Ave, Quezon City"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"6"
+    ,"location":{
+          "latitude":14.676142
+         ,"needs_recoding":"False"
+         ,"longitude":121.044197
+    }
+  }]

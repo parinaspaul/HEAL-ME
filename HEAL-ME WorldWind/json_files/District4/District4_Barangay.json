@@ -1,0 +1,457 @@
+[ {
+  "Barangay" : "BAGONG LIPUNAN NG CRAME ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#57 1st Ave., Cubao ",
+  "Population": "14996",
+  "location" : {
+    "latitude" : "14.660414",
+    "needs_recoding" : false,
+    "longitude" : "121.04011"
+  }
+}
+,
+{
+  "Barangay" : "BOTOCAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Makadios St. ",
+  "Population": "8234",
+  "location" : {
+    "latitude" : "14.637102",
+    "needs_recoding" : false,
+    "longitude" : "121.06195"
+  }
+}
+,
+{
+  "Barangay" : "CENTRAL ",
+  "Country" : "PHILIPPINES",
+  "Address" : "QC Hall Compound ",
+  "Population": "17590",
+  "location" : {
+    "latitude" : "14.646412",
+    "needs_recoding" : false,
+    "longitude" : "121.05005"
+  }
+}
+,
+{
+  "Barangay" : "DAMAYANG LAGI ",
+  "Country" : "PHILIPPINES",
+  "Address" : "La Felonila cor. E. Rodriguez Sr. Ave. ",
+  "Population": "18599",
+  "location" : {
+    "latitude" : "14.619177",
+    "needs_recoding" : false,
+    "longitude" : "121.020096"
+  }
+}
+,
+{
+  "Barangay" : "DON MANUEL ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Matimyas cor. Data St. ",
+  "Population": "3753",
+  "location" : {
+    "latitude" : "14.616477",
+    "needs_recoding" : false,
+    "longitude" : "121.005433"
+  }
+}
+,
+{
+  "Barangay" : "DOÑA AURORA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "N. Ponce St., cor. Luskot St. ",
+  "Population": "5636",
+  "location" : {
+    "latitude" : "14.615616",
+    "needs_recoding" : false,
+    "longitude" : "121.00873"
+  }
+}
+,
+{
+  "Barangay" : "DOÑA IMELDA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#145 Bayani St. cor. Guirayan St. ",
+  "Population": "",
+  "location" : {
+    "latitude" : "14.615142",
+    "needs_recoding" : false,
+    "longitude" : "121.017644"
+  }
+}
+,
+{
+  "Barangay" : "DOÑA JOSEFA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Agno cor. Kitanlad St. ",
+  "Population": "16915",
+  "location" : {
+    "latitude" : "14.618932",
+    "needs_recoding" : false,
+    "longitude" : "121.004932"
+  }
+}
+,
+{
+  "Barangay" : "HORSESHOE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Sunset Drive Horseshoe Village ",
+  "Population": "3004",
+  "location" : {
+    "latitude" : "14.610968",
+    "needs_recoding" : false,
+    "longitude" : "121.043594"
+  }
+}
+,
+{
+  "Barangay" : "IMMACULATE CONCEPCION ",
+  "Country" : "PHILIPPINES",
+  "Address" : "1734 Rm. 304, Sujeco Bldg., E. Rodriguez Sr. Ave ",
+  "Population": "8670",
+  "location" : {
+    "latitude" : "14.623297",
+    "needs_recoding" : false,
+    "longitude" : "121.044317"
+  }
+}
+,
+{
+  "Barangay" : "KALUSUGAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "19th St., cor. Sta. Ignacia St., New Manila ",
+  "Population": "1745",
+  "location" : {
+    "latitude" : "14.625613",
+    "needs_recoding" : false,
+    "longitude" : "121.022613"
+  }
+}
+,
+{
+  "Barangay" : "KAMUNING ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#113 Kamuning Road ",
+  "Population": "15661",
+  "location" : {
+    "latitude" : "14.630182",
+    "needs_recoding" : false,
+    "longitude" : "121.04373"
+  }
+}
+,
+{
+  "Barangay" : "KAUNLARAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#156 N. Domingo St., Cubao ",
+  "Population": "21513",
+  "location" : {
+    "latitude" : "14.616034",
+    "needs_recoding" : false,
+    "longitude" : "121.041887"
+  }
+}
+,
+{
+  "Barangay" : "KRISTONG HARI ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Doña Juana Rodriguez St. ",
+  "Population": "4089",
+  "location" : {
+    "latitude" : "14.61751",
+    "needs_recoding" : false,
+    "longitude" : "121.029443"
+  }
+}
+,
+{
+  "Barangay" : "KRUS NA LIGAS ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Plaza Sta. Inez ",
+  "Population": "21513",
+  "location" : {
+    "latitude" : "14.644274",
+    "needs_recoding" : false,
+    "longitude" : "121.063846"
+  }
+}
+,
+{
+  "Barangay" : "LAGING HANDA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "73 Sct. Gandia St., cor. Sct. Tuazon St. ",
+  "Population": "6750",
+  "location" : {
+    "latitude" : "14.632157",
+    "needs_recoding" : false,
+    "longitude" : "121.032822"
+  }
+}
+,
+{
+  "Barangay" : "MALAYA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Dead end of Matahimik St. ",
+  "Population": "4109",
+  "location" : {
+    "latitude" : "14.634249",
+    "needs_recoding" : false,
+    "longitude" : "121.055166"
+  }
+}
+,
+{
+  "Barangay" : "MARIANA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#122 4th St. cor New Jersey St., New Manila ",
+  "Population": "11227",
+  "location" : {
+    "latitude" : "14.617148",
+    "needs_recoding" : false,
+    "longitude" : "121.036865"
+  }
+}
+,
+{
+  "Barangay" : "OBRERO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Parkway Cor. T. Morato Ave. ",
+  "Population": "8269",
+  "location" : {
+    "latitude" : "14.626404",
+    "needs_recoding" : false,
+    "longitude" : "121.033477"
+  }
+}
+,
+{
+  "Barangay" : "OLD CAPITOL SITE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Matiwasay cor. Masaya Ext. ",
+  "Population": "1192",
+  "location" : {
+    "latitude" : "14.64961",
+    "needs_recoding" : false,
+    "longitude" : "121.054853"
+  }
+}
+,
+{
+  "Barangay" : "PALIGSAHAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "A. Roces Ave. beside Glori Supermarket ",
+  "Population": "5611",
+  "location" : {
+    "latitude" : "14.630107",
+    "needs_recoding" : false,
+    "longitude" : "121.027739"
+  }
+}
+,
+{
+  "Barangay" : "PINAGKAISAHAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Ermin Garcia St. beside Ramon Magsaysay High School, Cubao ",
+  "Population": "6929",
+  "location" : {
+    "latitude" : "14.627374",
+    "needs_recoding" : false,
+    "longitude" : "121.047405"
+  }
+}
+,
+{
+  "Barangay" : "PINYAHAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Malakas St. back of LTO ",
+  "Population": "27653",
+  "location" : {
+    "latitude" : "14.63907",
+    "needs_recoding" : false,
+    "longitude" : "121.048441"
+  }
+}
+,
+{
+  "Barangay" : "ROXAS ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Jasmin St., cor. Madre Silva St. ",
+  "Population": "16060",
+  "location" : {
+    "latitude" : "14.628252",
+    "needs_recoding" : false,
+    "longitude" : "121.021909"
+  }
+}
+,
+{
+  "Barangay" : "SACRED HEART ",
+  "Country" : "PHILIPPINES",
+  "Address" : "17-C Scout Ybardolaza St. ",
+  "Population": "8282",
+  "location" : {
+    "latitude" : "14.630017",
+    "needs_recoding" : false,
+    "longitude" : "121.037631"
+  }
+}
+,
+{
+  "Barangay" : "SAN ISIDRO GALAS ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Unang Hakbang St., Galas ",
+  "Population": "8578",
+  "location" : {
+    "latitude" : "14.611256",
+    "needs_recoding" : false,
+    "longitude" : "121.009748"
+  }
+}
+,
+{
+  "Barangay" : "SAN MARTIN DE PORRES ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Conrado Benitez St. ",
+  "Population": "12315",
+  "location" : {
+    "latitude" : "14.64701",
+    "needs_recoding" : false,
+    "longitude" : "121.033818"
+  }
+}
+,
+{
+  "Barangay" : "SAN VICENTE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Maayusin Ext. ",
+  "Population": "7274",
+  "location" : {
+    "latitude" : "14.652618",
+    "needs_recoding" : false,
+    "longitude" : "121.057061"
+  }
+}
+,
+{
+  "Barangay" : "SANTOL ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#60 Silencio cor. Baloy St. ",
+  "Population": "7548",
+  "location" : {
+    "latitude" : "14.613447",
+    "needs_recoding" : false,
+    "longitude" : "121.017231"
+  }
+}
+,
+{
+  "Barangay" : "SIKATUNA VILLAGE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Alley 80 V. Luna Ext. (beside Glori Supermarket) ",
+  "Population": "6996",
+  "location" : {
+    "latitude" : "14.635862",
+    "needs_recoding" : false,
+    "longitude" : "121.059201"
+  }
+}
+,
+{
+  "Barangay" : "SOUTH TRIANGLE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Scout Bayoran ",
+  "Population": "15546",
+  "location" : {
+    "latitude" : "14.638128",
+    "needs_recoding" : false,
+    "longitude" : "121.035487"
+  }
+}
+,
+{
+  "Barangay" : "STO. NIÑO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "San Isidro cor. Santol St. ",
+  "Population": "10278",
+  "location" : {
+    "latitude" : "14.611387",
+    "needs_recoding" : false,
+    "longitude" : "121.013054"
+  }
+}
+,
+{
+  "Barangay" : "TATALON ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Cabalata St. ",
+  "Population": "63129",
+  "location" : {
+    "latitude" : "14.623182",
+    "needs_recoding" : false,
+    "longitude" : "121.013248"
+  }
+}
+,
+{
+  "Barangay" : "TEACHERS' VILLAGE EAST ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Maginhawa cor. Masinsinan St. ",
+  "Population": "3401",
+  "location" : {
+    "latitude" : "14.645364",
+    "needs_recoding" : false,
+    "longitude" : "121.060882"
+  }
+}
+,
+{
+  "Barangay" : "TEACHERS' VILLAGE WEST ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#49 Mahinhin St. ",
+  "Population": "4270",
+  "location" : {
+    "latitude" : "14.645452",
+    "needs_recoding" : false,
+    "longitude" : "121.05563"
+  }
+}
+,
+{
+  "Barangay" : "UP CAMPUS ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Amorsolo Civic Complex, CP Garcia Ave. ",
+  "Population": "45520",
+  "location" : {
+    "latitude" : "14.647973",
+    "needs_recoding" : false,
+    "longitude" : "121.066145"
+  }
+}
+,
+{
+  "Barangay" : "UP VILLAGE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Maayusin cor. Mapayapa St. ",
+  "Population": "5157",
+  "location" : {
+    "latitude" : "14.647284",
+    "needs_recoding" : false,
+    "longitude" : "121.058775"
+  }
+}
+,
+{
+  "Barangay" : "VALENCIA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#164ÂÂ  Santolan Road ",
+  "Population": "8547",
+  "location" : {
+    "latitude" : "14.608787",
+    "needs_recoding" : false,
+    "longitude" : "121.046335"
+  }
+}
+
+]

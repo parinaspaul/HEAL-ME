@@ -1,0 +1,141 @@
+[
+  {
+     "Hospital_Name":"Bernardino General Hospital II"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Block 1 Lot Zabarte Rd. Brgy., 2 Olympus, Novaliches, Quezon City, Metro Manila"
+    ,"Contact":"(02) 418 6684"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.739742
+         ,"needs_recoding":"False"
+         ,"longitude":121.04675
+    }
+  },
+  {
+     "Hospital_Name":"Cruz-Dalida Maternity Hospital Inc"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"1025 F. Salvador Ave Jordan Plains Subd Bgy Santa Monic"
+    ,"Contact":"417-4080/Fax: 936-6135"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.724238
+         ,"needs_recoding":"False"
+         ,"longitude":121.047287
+    }
+  },
+  {
+     "Hospital_Name":"Nodado General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"23 Zabarte Road Kaligayan"
+    ,"Contact":"(02) 937 1485"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.738316
+         ,"needs_recoding":"False"
+         ,"longitude":121.047242
+    }
+  },
+  {
+     "Hospital_Name":"DIHMESCO General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"215 Gen. Luis Street, San Agustin , San Agustin , 1117 Quezon City , Metro Manila, Novaliches, Quezon City, Metro Manila"
+    ,"Contact":"(02) 937 4552"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.722041
+         ,"needs_recoding":"False"
+         ,"longitude":121.035899
+    }
+  },
+  {
+     "Hospital_Name":"Valdez-Padron Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"12 Marianito St., Gulod, Novaliches, Quezon City"
+    ,"Contact":"Tel.  419-9339"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.708397
+         ,"needs_recoding":"False"
+         ,"longitude":121.03966
+    }
+  },
+  {
+     "Hospital_Name":"Neopolitan General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Flordeliza Bldg., KM 23 Quirino Highway Lagro, Novaliches, Quezon City"
+    ,"Contact":"936-4575 to 76"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.735265
+         ,"needs_recoding":"False"
+         ,"longitude":121.068683
+    }
+  },
+  {
+     "Hospital_Name":"FEU-Nicanor Reyes Medical Foundation Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Regalado Ave., West Fairview, Quezon City 1108"
+    ,"Contact":"427-0213/938-4881/Fax: 938-4881"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.699865
+         ,"needs_recoding":"False"
+         ,"longitude":121.067706
+    }
+  },
+  {
+     "Hospital_Name":"Fairview General Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"Lot 20 Fairview Ave., cor. Mercury St., Brgy. Fairview, Capitol District,Quezon City"
+    ,"Contact":"939-9689/Fax: 938-4796"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.671402
+         ,"needs_recoding":"False"
+         ,"longitude":121.035894
+    }
+  },
+  {
+     "Hospital_Name":"Newman Homecare and Rehabilitation Center Inc"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"37, Fairlane Street, corner Coronet Street, Fairview Park, Quezon City, 1118 Metro Manila"
+    ,"Contact":"(02) 431 5059"
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.70269
+         ,"needs_recoding":"False"
+         ,"longitude":121.065545
+    }
+  },
+  {
+     "Hospital_Name":"North Fairview Health Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"9 Avon, Novaliches, Quezon City"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"5"
+    ,"location":{
+          "latitude":14.708616
+         ,"needs_recoding":"False"
+         ,"longitude":121.065018
+    }
+  }]

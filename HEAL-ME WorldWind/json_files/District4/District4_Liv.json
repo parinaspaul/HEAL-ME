@@ -1,0 +1,1068 @@
+[
+  {
+     "Address":"Unit 305, Cabrera 2 Building, 65 Timog Avenue"
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.63495
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034637
+}
+  },
+  {
+     "Address":"695 EDSA Cubao Brgy. Immaculate Concepcion "
+    ,"District":"District 4"
+    ,"Barangay":"Immaculate Conception "
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.623737
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048881
+}
+  },
+  {
+     "Address":"3F DN Corporate Center, 1388 Quezon Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.638205
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028632
+}
+  },
+  {
+     "Address":"Unit 3G Nordstrum Residences, No. 96 Malakas St. corner Matapang St., Barangay Pinyahan "
+    ,"District":"District 4"
+    ,"Barangay":"Pinyahan"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.640213
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048839
+}
+  },
+  {
+     "Address":"#31 J. Escaler Street, Loyola Heights"
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.6448
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.07429
+}
+  },
+  {
+     "Address":"2nd Floor TIMOG Building, #28 Eugenio Lopez Street "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.676041
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.0437
+}
+  },
+  {
+     "Address":"33 Rosario Drive, Cubao "
+    ,"District":"District 4"
+    ,"Barangay":"Mariana"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.620115
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.042019
+}
+  },
+  {
+     "Address":"#22 Scout Santiago Street "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.637135
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.02855
+}
+  },
+  {
+     "Address":"155 Panay Avenue, South Triangle "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.639743
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.032775
+}
+  },
+  {
+     "Address":"283 Katipunan Road, Loyola Heights "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.638358
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.074433
+}
+  },
+  {
+     "Address":"No.26 N. Domingo St., Barangay Valencia "
+    ,"District":"District 4"
+    ,"Barangay":"Valencia"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.611629
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.035153
+}
+  },
+  {
+     "Address":"319 Verde De Oro Building, 535 Commonwealth Avenue, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.667726
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.073144
+}
+  },
+  {
+     "Address":"Unit 206 blupoint bldg. 106 kamuning Rd "
+    ,"District":"District 4"
+    ,"Barangay":"Kamuning"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.629745
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.042997
+}
+  },
+  {
+     "Address":"Unit 2 Up-Ayala Technology Park, C.P. Garcia Corner Katipunan Ave., Barangay U.P "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.71026
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.026268
+}
+  },
+  {
+     "Address":"Goldquest Bldg 59-B Panay Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.646218
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.027693
+}
+  },
+  {
+     "Address":"Asiacor Bldg., 159 Bonny Serrano Corp "
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.637182
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028887
+}
+  },
+  {
+     "Address":"17-C De Guia Street, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.622577
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.045893
+}
+  },
+  {
+     "Address":"Unit 119 Sjb Condominium, 130-B Panay Avenue, South Triangle, "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.709449
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.075895
+}
+  },
+  {
+     "Address":"160-A Panay Avenue, "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.640469
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034214
+}
+  },
+  {
+     "Address":"88-5 Scout Castor, Laging Handa "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.678519
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.027321
+}
+  },
+  {
+     "Address":"708 Peace Street, Tandang Sora, Old Balara, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.6429
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038035
+}
+  },
+  {
+     "Address":"?Verde Oro Building, 535 Commonwealth Avenue, Diliman, Balara "
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.629404
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.032933
+}
+  },
+  {
+     "Address":"42 Santo Domingo Street "
+    ,"District":"District 4"
+    ,"Barangay":"Valencia"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.683415
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.104338
+}
+  },
+  {
+     "Address":"4 Scout De Guia Street "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.641856
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.998249
+}
+  },
+  {
+     "Address":"Madiac Street, Santol "
+    ,"District":"District 4"
+    ,"Barangay":"Donya Aurora"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.64413
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048379
+}
+  },
+  {
+     "Address":"No. 29 North Avenue, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.704587
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.03465
+}
+  },
+  {
+     "Address":"89 A Don Manuel St. Maharlika "
+    ,"District":"District 4"
+    ,"Barangay":"UP Village"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.662439
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.036996
+}
+  },
+  {
+     "Address":"Scout Tobias corner Marathon Street, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.621313
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.058973
+}
+  },
+  {
+     "Address":"Unit 201 Puno Building 47 Kalayaan Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.629075
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.029681
+}
+  },
+  {
+     "Address":"21b Nicanor Roxas St. San Isidro Labrador, "
+    ,"District":"District 4"
+    ,"Barangay":"San Isidro Galas"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.671624
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.033186
+}
+  },
+  {
+     "Address":"Symphony Tower One, Sgt. Esguerra "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.620871
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061477
+}
+  },
+  {
+     "Address":"Unit 2-I MVJ Building, Scout Borromeo, South Triangle, "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.637994
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.054677
+}
+  },
+  {
+     "Address":"60 Scout Borromeo Street, "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.622317
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.997805
+}
+  },
+  {
+     "Address":"Unit I 3rd Floor 98 V.Luna Ext., Sikatuna Village,Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Sikatuna Village"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.62502
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.057796
+}
+  },
+  {
+     "Address":"601 Futurepoint Plaza I 112 Panay Ave. South Triangle "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.622317
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.997805
+}
+  },
+  {
+     "Address":"2/F FSS Building, 20 Scout Tuazon corner Scout Castor Streets, Barangay Laging Handa "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.707114
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.041959
+}
+  },
+  {
+     "Address":"Unit 11B-3 Francesca Towers, EDSA corner Sct. Borromeo Street, Barangay South Triangle "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.665081
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.020629
+}
+  },
+  {
+     "Address":"16 Masikap, NCR "
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.629723
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.032082
+}
+  },
+  {
+     "Address":"17-e Marathon Street, Obrero "
+    ,"District":"District 4"
+    ,"Barangay":"Obrero"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.6256
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.99084
+}
+  },
+  {
+     "Address":"233 Tomas Morato Avenue, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.628024
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.057848
+}
+  },
+  {
+     "Address":"107 Kamuning Road "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.642159
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.033774
+}
+  },
+  {
+     "Address":"2nd Flr. Virata Hall. Emilio Jacinto St., UP Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.672867
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079015
+}
+  },
+  {
+     "Address":"Unit 301 Loyola Heights Condominium Esteban Abada "
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.636458
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.021325
+}
+  },
+  {
+     "Address":"FIMAR Arcade, #34 Commonwealth Avenue corner Masaya Street, UP Village "
+    ,"District":"District 4"
+    ,"Barangay":"UP Village"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.684053
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.070168
+}
+  },
+  {
+     "Address":"#142A Ground Floor, Armons Building, Kamias Road corner Anonas Road "
+    ,"District":"District 4"
+    ,"Barangay":"Sikatuna Village"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.705678
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038167
+}
+  },
+  {
+     "Address":"G/F Citimall, #1 Commonwealth Avenue, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.65207
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.99724
+}
+  },
+  {
+     "Address":"79 Scout Tuazon St., Brgy. South Triangle "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.634455
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.058912
+}
+  },
+  {
+     "Address":"Eugenio Lopez Jr., Communcations Center Sgt., E.A. Esguerra Ave., cor Mother Ignacia St "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.64007
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.991332
+}
+  },
+  {
+     "Address":"G/F Vinzons Hall, UP Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.634798
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.008609
+}
+  },
+  {
+     "Address":"12 Data Street, Don Manuel "
+    ,"District":"District 4"
+    ,"Barangay":"Donya Aurora"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.639324
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.035688
+}
+  },
+  {
+     "Address":"Penthouse, CTTM Square Bldg., 68 Timog Ave. cor. Tomas Morato st., Sacred Heart "
+    ,"District":"District 4"
+    ,"Barangay":"Sacred Heart"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.668451
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034857
+}
+  },
+  {
+     "Address":"1st and 2nd Level Pasda Mansion Bldg. #4 Timog Ave. Cor Panay Ave "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.671663
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079486
+}
+  },
+  {
+     "Address":"69 Scout Rallos St., Tomas Morato "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.634129
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038862
+}
+  },
+  {
+     "Address":"71-C Timog Avenue, "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.65596
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.030237
+}
+  },
+  {
+     "Address":"3-A V., Luna Ext. Sikatuna Vill. "
+    ,"District":"District 4"
+    ,"Barangay":"Sikatuna Village"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.633821
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.0402
+}
+  },
+  {
+     "Address":"Unit D Cortez Building, 265 Tomas Morato, "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.655774
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.027732
+}
+  },
+  {
+     "Address":"2/F SM Centerpoint, Ramon Magsaysay Corner Araneta Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"Pinagkaisahan"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.634956
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.013392
+}
+  },
+  {
+     "Address":"85 Timog Avenue 1550 "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.623804
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.044356
+}
+  },
+  {
+     "Address":"1328 Quezon Avenue Corner Scout Santiago "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.661289
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019805
+}
+  },
+  {
+     "Address":"G/F MJB Bldg. 220 Tomas Morato Avenue cor. Dr. Lazcano "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.633814
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.04023
+}
+  },
+  {
+     "Address":"2/F Victoria Towers, 78 Timog Avenue corner Panay Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.590416
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.060801
+}
+  },
+  {
+     "Address":"Unit 8 Landsdale Arcade Timog Avenue, "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.621087
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.054731
+}
+  },
+  {
+     "Address":"92 A Masikap Ext. St. Brgy. Central Diliman, "
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.673626
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049027
+}
+  },
+  {
+     "Address":"117-D Anonas Extension? "
+    ,"District":"District 4"
+    ,"Barangay":"Sikatuna Village"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.612124
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.070513
+}
+  },
+  {
+     "Address":"I.D.O Building, No 79 Dona Hemady St, New Manila "
+    ,"District":"District 4"
+    ,"Barangay":"Mariana"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.644714
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052052
+}
+  },
+  {
+     "Address":"#24 Kabignayan cor. Banawe St "
+    ,"District":"District 4"
+    ,"Barangay":"Donya Aurora"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.7031
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.056
+}
+  },
+  {
+     "Address":"64 Sct. Rallos cor. T. Morato? "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.6202
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.00972
+}
+  },
+  {
+     "Address":"825 E. delos Santos Ave "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.628905
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.000128
+}
+  },
+  {
+     "Address":"Unit 03 Open TBI Building, DOST ASTI Technology Complex, CP Garcia Avenue, UP Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.618322
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052035
+}
+  },
+  {
+     "Address":"25 Scout Rallos, Laging Handa, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.65704
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.018167
+}
+  },
+  {
+     "Address":"Unit 2-B 2nd Floor Francesca Tower, Scout Boromeo St. GMA Kamuning "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.630819
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.071779
+}
+  },
+  {
+     "Address":"Unit 2 Up-Ayala Technology Park, C.P. Garcia Corner Katipunan Ave., Barangay U.P. Campus, "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.634941
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.031387
+}
+  },
+  {
+     "Address":"Terrazzo LG03-04. Tomas Morato cor Scout Madrinan "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607585
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080445
+}
+  },
+  {
+     "Address":"2/F Goldquest Bldg 59-B Panay Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.636209
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.035336
+}
+  },
+  {
+     "Address":"Unit 4 Open TBI-ASTI Cpmd. CP Garcia Avenue UP Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.705678
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038167
+}
+  },
+  {
+     "Address":"Unit 3 UP-Ayala Technp Park, C.P. Garcia corner Katipunan Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.645131
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.017224
+}
+  },
+  {
+     "Address":"Unit 208 Xanland Place Condominium 323 Katipunan Avenue, Loyola Heights "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.64781
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.07324
+}
+  },
+  {
+     "Address":"Burgundy Plaza Loyola Heights "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.647884
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028099
+}
+  },
+  {
+     "Address":"3C Champaca Street Roxas District "
+    ,"District":"District 4"
+    ,"Barangay":"Paligsahan"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.632071
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.054774
+}
+  },
+  {
+     "Address":"Mayon Corporate Centre No. 60 Mayon St. "
+    ,"District":"District 4"
+    ,"Barangay":"Donya Aurora"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.623681
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.050857
+}
+  },
+  {
+     "Address":"Suite 511 Pasda Mansions 77 Panay Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.5616
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.033997
+}
+  },
+  {
+     "Address":"2/F 265 P. Cortez Bldg. Tomas Morato cor Sct. Fernandez St "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Address":"Unit 6 UP Ayala Technopark CP Garcia cor. Katipunan Ave "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.64618
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.020111
+}
+  },
+  {
+     "Address":"1487 Universal Tower Building, "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.632506
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.035306
+}
+  },
+  {
+     "Address":"TBI Bldg. UP-Ayala Technopark, CP Garcia Corner Katipunan Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607586
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079893
+}
+  },
+  {
+     "Address":"Unit 1 UP-Ayala Technopark C.P Garcia, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607587
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079809
+}
+  },
+  {
+     "Address":"UP-Ayala Technopark, C.P.Garcia Avenue, Diliman CP Garcia Ave "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.64781
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.07324
+}
+  },
+  {
+     "Address":"Unit 5-D, 5/F One Burgundy Plaza, 307 Katipunan Avenue, Loyola Heights, "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.616595
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.077221
+}
+  },
+  {
+     "Address":"Unit 2-B 2nd Floor Francesca Tower, Scout Boromeo St. GMA Kamuning? "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.620871
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061477
+}
+  },
+  {
+     "Address":"Terrazzo LG03-04. Tomas Morato cor Scout Madrinan "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.627447
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.01409
+}
+  },
+  {
+     "Address":"2/F Goldquest Bldg 59-B Panay Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"South Triangle"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.657151
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019515
+}
+  },
+  {
+     "Address":"Suite 317, P.B. Dionisio Building, 27 Don Alejandro Roces Avenue "
+    ,"District":"District 4"
+    ,"Barangay":"Laging Handa"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.635948
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.035459
+}
+  },
+  {
+     "Address":"2F Puno Bldg Annex, 47 Kalayaan Ave. Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.68093
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.083882
+}
+  },
+  {
+     "Address":"Unit 6, UP Technology Park Bldg., CP Garcia Ave. cor. Katipunan Ave., UP Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.63332
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.02007
+}
+  },
+  {
+     "Address":"17 Matulungin Street, Central District "
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.61122
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080508
+}
+  },
+  {
+     "Address":"Unit 3 UP-Ayala Technp Park, C.P. Garcia corner Katipunan Avenue, Diliman "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.644371
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.027819
+}
+  },
+  {
+     "Address":"Unit 208 Xanland Place Condominium 323 Katipunan Avenue, Loyola Heights "
+    ,"District":"District 4"
+    ,"Barangay":"UP Campus"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.613779
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.003813
+}
+  }]

@@ -1,0 +1,430 @@
+[
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"295 Roosevelt Ave., cor. de Jesus St. San Antonio"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Herminia Bldg.Commonwealth Ave. North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.611658
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079979
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"G/F Cyberzon Bldg. SM City North EDSA"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.655815
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028253
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"North EDSA Bago Bantay Carpark Plaza"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.734
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.059425
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"304 Roosevelt Ave. cor. M. H. del Pilar Street Mu?oz"
+    ,"District":"District 1"
+    ,"Barangay":"Damayan"
+    ,"location":{
+    "latitude":14.62147
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.016266
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Tanco-Cu Bldg. EDSA cor. Congressional Avenue"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.715902
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061376
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"70 Regalado Avenue North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.61319
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.057462
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"121 MJ Cuenco St. Sto. Domingo"
+    ,"District":"District 1"
+    ,"Barangay":"Damayan"
+    ,"location":{
+    "latitude":14.699708
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034309
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"Herminia Bldg.Commonwealth Ave. North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.63148
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048865
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"58 Examiner St.West Triangle Homes"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.638867
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040668
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"Tanco-Cu Bldg. EDSA cor. Congressional Avenue"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.706076
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.070594
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"70 Regalado Avenue North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.636614
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028367
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"121 MJ Cuenco St. Sto. Domingo"
+    ,"District":"District 1"
+    ,"Barangay":"Damayan"
+    ,"location":{
+    "latitude":14.735127
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.062485
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"No. 26 West Kamias"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.658298
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019382
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"Cinderella Building 825 EDSA"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.61319
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.057462
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"Herminia Bldg.Commonwealth Ave. North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.735205
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.066914
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"58 Examiner St.West Triangle Homes"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.614683
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049686
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"Tanco-Cu Bldg. EDSA cor. Congressional Avenue"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.652195
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.018297
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"70 Regalado Avenue North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.635649
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.073978
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Lands Street Brgy. Vasra, Visayas Ave"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"AICS Building Commonwealth Ave. cor. Holy Spirit Drive Brgy. San Antonio"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.656346
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.030651
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"295 Roosevelt Ave., cor. de Jesus St. San Antonio"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.65352
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.029486
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Herminia Bldg.Commonwealth Ave. North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.627549
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.01
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"AICS Building Commonwealth Ave. cor. Holy Spirit Drive Brgy. San Antonio"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.636614
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028367
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"G/F Cyberzon Bldg. SM City North EDSA"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.61319
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.057462
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"Penthouse D, Columbian Bldg. 160 West Avenue"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.620645
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047838
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"Pacific Corp.131 West Avenue"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.63148
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048865
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"121 MJ Cuenco St. Sto. Domingo"
+    ,"District":"District 1"
+    ,"Barangay":"Damayan"
+    ,"location":{
+    "latitude":14.622434
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049293
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"Herminia Bldg.Commonwealth Ave. North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.612011
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.058908
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"304 Roosevelt Ave. cor. M. H. del Pilar Street Mu?oz"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.731247
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048126
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"121 MJ Cuenco St. Sto. Domingo"
+    ,"District":"District 1"
+    ,"Barangay":"Damayan"
+    ,"location":{
+    "latitude":14.73188
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048517
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"No. 26 West Kamias"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.633758
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040061
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"Lands Street Brgy. Vasra, Visayas Ave"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.675342
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.082088
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"Herminia Bldg.Commonwealth Ave. North Fairview"
+    ,"District":"District 1"
+    ,"Barangay":"North Triangle"
+    ,"location":{
+    "latitude":14.679639
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.020947
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"304 Roosevelt Ave. cor. M. H. del Pilar Street Mu?oz"
+    ,"District":"District 1"
+    ,"Barangay":"San Antonio"
+    ,"location":{
+    "latitude":14.73188
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048517
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"121 MJ Cuenco St. Sto. Domingo"
+    ,"District":"District 1"
+    ,"Barangay":"Damayan"
+    ,"location":{
+    "latitude":14.655957
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.026652
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"No. 26 West Kamias"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.622434
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049293
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"No. 26 West Kamias"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.622434
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049293
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"58 Examiner St.West Triangle Homes"
+    ,"District":"District 1 "
+    ,"Barangay":"West Triangle"
+    ,"location":{
+    "latitude":14.60593
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019444
+}
+  }]

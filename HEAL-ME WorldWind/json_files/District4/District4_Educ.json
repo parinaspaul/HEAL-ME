@@ -1,0 +1,661 @@
+[
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"CAL Headquarters 3rd Street cor. New Jersey New Manila"
+    ,"District":"District 4"
+    ,"Barangay":"Mariana"
+    ,"location":{
+    "latitude":14.654235
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034022
+}
+  },
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"587 EDSA, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.616915
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051965
+}
+  },
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"E. Virata Hall, UP-ISSI E Jacinto St. UP Diliman"
+    ,"District":"District 4"
+    ,"Barangay":"UP Village"
+    ,"location":{
+    "latitude":14.656528
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061762
+}
+  },
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"587 EDSA, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.616915
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051965
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Mercury Drug Bldg. Aurora Blvd., Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.621045
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049776
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Estolano Bldg. cor. Aurora, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.735205
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.066914
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Our Home Bldg.114 Malakas St"
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"location":{
+    "latitude":14.64728
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.054538
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Mahinhin St.U.P. Village Diliman"
+    ,"District":"District 4"
+    ,"Barangay":"UP Village"
+    ,"location":{
+    "latitude":14.593591
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.077668
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"5th Flr. CTTM Square Bldg. 68 Timog Ave., cor. Tomas Morato"
+    ,"District":"District 4"
+    ,"Barangay":"Sacred Heart"
+    ,"location":{
+    "latitude":14.723099
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.041729
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"91, 4th Avenue Murphy, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.657437
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.014199
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"St. Francis Condominium 941 Aurora Blvd., Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.604909
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038174
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Pinagkaisahan"
+    ,"location":{
+    "latitude":14.62147
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.016266
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"Cinderella Building 825 EDSA"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.607723
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080295
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"No. 21 1st Avenue Bagong Lipunan, Crame Santolan"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame"
+    ,"location":{
+    "latitude":14.604909
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038174
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"Unit 7-8 Timog Commercial Complex Timog Avenue cor. Panay Ave."
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.622434
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049293
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"33 Bonnie Serrano cor. Sunrise Drive BL ng crame, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame "
+    ,"location":{
+    "latitude":14.609145
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.053327
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"FBR Arcade Katipunan Avenue"
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"location":{
+    "latitude":14.663801
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.069597
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"JIAO Building Delta Timog Ave."
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.734037
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052349
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"91, 4th Avenue Murphy, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.641817
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.032411
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"St. Francis Condominium 941 Aurora Blvd., Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.608759
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.045243
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Pinagkaisahan"
+    ,"location":{
+    "latitude":14.715902
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061376
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"No. 21 1st Avenue Bagong Lipunan, Crame Santolan"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame "
+    ,"location":{
+    "latitude":14.73188
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048517
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"Unit 7-8 Timog Commercial Complex Timog Avenue cor. Panay Ave."
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.665227
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.003798
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"33 Bonnie Serrano cor. Sunrise Drive BL ng crame, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame "
+    ,"location":{
+    "latitude":14.656845
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.045132
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"FBR Arcade Katipunan Avenue"
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"location":{
+    "latitude":14.678702
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.08278
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"JIAO Building Delta Timog Ave."
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.733449
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061437
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"91, 4th Avenue Murphy, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.706076
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.070594
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Mercury Drug Bldg. Aurora Blvd., Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.678702
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.08278
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Estolano Bldg. cor. Aurora, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.733449
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061437
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"12 P. Bernardo St. Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.62045
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.006989
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Our Home Bldg.114 Malakas St"
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"location":{
+    "latitude":14.644806
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051024
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Kostka Building 289 Katipunan Ave. Loyola Heights"
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"location":{
+    "latitude":14.620645
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047838
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"Estolano Bldg. cor. Aurora, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.73379
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061465
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"52 Aurora Blvd"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.639122
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.074087
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"46 Units 2B & 2C D Tuazon Brgy., Do?a Josefa"
+    ,"District":"District 4 "
+    ,"Barangay":"Mariana"
+    ,"location":{
+    "latitude":14.675342
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.082088
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"Unit 203 HS Building 22 Matalino St. Brgy. Central"
+    ,"District":"District 4"
+    ,"Barangay":"Central"
+    ,"location":{
+    "latitude":14.627549
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.01
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"960 Aurora Boulevard Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.656845
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.045132
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"Unit 7-8 Timog Commercial Complex Timog Avenue cor. Panay Ave."
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.735748
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.065854
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"33 Bonnie Serrano cor. Sunrise Drive BL ng crame, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame "
+    ,"location":{
+    "latitude":14.734253
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.054514
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"FBR Arcade Katipunan Avenue"
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"location":{
+    "latitude":14.631312
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.042055
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"JIAO Building Delta Timog Ave."
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.663801
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.069597
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"91, 4th Avenue Murphy, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.619821
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.017648
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"960 Aurora Boulevard Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.706076
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.070594
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Pinagkaisahan"
+    ,"location":{
+    "latitude":14.653013
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.018416
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"Llanar Building Boni Serrano cor. 10th Ave. Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame "
+    ,"location":{
+    "latitude":14.627549
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.01
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"No. 5 South J Street Brgy. Sacred Heart"
+    ,"District":"District 4"
+    ,"Barangay":"Sacred Heart"
+    ,"location":{
+    "latitude":14.73379
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061465
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"JIAO Building Delta Timog Ave."
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.627126
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048479
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"960 Aurora Boulevard Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.658298
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019382
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Pinagkaisahan"
+    ,"location":{
+    "latitude":14.60593
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019444
+}
+  },
+  {
+     "Type_of_Training":"Caregiving"
+    ,"Training_Center":"Panorama Building 1139 EDSA"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame "
+    ,"location":{
+    "latitude":14.642931
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.036162
+}
+  },
+  {
+     "Type_of_Training":"Caregiving"
+    ,"Training_Center":"Tri-O Bldg. Bgy. Pinagkaisahan, Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Pinagkaisahan"
+    ,"location":{
+    "latitude":14.698952
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034274
+}
+  },
+  {
+     "Type_of_Training":"Caregiving"
+    ,"Training_Center":"52 Aurora Blvd"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.654235
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034022
+}
+  },
+  {
+     "Type_of_Training":"Caregiving"
+    ,"Training_Center":"960 Aurora Boulevard Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.638358
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.074433
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"Panorama Building 1139 EDSA"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame "
+    ,"location":{
+    "latitude":14.616915
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051965
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"Llanar Building Boni Serrano cor. 10th Ave. Cubao"
+    ,"District":"District 4"
+    ,"Barangay":"Bagong Lipunan ng Crame "
+    ,"location":{
+    "latitude":14.647578
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.055048
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"52 Aurora Blvd"
+    ,"District":"District 4"
+    ,"Barangay":"Kaunlaran"
+    ,"location":{
+    "latitude":14.663519
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.059153
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"4th Floor, Victoria 1 Building. Quezon Avenue, South Triangle"
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.717264
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.041349
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"CAL Headquarters 3rd Street cor. New Jersey New Manila"
+    ,"District":"District 4 "
+    ,"Barangay":"Mariana"
+    ,"location":{
+    "latitude":14.639899
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.016643
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"FSS Building No. 2 Scout Tuazon cor. Scout Castor Brgy. Laging Handa"
+    ,"District":"District 4 "
+    ,"Barangay":"South Triangle"
+    ,"location":{
+    "latitude":14.663519
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.059153
+}
+  },
+  {
+     "Type_of_Training":"Dress Making"
+    ,"Training_Center":"Katipunan road, Loyola Heights"
+    ,"District":"District 4"
+    ,"Barangay":"Botocan"
+    ,"location":{
+    "latitude":14.663519
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.059153
+}
+  }]

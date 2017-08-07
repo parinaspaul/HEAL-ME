@@ -1,0 +1,309 @@
+[
+  {
+     "Address":"#12 MALAVAR ST., T.S. CRUZ NOVALICHES QUEZON CITY "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.722276
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034703
+}
+  },
+  {
+     "Address":"3-A Thunderbird St., Zabarte Subdivision "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.734037
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052349
+}
+  },
+  {
+     "Address":"Blk 1 Lot 5 Manchester Industrial Subd., Sauyo Rd., Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.69569
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047811
+}
+  },
+  {
+     "Address":"Lot 424-A-2-A West Los Angeles St., cor Riverside St., California Village, San Bartolome "
+    ,"District":"District 5"
+    ,"Barangay":"San Bartolome"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.620228
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.075825
+}
+  },
+  {
+     "Address":"07 J.P. Laurel St., T.S. Cruz Subdivision, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.647742
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.073262
+}
+  },
+  {
+     "Address":"San Bartolome Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"San Bartolome"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.640503
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.017268
+}
+  },
+  {
+     "Address":"Lot 18 Blk. 9 Paxton Street East Fairview, "
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.612945
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.062895
+}
+  },
+  {
+     "Address":"1165 Quirino Hi-Way Zabarte, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.633034
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.026407
+}
+  },
+  {
+     "Address":"22 Citrine Street Batasan Hills, Northview I Filinvest I I, Capitol, "
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.672053
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.057737
+}
+  },
+  {
+     "Address":"47 Atlas Road San Bartolome, Novaliches, "
+    ,"District":"District 5"
+    ,"Barangay":"San Bartolome"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.644187
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.998041
+}
+  },
+  {
+     "Address":"62 Gen. Luis Street, Bo. Capri, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.686229
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.063926
+}
+  },
+  {
+     "Address":"#14 Visitation St. Sacred Heart Village Brgy. Pasong Putik? "
+    ,"District":"District 5"
+    ,"Barangay":"Pasong Putik Proper"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.718439
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.024237
+}
+  },
+  {
+     "Address":"258 P. Dela Cruz Street, Greenheights Subdivision, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.642609
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.993311
+}
+  },
+  {
+     "Address":"190 General Luis Street, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.643007
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.001939
+}
+  },
+  {
+     "Address":"#8 San Juan St. Brgy. Gulod, Novaliches, "
+    ,"District":"District 5"
+    ,"Barangay":"Gulad Novaliches"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.688359
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.045023
+}
+  },
+  {
+     "Address":"Teacher's Village Quezon City "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.639479
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.031853
+}
+  },
+  {
+     "Address":"945 Sarmiento Street, corner Quirino Highway, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.68276
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.078605
+}
+  },
+  {
+     "Address":"#3 Forest Hills Drive, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.66389
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.022592
+}
+  },
+  {
+     "Address":"Unit 1-A Sta. Quiteria Arcade, Quirino Hi-way, "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.634118
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.996692
+}
+  },
+  {
+     "Address":"24 Forest Hills drive, Forest Hills subd., Novaliches,? "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.643678
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.01266
+}
+  },
+  {
+     "Address":"No. 20 Exeter St. Forest Hills, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.648231
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.01691
+}
+  },
+  {
+     "Address":"Kaligayahan Road, Quirino Highway, Novaliches, "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.661985
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.036955
+}
+  },
+  {
+     "Address":"90 Susano Road "
+    ,"District":"District 5"
+    ,"Barangay":"San Agustin"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.648231
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.01691
+}
+  },
+  {
+     "Address":"Lot A3 Quirino Hiway, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.650423
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.005555
+}
+  },
+  {
+     "Address":"14 Tikling St. Villilia Village, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.616595
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.077221
+}
+  },
+  {
+     "Address":"Campo 2, Tandang Sora, Novaliches, "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607221
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.078941
+}
+  },
+  {
+     "Address":"Lot A3 Quirino Hiway, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.609528
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.078925
+}
+  },
+  {
+     "Address":"14 Tikling St. Villilia Village, Novaliches "
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.642221
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051029
+}
+  }]

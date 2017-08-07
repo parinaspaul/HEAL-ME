@@ -1,0 +1,19 @@
+Hospital_Name,Country,Type,Address,Contact,Email,Founded,location__latitude,location__needs_recoding,location__longitude,District
+Philippine Orthopedic Center,PHILIPPINES,,"78-A Maria Clara St, Santa Mesa Heights, Quezon City, 1114 Metro Manila",712-4602/711-4276 to 80/Fax: 712-4601,n/a,1945,14.627444,FALSE,121.004263,1
+Quezon City General Hospital,PHILIPPINES,Public,"Seminary Road, EDSA",455-4801/Fax 453-0928 ,n/a,,14.661149,FALSE,121.018132,1
+Veterans Memorial Medical Center,PHILIPPINES,Public,"North Ave., Diliman, Quezon City",927-6426 to 39/Fax 926-2437 ,n/a,,14.653781,FALSE,121.038358,1
+Philippine Childrenâ€™s Medical Center,PHILIPPINES,Public,"Quezon Ave., Quezon City",924-6601 to 25/Fax: 924-0840 ,drlee@hiss.pcmc.org.ph ,,14.635176,FALSE,121.023176,1
+San Lorenzo Hospital Health Management Co,PHILIPPINES,Private,"Quirino Highway, Bgy. Pasong Putik Lagro, Novaliches",,n/a,,14.692606,FALSE,121.029594,1
+Dr. Montano G. Ramos Hospital,PHILIPPINES,Private,"Mindanao Avenue, Bahay Toro",0905 557 7613,n/a,,14.669378,FALSE,121.033026,1
+Q.C. St. Agnes General Hospital Inc,PHILIPPINES,Private,241 Roosevelt Ave San Francisco Del Monte," 374-2769/374-2772 to 73 (Dr. Marianito Abagon, Medical Director)",n/a,,14.640133,FALSE,121.016412,1
+Excellent Community Care Center,PHILIPPINES,Private,"141 Roosevelt St., Bgy. Paraiso San Francisco Del Monte",,n/a,,14.639462,FALSE,121.017721,1
+Dr. Montano G. Ramos General Hospital,PHILIPPINES,Private,"46 Bukidnon St., Bago Bantay",927-6628/453-1377/Fax: 453-2453 / (0919) 288-7389,n/a,,14.65962,FALSE,121.023498,1
+J.P. Sioson Gen. Hosp. and Colleges Inc.,PHILIPPINES,Private,"75 Bukidnon St., Bago Bantay",927-1339/927-5643/Fax: 455-4281,n/a,,14.659852,FALSE,121.025494,1
+Sta. Teresita General Hospital,PHILIPPINES,Private,100 Tuazon St,Tel. 731-9803/731-7511/743-8770,n/a,,14.624705,FALSE,121.00235,1
+Tolentino Community Clinic,PHILIPPINES,,"Project 8, Quezon City, Metro Manila",(02) 225 0695 ,n/a,,14.676436,FALSE,121.038233,1
+FPOP Community Health Center ,PHILIPPINES,,"Â 248 Brgy Tandang Sora, Basement, Tandang Sora Ave ",(02) 920 4223 ,n/a,,14.676273,FALSE,121.042206,1
+Qualimed Clinic ,PHILIPPINES,,"U.P. Town Center, Katipunan Ave, Diliman, Quezon City ",(02) 962 4776 ,n/a,qualimed.com.ph ,14.649517,FALSE,121.075212,1
+Myhealth Clinic Sm North Edsa ,PHILIPPINES,,"SM North Edsa North Link, North Link Access Road Quezon City",,n/a,myhealth.ph ,14.657626,FALSE,121.029434,1
+EXCELLENT Community Care Center ,PHILIPPINES,,"Â Ernesto Porto, San Francisco del Monte ",(02) 514 5229 ,n/a,,14.644282,FALSE,121.013735,1
+Mabuhay Chiropractic Clinic ,PHILIPPINES,,"Unit 552a, The Block Bldg., SM City North Edsa, North Avenue, Brgy. Sto Cristo 1 ",(02) 351 8412,n/a,chiropractic.com.ph,14.657194,FALSE,121.026536,1
+Children International (Quezon City) Inc. - Community Center 2 Vasra ,PHILIPPINES,,"Forestry, Vasra Diliman, Quezon City ",(02) 455 9237,n/a,childreninternational.ph,14.659629,FALSE,121.045705,1

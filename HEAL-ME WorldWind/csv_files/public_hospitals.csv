@@ -1,0 +1,17 @@
+Hospital_Name,Country,Type,Address,Contact,Email,Founded,location__latitude,location__needs_recoding,location__longitude,District
+Philippine Orthopedic Center,PHILIPPINES,,"78-A Maria Clara St, Santa Mesa Heights, Quezon City, 1114 Metro Manila",712-4602/711-4276 to 80/Fax: 712-4601,n/a,1945,14.627444,False,121.004263,1
+AFP Medical Center,PHILIPPINES,Public,"V. Luna Ave, Diliman, Quezon City, 1100 Metro Manila",921-1753/426-2701/Fax: 921-1741,n/a,,14.596853,False,121.067051,4
+Camp Gen. Emilio Aguinaldo Station Hospital,PHILIPPINES,Public,"Camp Gen. E. Aguinaldo, Murphy, Cubao",(02) 911 6001,n/a,,14.624835,False,121.051786,3
+Quezon Institute,PHILIPPINES,Public,"1113 E Rodriguez Sr. Ave, Quezon City, Metro Manila",(02) 781 3762,n/a,,14.622081,False,121.025301,4
+PNP General Hospital (Main),PHILIPPINES,Public,"EDSA, Camp Crame, Quezon City",722-6850/ 722-0670,n/a,,14.609145,False,121.053327,4
+National Children’s Hospital,PHILIPPINES,Public,"264 E. Rodriguez Sr. Blvd, New Manila, Lungsod Quezon, Kalakhang Maynila",(02) 724 0656,n/a,,14.620452,False,121.020928,4
+Quezon City General Hospital,PHILIPPINES,Public,"Seminary Road, EDSA",455-4801/Fax 453-0928 ,n/a,,14.661149,False,121.018132,1
+East Avenue Medical Center,PHILIPPINES,Public,"East Avenue, Diliman, Quezon City",927-9900/928-0611,n/a,,14.641184,False,121.046908,4
+National Kidney & Transplant Institute,PHILIPPINES,Public,"East Avenue, Quezon City",924-0701/Fax: 922-5608,n/a,,14.641184,False,121.046908,4
+Philippine Heart Center,PHILIPPINES,Public,"East Avenue, Diliman, Quezon City 1110",Tel.  925-2401 to 50/922-0551/Telefax: 922-0551,director@phc.gov.ph ,,14.641184,False,121.046908,4
+UP Health Services,PHILIPPINES,Public,"J.P. Laurel St., UP Campus, Diliman",(02) 981 8500,n/a,,14.659242,False,121.067846,4
+Veterans Memorial Medical Center,PHILIPPINES,Public,"North Ave., Diliman, Quezon City",927-6426 to 39/Fax 926-2437 ,n/a,,14.653781,False,121.038358,1
+Novaliches District Hospital,PHILIPPINES,Public,"Quirino Highway, San Bartolome, Novaliches, Quezon City",418-5987/418-5970 ,n/a,,14.703598,False,121.036985,6
+Lung Center of the Philippines,PHILIPPINES,Public,"Quezon Ave. Ext., Quezon City",927-5643/927-1339/Fax: 455-4281 ,n/a,,14.648043,False,121.046065,4
+Philippine Children’s Medical Center,PHILIPPINES,Public,"Quezon Ave., Quezon City",924-6601 to 25/Fax: 924-0840 ,drlee@hiss.pcmc.org.ph ,,14.635176,False,121.023176,1
+Quirino Memorial Medical Center,PHILIPPINES,Public,"Project 4, Katipunan, Quezon City",913-4758/437-3660/Fax  913-4558,n/a,,14.624216,False,121.074298,3

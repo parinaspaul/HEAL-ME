@@ -1,0 +1,187 @@
+span#logo_text1 {
+    font-size: 10px !important;
+    word-spacing: 1px !important;
+    color:#337ab7 !important;
+}
+span#logo_text {
+    letter-spacing: 1px;
+    font-size: 8px;
+    color: #337ab7;
+}
+/*padding-left: 15px w/ globe options*/
+.nav {
+    padding-left: 40px !important;
+    margin-bottom: 0;
+    list-style: none;
+}
+/*GET DATA BUTTON*/
+button#startJson {
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: #337ab7;
+}
+/*END*/
+/*NAV MENU*/
+a.nav-link:active {
+    background-color: #337ab7 !important;
+    color: white !important;
+}
+a.nav-link:hover {
+    background: #337ab7 !important;
+    color: white !important;
+    border: 1px transparent !important;
+    margin-right: 4px !important;
+}
+/*END*/
+/*DROP DOWN ITEMS*/
+.form-control {
+    display: block;
+    width: 65%;
+    margin-left: 50px;
+  }
+  .form-group {
+    margin-top: 20px !important;
+}
+.infozone > label {
+    margin-top: 20px !important;
+}
+  /*END*/
+  /*NAV CONTENT*/
+.infozone{
+    float:left;
+    position:relative;
+    width: 270px;
+    background-color:rgba(255, 255, 255, 0.01) !important;
+    display:none;
+}
+  /*END*/
+
+/*LEFT  CARD NAV*/
+.card {
+  padding-top: 20px;
+  margin: 10px 0 20px 0;
+  border: 1px solid #d8d8d8;
+  border-top-width: 0;
+  border-bottom-width: 2px;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+  -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+          box-shadow: none;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.75) !important;
+}
+.card.hovercardLeft {
+  position: relative;
+  width: 300px !important;
+  padding-top: 0;
+  overflow: hidden;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.90) !important;
+}
+
+.card.hovercardLeft img {
+  width: 350px;
+  height: 200px;
+}
+
+.card.hovercardLeft .avatar {
+  position: relative;
+  top: 5px; /*-40px*/
+  margin-bottom: -5px; /*-40px*/
+}
+
+.card.hovercardLeft .avatar img {
+  width: 50%;
+  height: 100px;
+  max-height: 50px;
+  margin-bottom: 10px;
+/*  -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+          border-radius: 50%;*/
+}
+
+.card.hovercardLeft .info {
+  padding: 4px 8px 10px;
+}
+
+.card.hovercardLeft .info .title {
+  margin-bottom: 4px;
+  font-size: 24px;
+  line-height: 1;
+  color: #262626;
+  vertical-align: middle;
+}
+
+.card.hovercardLeft .info .desc {
+  overflow: hidden;
+  font-size: 12px;
+  line-height: 20px;
+  color: #737373;
+  text-overflow: ellipsis;
+}
+
+.card.hovercardLeft .bottom {
+  padding: 0 20px;
+  margin-bottom: 17px;
+}
+
+.card.people .card-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  padding: 10px 20px;
+  line-height: 29px;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/*END*/
+div#textInfo {
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 15px !important;
+}
+/*RIGHT CARD NAV*/
+.card.hovercardRight.col-sm-4 {
+    width: 25%;
+    position: fixed;
+    margin-left: 73%;
+    height: 95%;
+	background: rgba(145, 145, 145, 0.50) !important;
+    /* background: rgba(255, 255, 255, 0.90) !important; */
+	overflow-y: scroll;
+}
+
+/* change label color of chart */
+.dc-chart .axis text { fill: white; }
+.dc-chart .axis line { fill: white; }
+
+.x-axis-label { fill: white; }
+.y-axis-label { fill: white; }
+
+h4 { color: white; }
+
+.selected {
+	color: white; 
+	font-size: 8px; 
+	}
+
+.emp{
+	border-radius: 10px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background: rgba(170, 170, 170, 0.50) !important;
+}	
+
+.leftalign{
+	text-align:left;
+}
+/*END*/

@@ -1,0 +1,50 @@
+Type_of_Training,Training_Center,District,Barangay,latitude,needs_recoding,longitude
+Automotive,"No. 12 Salvia Street Saint Dominic Subdivision Zabarte, Novaliches",District 5,Novaliches Proper,14.732767,FALSE,121.052894
+Automotive,"Electron Building Quirino Highway Bagbag, Novaliches",District 5,Bagbag Novaliches,14.698952,FALSE,121.034274
+Automotive,"Lester Bldg. Km. 22, Quirino Highway Pasong Putik, Lagro",District 5,Lagro,14.735312,FALSE,121.056783
+Automotive,"Blk 125, Lot 22, Quirino Highway Lagro",District 5,Greater Lagro,14.71574,FALSE,121.040587
+Automotive,Quirino Highway Novaliches,District 5,Novaliches Proper,14.705678,FALSE,121.038167
+Automotive,"29 Jewel Street  Forest Hills, Gulod Novaliches",District 5,Gulod Novaliches,14.717264,FALSE,121.041349
+Electrical,"Electron Building Quirino Highway Bagbag, Novaliches",District 5,Bagbag Novaliches,14.698952,FALSE,121.034274
+Electrical,"Lester Bldg. Km. 22, Quirino Highway Pasong Putik, Lagro",District 5,Greater Lagro,14.735312,FALSE,121.056783
+Electrical,"Blk 125, Lot 22, Quirino Highway Lagro",District 5,Greater Lagro,14.71574,FALSE,121.040587
+Electrical,"Lot 10, Block 17, Dahlia Avenue Fairview",District 5,Fairview,14.699905,FALSE,121.067445
+Electrical,"29 Jewel Street  Forest Hills, Gulod Novaliches",District 5,Gulod Novaliches,14.717264,FALSE,121.041349
+Programming,C.I. Plaza Quirino Highway cor. Zabarte Road Novaliches,District 5,Novaliches Proper,14.628086,FALSE,121.064314
+Programming,Bonanza Plaza Bldg. 2 Putol na Daan cor. Quirino Highway,District 5,Greater Lagro,14.665227,FALSE,121.003798
+Programming,Crown Link Building Regalado Avenue Fairview,District 5,Fairview,14.734253,FALSE,121.054514
+Programming,"044 Brgy. Sta. Monica Quirino Highway, Novaliches",District 5,Novaliches Proper,14.642134,FALSE,121.049176
+Programming,No. 6 Kingfisher cor. Skylark St.Zabarte Subd,District 5,Novaliches Proper,14.634486,FALSE,121.03571
+Programming,Genesis Bldg. Quirino Hi-way cor. Salvador Ave. Jordan Plain Subd.,District 5,Novaliches Proper,14.704821,FALSE,121.076805
+Programming,CPE Building Lot 9 Blk 2 Don Mariano Marcos Ave. Brgy. Fairview,District 5,Fairview,14.630176,FALSE,121.016309
+Programming,SM City Fairview Quirino Highway cor. Regalado Avenue Fairview,District 5,Fairview,14.73188,FALSE,121.048517
+Programming,C1 Plaza Bldg. Quirino Highway cor. Zabarte Road Novaliches,District 5,Novaliches Proper,14.675342,FALSE,121.082088
+Animation,C.I. Plaza Quirino Highway cor. Zabarte Road Novaliches,District 5,Novaliches Proper,14.634486,FALSE,121.03571
+Animation,"Altan Bldg. 1056 Quirino Highway, Lagro",District 5,Greater Lagro,14.607951,FALSE,121.080156
+Animation,No. 6 Kingfisher cor. Skylark St. Zabarte Subd,District 5,Novaliches Proper,14.735572,FALSE,121.064778
+Animation,362 Quirino High-way Novaliches,District 5,Novaliches Proper,14.627549,FALSE,121.01
+Animation,RNA Building 16 Quirino Highway Greater Lagro,District 5,Greater Lagro,14.731247,FALSE,121.048126
+Culinary,C.I. Plaza Quirino Highway cor. Zabarte Road Novaliches,District 5,Novaliches Proper,14.639122,FALSE,121.074087
+Culinary,"Altan Bldg. 1056 Quirino Highway, Lagro",District 5,Greater Lagro,14.633758,FALSE,121.040061
+Culinary,No. 6 Kingfisher cor. Skylark St. Zabarte Subd,District 5,Novaliches Proper,14.628086,FALSE,121.064314
+Culinary,362 Quirino High-way Novaliches,District 5,Novaliches Proper,14.621045,FALSE,121.049776
+Culinary,RNA Building 16 Quirino Highway Greater Lagro,District 5,Greater Lagro,14.642134,FALSE,121.049176
+Bookkeeping,C.I. Plaza Quirino Highway cor. Zabarte Road Novaliches,District 5,Novaliches Proper,14.621045,FALSE,121.049776
+Bookkeeping,"Altan Bldg.1056 Quirino Highway, Lagro",District 5,Greater Lagro,14.665227,FALSE,121.003798
+Bookkeeping,Bonanza Plaza Bldg. 2 Putol na Daan cor. Quirino Highway,District 5,Greater Lagro,14.60593,FALSE,121.019444
+Bookkeeping,Diana Building Regalado Avenue Greater Lagro,District 5,Greater Lagro,14.654386,FALSE,121.030049
+Call Center Training,Diana Building Regalado Avenue Greater Lagro,District 5,Greater Lagro,14.609328,FALSE,121.045782
+Baking,Crown Link Building Regalado Avenue Fairview,District 5,Fairview,14.73379,FALSE,121.061465
+Bartending,Crown Link Building Regalado Avenue Fairview,District 5,Fairview,14.620645,FALSE,121.047838
+Bartending,"4M Square Bldg. Quirino Highway, Lagro",District 5,Greater Lagro,14.63148,FALSE,121.048865
+Bartending,"044 Brgy. Sta. Monica Quirino Highway, Novaliches",District 5,Novaliches Proper,14.622434,FALSE,121.049293
+Bartending,No. 6 Kingfisher cor. Skylark St.Zabarte Subd,District 5,Novaliches Proper,14.663801,FALSE,121.069597
+Bartending,362 Quirino High-way Novaliches,District 5,Novaliches Proper,14.734037,FALSE,121.052349
+Bartending,C1 Plaza Bldg. Quirino Highway cor. Zabarte Road Novaliches,District 5,Novaliches Proper,14.698952,FALSE,121.034274
+Housekeeping,Crown Link Building Regalado Avenue Fairview,District 5,Fairview,14.64658,FALSE,121.049659
+Housekeeping,"044 Brgy. Sta. Monica Quirino Highway, Novaliches",District 5,Novaliches Proper,14.658298,FALSE,121.019382
+Housekeeping,No. 6 Kingfisher cor. Skylark St.Zabarte Subd,District 5,Novaliches Proper,14.655957,FALSE,121.026652
+Housekeeping,"Electron Building Quirino Highway Bagbag, Novaliches",District 5,Bagbag Novaliches,14.664433,FALSE,121.021228
+Housekeeping,C1 Plaza Bldg. Quirino Highway cor. Zabarte Road Novaliches,District 5,Novaliches Proper,14.607649,FALSE,121.038759
+Massage Therapy,362 Quirino High-way Novaliches,District 5,Novaliches Proper,14.616915,FALSE,121.051965
+Massage Therapy,"Electron Building Quirino Highway Bagbag, Novaliches",District 5,Bagbag Novaliches,14.620703,FALSE,121.04801

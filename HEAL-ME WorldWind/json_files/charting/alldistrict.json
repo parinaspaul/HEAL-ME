@@ -1,0 +1,1422 @@
+[
+ {
+   "District": "District 1",
+   "Barangay": "ALICIA ",
+   "Country": "PHILIPPINES",
+   "Address": "Batangas St., Bago Bantay ",
+   "Population": 6527,
+   "location__latitude": 14.660547,
+   "location__needs_recoding": false,
+   "location__longitude": 121.025469
+ },
+ {
+   "District": "District 1",
+   "Barangay": "BAGONG PAG-ASA ",
+   "Country": "PHILIPPINES",
+   "Address": "Road 9 cor. Road 11",
+   "Population": 32267,
+   "location__latitude": 14.662398,
+   "location__needs_recoding": false,
+   "location__longitude": 121.033056
+ },
+ {
+   "District": "District 1",
+   "Barangay": "BAHAY TORO ",
+   "Country": "PHILIPPINES",
+   "Address": "1 Road 12 cor. Road 11, Proj. 8 ",
+   "Population": 70774,
+   "location__latitude": 14.664224,
+   "location__needs_recoding": false,
+   "location__longitude": 121.02159
+ },
+ {
+   "District": "District 1",
+   "Barangay": "BALINGASA ",
+   "Country": "PHILIPPINES",
+   "Address": "#100 Balingasa St. ",
+   "Population": 20609,
+   "location__latitude": 14.649644,
+   "location__needs_recoding": false,
+   "location__longitude": 121.002909
+ },
+ {
+   "District": "District 1",
+   "Barangay": "BUNGAD ",
+   "Country": "PHILIPPINES",
+   "Address": "#11 Sanches St. Brgy. Bungad, SFDM ",
+   "Population": 8057,
+   "location__latitude": 14.650772,
+   "location__needs_recoding": false,
+   "location__longitude": 121.023705
+ },
+ {
+   "District": "District 1",
+   "Barangay": "DAMAR ",
+   "Country": "PHILIPPINES",
+   "Address": "Damar Loop ",
+   "Population": 1646,
+   "location__latitude": 14.645972,
+   "location__needs_recoding": false,
+   "location__longitude": 121.002056
+ },
+ {
+   "District": "District 1",
+   "Barangay": "DAMAYAN ",
+   "Country": "PHILIPPINES",
+   "Address": "San Vicente cor. Zamora St. ",
+   "Population": 8716,
+   "location__latitude": 14.63973,
+   "location__needs_recoding": false,
+   "location__longitude": 121.014981
+ },
+ {
+   "District": "District 1",
+   "Barangay": "DEL MONTE ",
+   "Country": "PHILIPPINES",
+   "Address": "48 Osmena St. ",
+   "Population": 12185,
+   "location__latitude": 14.643337,
+   "location__needs_recoding": false,
+   "location__longitude": 121.014269
+ },
+ {
+   "District": "District 1",
+   "Barangay": "KATIPUNAN ",
+   "Country": "PHILIPPINES",
+   "Address": "Cor. San Antonio St. & Mangga St. ",
+   "Population": 2818,
+   "location__latitude": 14.655278,
+   "location__needs_recoding": false,
+   "location__longitude": 121.017805
+ },
+ {
+   "District": "District 1",
+   "Barangay": "LOURDES ",
+   "Country": "PHILIPPINES",
+   "Address": "Calamba cor. D. Tuazon St. ",
+   "Population": 4813,
+   "location__latitude": 14.628905,
+   "location__needs_recoding": false,
+   "location__longitude": 121.000128
+ },
+ {
+   "District": "District 1",
+   "Barangay": "MAHARLIKA ",
+   "Country": "PHILIPPINES",
+   "Address": "#390 Apo St.",
+   "Population": 4425,
+   "location__latitude": 14.636225,
+   "location__needs_recoding": false,
+   "location__longitude": 120.993835
+ },
+ {
+   "District": "District 1",
+   "Barangay": "MANRESA ",
+   "Country": "PHILIPPINES",
+   "Address": "Biak na Bato cor. Makaturing St. ",
+   "Population": 21413,
+   "location__latitude": 14.641292,
+   "location__needs_recoding": false,
+   "location__longitude": 121.003128
+ },
+ {
+   "District": "District 1",
+   "Barangay": "MARIBLO ",
+   "Country": "PHILIPPINES",
+   "Address": "De Vera St. cor. San Joaquin St. ",
+   "Population": 4078,
+   "location__latitude": 14.63536,
+   "location__needs_recoding": false,
+   "location__longitude": 121.017573
+ },
+ {
+   "District": "District 1",
+   "Barangay": "MASAMBONG ",
+   "Country": "PHILIPPINES",
+   "Address": "#2 Capoas St., Masambong St. ",
+   "Population": 12841,
+   "location__latitude": 14.640379,
+   "location__needs_recoding": false,
+   "location__longitude": 121.011829
+ },
+ {
+   "District": "District 1",
+   "Barangay": "N.S. AMORANTO ",
+   "Country": "PHILIPPINES",
+   "Address": "Angelo St. ",
+   "Population": 6859,
+   "location__latitude": 14.632609,
+   "location__needs_recoding": false,
+   "location__longitude": 120.994254
+ },
+ {
+   "District": "District 1",
+   "Barangay": "NAYONG KANLURAN ",
+   "Country": "PHILIPPINES",
+   "Address": "37 Sorsogon St. ",
+   "Population": 2428,
+   "location__latitude": 14.641807,
+   "location__needs_recoding": false,
+   "location__longitude": 121.025859
+ },
+ {
+   "District": "District 1",
+   "Barangay": "PAANG BUNDOK ",
+   "Country": "PHILIPPINES",
+   "Address": "Iriga St. bet. Retiro & Tacio Sts. ",
+   "Population": 5643,
+   "location__latitude": 14.624723,
+   "location__needs_recoding": false,
+   "location__longitude": 120.996134
+ },
+ {
+   "District": "District 1",
+   "Barangay": "PAG-BIG SA NAYON ",
+   "Country": "PHILIPPINES",
+   "Address": "#23 J. Pineda St. Balintawak ",
+   "Population": 5441,
+   "location__latitude": 14.646317,
+   "location__needs_recoding": false,
+   "location__longitude": 120.996816
+ },
+ {
+   "District": "District 1",
+   "Barangay": "PALTOK ",
+   "Country": "PHILIPPINES",
+   "Address": "Basa St., cor. Mendoza St., SFDM ",
+   "Population": 17342,
+   "location__latitude": 14.643244,
+   "location__needs_recoding": false,
+   "location__longitude": 121.02251
+ },
+ {
+   "District": "District 1",
+   "Barangay": "PARAISO ",
+   "Country": "PHILIPPINES",
+   "Address": "Along Roosevelt Ave. cor. De Vera St. ",
+   "Population": 3790,
+   "location__latitude": 14.635493,
+   "location__needs_recoding": false,
+   "location__longitude": 121.018621
+ },
+ {
+   "District": "District 1",
+   "Barangay": "PHIL-AM ",
+   "Country": "PHILIPPINES",
+   "Address": "Baguio Road, Clubhouse Complex, Phil-Am Homes ",
+   "Population": 2673,
+   "location__latitude": 14.648552,
+   "location__needs_recoding": false,
+   "location__longitude": 121.031227
+ },
+ {
+   "District": "District 1",
+   "Barangay": "PROJECT 6 ",
+   "Country": "PHILIPPINES",
+   "Address": "Road 2 cor. Road 8, Proj. 6 ",
+   "Population": 15255,
+   "location__latitude": 14.661537,
+   "location__needs_recoding": false,
+   "location__longitude": 121.034651
+ },
+ {
+   "District": "District 1",
+   "Barangay": "RAMON MAGSAYSAY ",
+   "Country": "PHILIPPINES",
+   "Address": "Ilocos Sur cor Cagayan St. ",
+   "Population": 16281,
+   "location__latitude": 14.658987,
+   "location__needs_recoding": false,
+   "location__longitude": 121.022543
+ },
+ {
+   "District": "District 1",
+   "Barangay": "SALVACION ",
+   "Country": "PHILIPPINES",
+   "Address": "#74 Bulusan St., Laloma ",
+   "Population": 8056,
+   "location__latitude": 14.627992,
+   "location__needs_recoding": false,
+   "location__longitude": 120.99499
+ },
+ {
+   "District": "District 1",
+   "Barangay": "SAN ANTONIO ",
+   "Country": "PHILIPPINES",
+   "Address": "#12 Batangas St., SFDM ",
+   "Population": 25043,
+   "location__latitude": 14.660648,
+   "location__needs_recoding": false,
+   "location__longitude": 121.025078
+ },
+ {
+   "District": "District 1",
+   "Barangay": "SAN ISIDRO LABRADOR ",
+   "Country": "PHILIPPINES",
+   "Address": "#91 Halcon St., cor. Maria Clara St. ",
+   "Population": 7181,
+   "location__latitude": 14.622155,
+   "location__needs_recoding": false,
+   "location__longitude": 120.995474
+ },
+ {
+   "District": "District 1",
+   "Barangay": "SAN JOSE ",
+   "Country": "PHILIPPINES",
+   "Address": "#14 Tendido St. ",
+   "Population": 6271,
+   "location__latitude": 14.639105,
+   "location__needs_recoding": false,
+   "location__longitude": 120.993425
+ },
+ {
+   "District": "District 1",
+   "Barangay": "SIENA",
+   "Country": "PHILIPPINES",
+   "Address": "Sto. Domingo fronting Bingo St.",
+   "Population": 3383,
+   "location__latitude": 14.636402,
+   "location__needs_recoding": false,
+   "location__longitude": 121.006572
+ },
+ {
+   "District": "District 1",
+   "Barangay": "ST. PETER ",
+   "Country": "PHILIPPINES",
+   "Address": "Patok cor. Cordillera St. ",
+   "Population": 4550,
+   "location__latitude": 14.634981,
+   "location__needs_recoding": false,
+   "location__longitude": 120.998145
+ },
+ {
+   "District": "District 1",
+   "Barangay": "STA. CRUZ ",
+   "Country": "PHILIPPINES",
+   "Address": "#101 Roosevelt Ave. ",
+   "Population": 4784,
+   "location__latitude": 14.634749,
+   "location__needs_recoding": false,
+   "location__longitude": 121.017844
+ },
+ {
+   "District": "District 1",
+   "Barangay": "STA. TERESITA ",
+   "Country": "PHILIPPINES",
+   "Address": "Mayon cor. Dapitan St. ",
+   "Population": 8377,
+   "location__latitude": 14.622033,
+   "location__needs_recoding": false,
+   "location__longitude": 120.999725
+ },
+ {
+   "District": "District 1",
+   "Barangay": "STO. CRISTO ",
+   "Country": "PHILIPPINES",
+   "Address": "#5 Romblon St ",
+   "Population": 10392,
+   "location__latitude": 14.612998,
+   "location__needs_recoding": false,
+   "location__longitude": 121.006367
+ },
+ {
+   "District": "District 1",
+   "Barangay": "STO. DOMINGO ",
+   "Country": "PHILIPPINES",
+   "Address": "Don Manuel Aggregado St. ",
+   "Population": 13989,
+   "location__latitude": 14.631518,
+   "location__needs_recoding": false,
+   "location__longitude": 121.002367
+ },
+ {
+   "District": "District 1",
+   "Barangay": "TALAYAN ",
+   "Country": "PHILIPPINES",
+   "Address": "Simbal cor. Malambo St., Talayan Village ",
+   "Population": 5669,
+   "location__latitude": 14.632654,
+   "location__needs_recoding": false,
+   "location__longitude": 121.012032
+ },
+ {
+   "District": "District 1",
+   "Barangay": "VASRA ",
+   "Country": "PHILIPPINES",
+   "Address": "40 Forestry St. ",
+   "Population": 8867,
+   "location__latitude": 14.66127,
+   "location__needs_recoding": false,
+   "location__longitude": 121.044861
+ },
+ {
+   "District": "District 1",
+   "Barangay": "VETERANS VILLAGE ",
+   "Country": "PHILIPPINES",
+   "Address": "61 Bansalangin St., Veterans Village ",
+   "Population": 11520,
+   "location__latitude": 14.65353,
+   "location__needs_recoding": false,
+   "location__longitude": 121.024583
+ },
+ {
+   "District": "District 1",
+   "Barangay": "WEST TRIANGLE ",
+   "Country": "PHILIPPINES",
+   "Address": "#8 Daily Mirror St., West Triangle ",
+   "Population": 4199,
+   "location__latitude": 14.643494,
+   "location__needs_recoding": false,
+   "location__longitude": 121.030355
+ },
+ {
+   "District": "District 2",
+   "Barangay": "BAGONG SILANGAN  ",
+   "Country": "PHILIPPINES",
+   "Address": "A. Bonifacio St. ",
+   "Population": 88299,
+   "location__latitude": 14.706505,
+   "location__needs_recoding": false,
+   "location__longitude": 121.05331
+ },
+ {
+   "District": "District 2",
+   "Barangay": "BATASAN HILLS ",
+   "Country": "PHILIPPINES",
+   "Address": "Saret St., Sitio Talanay ",
+   "Population": 161409,
+   "location__latitude": 14.686104,
+   "location__needs_recoding": false,
+   "location__longitude": 121.099351
+ },
+ {
+   "District": "District 2",
+   "Barangay": "COMMONWEALTH ",
+   "Country": "PHILIPPINES",
+   "Address": "Commonwealth Ave., cor. Katuparan St. ",
+   "Population": 198285,
+   "location__latitude": 14.696745,
+   "location__needs_recoding": false,
+   "location__longitude": 121.090912
+ },
+ {
+   "District": "District 2",
+   "Barangay": "HOLY SPIRIT ",
+   "Country": "PHILIPPINES",
+   "Address": "Faustino St., (Annex) – San Simon Road ",
+   "Population": 110447,
+   "location__latitude": 14.68367,
+   "location__needs_recoding": false,
+   "location__longitude": 121.075795
+ },
+ {
+   "District": "District 2",
+   "Barangay": "PAYATAS ",
+   "Country": "PHILIPPINES",
+   "Address": "Bulacan St., Group 3, Area B ",
+   "Population": 130333,
+   "location__latitude": 14.685021,
+   "location__needs_recoding": false,
+   "location__longitude": 121.090985
+ },
+ {
+   "District": "District 3",
+   "Barangay": "AMIHAN",
+   "Country": "PHILIPPINES",
+   "Address": "#13 Palosapis St., Proj. 3",
+   "Population": 4788,
+   "location__latitude": 14.632957,
+   "location__needs_recoding": false,
+   "location__longitude": 121.067015
+ },
+ {
+   "District": "District 3",
+   "Barangay": "BAGUMBAYAN",
+   "Country": "PHILIPPINES",
+   "Address": "#6 San Roque St.",
+   "Population": 13832,
+   "location__latitude": 14.605702,
+   "location__needs_recoding": false,
+   "location__longitude": 121.08362
+ },
+ {
+   "District": "District 3",
+   "Barangay": "BAGUMBUHAY",
+   "Country": "PHILIPPINES",
+   "Address": "Gen. Malvar St., Project 4",
+   "Population": 6767,
+   "location__latitude": 14.635457,
+   "location__needs_recoding": false,
+   "location__longitude": 121.090967
+ },
+ {
+   "District": "District 3",
+   "Barangay": "BAYANIHAN",
+   "Country": "PHILIPPINES",
+   "Address": "#553 Pelaez St., Proj. 4",
+   "Population": 1222,
+   "location__latitude": 14.61563,
+   "location__needs_recoding": false,
+   "location__longitude": 121.069065
+ },
+ {
+   "District": "District 3",
+   "Barangay": "BLUE RIDGE A ",
+   "Country": "PHILIPPINES",
+   "Address": "#13 Cliff Drive ",
+   "Population": 1730,
+   "location__latitude": 14.622792,
+   "location__needs_recoding": false,
+   "location__longitude": 121.074339
+ },
+ {
+   "District": "District 3",
+   "Barangay": "BLUE RIDGE B",
+   "Country": "PHILIPPINES",
+   "Address": "Moonlight Loop St.",
+   "Population": 1701,
+   "location__latitude": 14.618657,
+   "location__needs_recoding": false,
+   "location__longitude": 121.074562
+ },
+ {
+   "District": "District 3",
+   "Barangay": "CAMP AGUINALDO",
+   "Country": "PHILIPPINES",
+   "Address": "Gozar St., Road., West Castaneda, CGEA",
+   "Population": 4977,
+   "location__latitude": 14.602426,
+   "location__needs_recoding": false,
+   "location__longitude": 121.060917
+ },
+ {
+   "District": "District 3",
+   "Barangay": "CLARO (QUIRINO 3-B)",
+   "Country": "PHILIPPINES",
+   "Address": "#20 Almon St., Proj. 3",
+   "Population": 4432,
+   "location__latitude": 14.632474,
+   "location__needs_recoding": false,
+   "location__longitude": 121.065153
+ },
+ {
+   "District": "District 3",
+   "Barangay": "DIOQUINO ZOBEL",
+   "Country": "PHILIPPINES",
+   "Address": "Lizardo St., 20th Ave.",
+   "Population": 1887,
+   "location__latitude": 14.619608,
+   "location__needs_recoding": false,
+   "location__longitude": 121.064704
+ },
+ {
+   "District": "District 3",
+   "Barangay": "DUYAN-DUYAN ",
+   "Country": "PHILIPPINES",
+   "Address": "Kalantas St., cor. Kamagong St.",
+   "Population": 3870,
+   "location__latitude": 14.630512,
+   "location__needs_recoding": false,
+   "location__longitude": 121.066633
+ },
+ {
+   "District": "District 3",
+   "Barangay": "E. RODRIGUEZ",
+   "Country": "PHILIPPINES",
+   "Address": "#40 Purdue St., Cubao",
+   "Population": 19594,
+   "location__latitude": 14.628071,
+   "location__needs_recoding": false,
+   "location__longitude": 121.052315
+ },
+ {
+   "District": "District 3",
+   "Barangay": "EAST KAMIAS",
+   "Country": "PHILIPPINES",
+   "Address": "K-10th St., cor. Kasing-kasing St.",
+   "Population": 6206,
+   "location__latitude": 14.631607,
+   "location__needs_recoding": false,
+   "location__longitude": 121.05732
+ },
+ {
+   "District": "District 3",
+   "Barangay": "ESCOPA I ",
+   "Country": "PHILIPPINES",
+   "Address": "#51 Escopa I, along P. Burgos St.",
+   "Population": 2221,
+   "location__latitude": 14.624536,
+   "location__needs_recoding": false,
+   "location__longitude": 121.074025
+ },
+ {
+   "District": "District 3",
+   "Barangay": "ESCOPA II ",
+   "Country": "PHILIPPINES",
+   "Address": "Escopa II Proper",
+   "Population": 1766,
+   "location__latitude": 14.624399,
+   "location__needs_recoding": false,
+   "location__longitude": 121.074714
+ },
+ {
+   "District": "District 3",
+   "Barangay": "ESCOPA III",
+   "Country": "PHILIPPINES",
+   "Address": "PUD Site Escopa III ",
+   "Population": 8554,
+   "location__latitude": 14.627542,
+   "location__needs_recoding": false,
+   "location__longitude": 121.072678
+ },
+ {
+   "District": "District 3",
+   "Barangay": "ESCOPA IV",
+   "Country": "PHILIPPINES",
+   "Address": "Block 4 Lot 20 Escopa IV, Proj. 4 ",
+   "Population": 1919,
+   "location__latitude": 14.625119,
+   "location__needs_recoding": false,
+   "location__longitude": 121.073887
+ },
+ {
+   "District": "District 3",
+   "Barangay": "LIBIS",
+   "Country": "PHILIPPINES",
+   "Address": "E. Rodriguez Sitio 2 ",
+   "Population": 4018,
+   "location__latitude": 14.615805,
+   "location__needs_recoding": false,
+   "location__longitude": 121.074958
+ },
+ {
+   "District": "District 3",
+   "Barangay": "LOYOLA HEIGHTS",
+   "Country": "PHILIPPINES",
+   "Address": "Park 9 St., Esteban Abada",
+   "Population": 18884,
+   "location__latitude": 14.641133,
+   "location__needs_recoding": false,
+   "location__longitude": 121.074375
+ },
+ {
+   "District": "District 3",
+   "Barangay": "MANGGA",
+   "Country": "PHILIPPINES",
+   "Address": "#4-3C Private Compound., 20th Ave. ",
+   "Population": 1158,
+   "location__latitude": 14.668591,
+   "location__needs_recoding": false,
+   "location__longitude": 121.057108
+ },
+ {
+   "District": "District 3",
+   "Barangay": "MARILAG ",
+   "Country": "PHILIPPINES",
+   "Address": "Plaza Camerino Compound Proj. 4",
+   "Population": 9812,
+   "location__latitude": 14.625087,
+   "location__needs_recoding": false,
+   "location__longitude": 121.068794
+ },
+ {
+   "District": "District 3",
+   "Barangay": "MASAGANA ",
+   "Country": "PHILIPPINES",
+   "Address": "#7 Callejon Conchu St., Proj. 4 ",
+   "Population": 4421,
+   "location__latitude": 14.617681,
+   "location__needs_recoding": false,
+   "location__longitude": 121.066033
+ },
+ {
+   "District": "District 3",
+   "Barangay": "MATANDANG BALARA",
+   "Country": "PHILIPPINES",
+   "Address": "252 Calderon St., Commonwealth Ave.",
+   "Population": 71022,
+   "location__latitude": 14.66792,
+   "location__needs_recoding": false,
+   "location__longitude": 121.077031
+ },
+ {
+   "District": "District 3",
+   "Barangay": "MILAGROSA",
+   "Country": "PHILIPPINES",
+   "Address": "Tirona St., Proj. 4 ",
+   "Population": 6130,
+   "location__latitude": 14.621221,
+   "location__needs_recoding": false,
+   "location__longitude": 121.071026
+ },
+ {
+   "District": "District 3",
+   "Barangay": "PANSOL",
+   "Country": "PHILIPPINES",
+   "Address": "Plaza St.",
+   "Population": 34240,
+   "location__latitude": 14.645,
+   "location__needs_recoding": false,
+   "location__longitude": 121.050551
+ },
+ {
+   "District": "District 3",
+   "Barangay": "QUIRINO 2-A ",
+   "Country": "PHILIPPINES",
+   "Address": "Chico cor. Kubili St., Project 2",
+   "Population": 5520,
+   "location__latitude": 14.630994,
+   "location__needs_recoding": false,
+   "location__longitude": 121.058539
+ },
+ {
+   "District": "District 3",
+   "Barangay": "QUIRINO 2-B ",
+   "Country": "PHILIPPINES",
+   "Address": "Paco cor. Langka St.",
+   "Population": 3612,
+   "location__latitude": 14.581666,
+   "location__needs_recoding": false,
+   "location__longitude": 120.997168
+ },
+ {
+   "District": "District 3",
+   "Barangay": "QUIRINO 2-C ",
+   "Country": "PHILIPPINES",
+   "Address": "#179 Bignay St., Project 2",
+   "Population": 2830,
+   "location__latitude": 14.635929,
+   "location__needs_recoding": false,
+   "location__longitude": 121.06299
+ },
+ {
+   "District": "District 3",
+   "Barangay": "QUIRINO 3-A ",
+   "Country": "PHILIPPINES",
+   "Address": "#17 Anonas St., Proj. 3 ",
+   "Population": 1141,
+   "location__latitude": 14.628714,
+   "location__needs_recoding": false,
+   "location__longitude": 121.062979
+ },
+ {
+   "District": "District 3",
+   "Barangay": "SAN ROQUE",
+   "Country": "PHILIPPINES",
+   "Address": "#85 19th Ave., Diego Silang St.",
+   "Population": 20095,
+   "location__latitude": 14.617802,
+   "location__needs_recoding": false,
+   "location__longitude": 121.063817
+ },
+ {
+   "District": "District 3",
+   "Barangay": "SILANGAN",
+   "Country": "PHILIPPINES",
+   "Address": "#193 Ermin Garcia St., cor. Kalayaan St",
+   "Population": 5036,
+   "location__latitude": 14.629165,
+   "location__needs_recoding": false,
+   "location__longitude": 121.056047
+ },
+ {
+   "District": "District 3",
+   "Barangay": "SOCORRO",
+   "Country": "PHILIPPINES",
+   "Address": "15th Ave. cor. Boni Serrano St., Cubao",
+   "Population": 25073,
+   "location__latitude": 14.618824,
+   "location__needs_recoding": false,
+   "location__longitude": 121.060173
+ },
+ {
+   "District": "District 3",
+   "Barangay": "ST. IGNATIUS",
+   "Country": "PHILIPPINES",
+   "Address": "Riverside St.",
+   "Population": 2005,
+   "location__latitude": 14.693267,
+   "location__needs_recoding": false,
+   "location__longitude": 121.08456
+ },
+ {
+   "District": "District 3",
+   "Barangay": "TAGUMPAY ",
+   "Country": "PHILIPPINES",
+   "Address": "2-B P. Tuazon St., Proj. 4 ",
+   "Population": 2208,
+   "location__latitude": 14.62182,
+   "location__needs_recoding": false,
+   "location__longitude": 121.06433
+ },
+ {
+   "District": "District 3",
+   "Barangay": "UGONG NORTE",
+   "Country": "PHILIPPINES",
+   "Address": "Gate 1, Corinthian Garden",
+   "Population": 9953,
+   "location__latitude": 14.595757,
+   "location__needs_recoding": false,
+   "location__longitude": 121.065041
+ },
+ {
+   "District": "District 3",
+   "Barangay": "VILLA MARIA CLARA ",
+   "Country": "PHILIPPINES",
+   "Address": "Alimudin St., Proj. 4",
+   "Population": 2393,
+   "location__latitude": 14.618921,
+   "location__needs_recoding": false,
+   "location__longitude": 121.068819
+ },
+ {
+   "District": "District 3",
+   "Barangay": "WEST KAMIAS",
+   "Country": "PHILIPPINES",
+   "Address": "#2 K-10th St., West Kamias",
+   "Population": 4918,
+   "location__latitude": 14.628865,
+   "location__needs_recoding": false,
+   "location__longitude": 121.047841
+ },
+ {
+   "District": "District 3",
+   "Barangay": "WHITE PLAINS",
+   "Country": "PHILIPPINES",
+   "Address": "Gold Star St.",
+   "Population": 4734,
+   "location__latitude": 14.698265,
+   "location__needs_recoding": false,
+   "location__longitude": 121.052408
+ },
+ {
+   "District": "District 4",
+   "Barangay": "BAGONG LIPUNAN NG CRAME ",
+   "Country": "PHILIPPINES",
+   "Address": "#57 1st Ave., Cubao ",
+   "Population": 14996,
+   "location__latitude": 14.660414,
+   "location__needs_recoding": false,
+   "location__longitude": 121.04011
+ },
+ {
+   "District": "District 4",
+   "Barangay": "BOTOCAN ",
+   "Country": "PHILIPPINES",
+   "Address": "Makadios St. ",
+   "Population": 8234,
+   "location__latitude": 14.637102,
+   "location__needs_recoding": false,
+   "location__longitude": 121.06195
+ },
+ {
+   "District": "District 4",
+   "Barangay": "CENTRAL ",
+   "Country": "PHILIPPINES",
+   "Address": "QC Hall Compound ",
+   "Population": 17590,
+   "location__latitude": 14.646412,
+   "location__needs_recoding": false,
+   "location__longitude": 121.05005
+ },
+ {
+   "District": "District 4",
+   "Barangay": "DAMAYANG LAGI ",
+   "Country": "PHILIPPINES",
+   "Address": "La Felonila cor. E. Rodriguez Sr. Ave. ",
+   "Population": 18599,
+   "location__latitude": 14.619177,
+   "location__needs_recoding": false,
+   "location__longitude": 121.020096
+ },
+ {
+   "District": "District 4",
+   "Barangay": "DON MANUEL ",
+   "Country": "PHILIPPINES",
+   "Address": "Matimyas cor. Data St. ",
+   "Population": 3753,
+   "location__latitude": 14.616477,
+   "location__needs_recoding": false,
+   "location__longitude": 121.005433
+ },
+ {
+   "District": "District 4",
+   "Barangay": "DOÑA AURORA ",
+   "Country": "PHILIPPINES",
+   "Address": "N. Ponce St., cor. Luskot St. ",
+   "Population": 5636,
+   "location__latitude": 14.615616,
+   "location__needs_recoding": false,
+   "location__longitude": 121.00873
+ },
+ {
+   "District": "District 4",
+   "Barangay": "DOÑA IMELDA ",
+   "Country": "PHILIPPINES",
+   "Address": "#145 Bayani St. cor. Guirayan St. ",
+   "Population": null,
+   "location__latitude": 14.615142,
+   "location__needs_recoding": false,
+   "location__longitude": 121.017644
+ },
+ {
+   "District": "District 4",
+   "Barangay": "DOÑA JOSEFA ",
+   "Country": "PHILIPPINES",
+   "Address": "Agno cor. Kitanlad St. ",
+   "Population": 16915,
+   "location__latitude": 14.618932,
+   "location__needs_recoding": false,
+   "location__longitude": 121.004932
+ },
+ {
+   "District": "District 4",
+   "Barangay": "HORSESHOE ",
+   "Country": "PHILIPPINES",
+   "Address": "Sunset Drive Horseshoe Village ",
+   "Population": 3004,
+   "location__latitude": 14.610968,
+   "location__needs_recoding": false,
+   "location__longitude": 121.043594
+ },
+ {
+   "District": "District 4",
+   "Barangay": "IMMACULATE CONCEPCION ",
+   "Country": "PHILIPPINES",
+   "Address": "1734 Rm. 304, Sujeco Bldg., E. Rodriguez Sr. Ave ",
+   "Population": 8670,
+   "location__latitude": 14.623297,
+   "location__needs_recoding": false,
+   "location__longitude": 121.044317
+ },
+ {
+   "District": "District 4",
+   "Barangay": "KALUSUGAN ",
+   "Country": "PHILIPPINES",
+   "Address": "19th St., cor. Sta. Ignacia St., New Manila ",
+   "Population": 1745,
+   "location__latitude": 14.625613,
+   "location__needs_recoding": false,
+   "location__longitude": 121.022613
+ },
+ {
+   "District": "District 4",
+   "Barangay": "KAMUNING ",
+   "Country": "PHILIPPINES",
+   "Address": "#113 Kamuning Road ",
+   "Population": 15661,
+   "location__latitude": 14.630182,
+   "location__needs_recoding": false,
+   "location__longitude": 121.04373
+ },
+ {
+   "District": "District 4",
+   "Barangay": "KAUNLARAN ",
+   "Country": "PHILIPPINES",
+   "Address": "#156 N. Domingo St., Cubao ",
+   "Population": 21513,
+   "location__latitude": 14.616034,
+   "location__needs_recoding": false,
+   "location__longitude": 121.041887
+ },
+ {
+   "District": "District 4",
+   "Barangay": "KRISTONG HARI ",
+   "Country": "PHILIPPINES",
+   "Address": "Doña Juana Rodriguez St. ",
+   "Population": 4089,
+   "location__latitude": 14.61751,
+   "location__needs_recoding": false,
+   "location__longitude": 121.029443
+ },
+ {
+   "District": "District 4",
+   "Barangay": "KRUS NA LIGAS ",
+   "Country": "PHILIPPINES",
+   "Address": "Plaza Sta. Inez ",
+   "Population": 21513,
+   "location__latitude": 14.644274,
+   "location__needs_recoding": false,
+   "location__longitude": 121.063846
+ },
+ {
+   "District": "District 4",
+   "Barangay": "LAGING HANDA ",
+   "Country": "PHILIPPINES",
+   "Address": "73 Sct. Gandia St., cor. Sct. Tuazon St. ",
+   "Population": 6750,
+   "location__latitude": 14.632157,
+   "location__needs_recoding": false,
+   "location__longitude": 121.032822
+ },
+ {
+   "District": "District 4",
+   "Barangay": "MALAYA ",
+   "Country": "PHILIPPINES",
+   "Address": "Dead end of Matahimik St. ",
+   "Population": 4109,
+   "location__latitude": 14.634249,
+   "location__needs_recoding": false,
+   "location__longitude": 121.055166
+ },
+ {
+   "District": "District 4",
+   "Barangay": "MARIANA ",
+   "Country": "PHILIPPINES",
+   "Address": "#122 4th St. cor New Jersey St., New Manila ",
+   "Population": 11227,
+   "location__latitude": 14.617148,
+   "location__needs_recoding": false,
+   "location__longitude": 121.036865
+ },
+ {
+   "District": "District 4",
+   "Barangay": "OBRERO ",
+   "Country": "PHILIPPINES",
+   "Address": "Parkway Cor. T. Morato Ave. ",
+   "Population": 8269,
+   "location__latitude": 14.626404,
+   "location__needs_recoding": false,
+   "location__longitude": 121.033477
+ },
+ {
+   "District": "District 4",
+   "Barangay": "OLD CAPITOL SITE ",
+   "Country": "PHILIPPINES",
+   "Address": "Matiwasay cor. Masaya Ext. ",
+   "Population": 1192,
+   "location__latitude": 14.64961,
+   "location__needs_recoding": false,
+   "location__longitude": 121.054853
+ },
+ {
+   "District": "District 4",
+   "Barangay": "PALIGSAHAN ",
+   "Country": "PHILIPPINES",
+   "Address": "A. Roces Ave. beside Glori Supermarket ",
+   "Population": 5611,
+   "location__latitude": 14.630107,
+   "location__needs_recoding": false,
+   "location__longitude": 121.027739
+ },
+ {
+   "District": "District 4",
+   "Barangay": "PINAGKAISAHAN ",
+   "Country": "PHILIPPINES",
+   "Address": "Ermin Garcia St. beside Ramon Magsaysay High School, Cubao ",
+   "Population": 6929,
+   "location__latitude": 14.627374,
+   "location__needs_recoding": false,
+   "location__longitude": 121.047405
+ },
+ {
+   "District": "District 4",
+   "Barangay": "PINYAHAN ",
+   "Country": "PHILIPPINES",
+   "Address": "Malakas St. back of LTO ",
+   "Population": 27653,
+   "location__latitude": 14.63907,
+   "location__needs_recoding": false,
+   "location__longitude": 121.048441
+ },
+ {
+   "District": "District 4",
+   "Barangay": "ROXAS ",
+   "Country": "PHILIPPINES",
+   "Address": "Jasmin St., cor. Madre Silva St. ",
+   "Population": 16060,
+   "location__latitude": 14.628252,
+   "location__needs_recoding": false,
+   "location__longitude": 121.021909
+ },
+ {
+   "District": "District 4",
+   "Barangay": "SACRED HEART ",
+   "Country": "PHILIPPINES",
+   "Address": "17-C Scout Ybardolaza St. ",
+   "Population": 8282,
+   "location__latitude": 14.630017,
+   "location__needs_recoding": false,
+   "location__longitude": 121.037631
+ },
+ {
+   "District": "District 4",
+   "Barangay": "SAN ISIDRO GALAS ",
+   "Country": "PHILIPPINES",
+   "Address": "Unang Hakbang St., Galas ",
+   "Population": 8578,
+   "location__latitude": 14.611256,
+   "location__needs_recoding": false,
+   "location__longitude": 121.009748
+ },
+ {
+   "District": "District 4",
+   "Barangay": "SAN MARTIN DE PORRES ",
+   "Country": "PHILIPPINES",
+   "Address": "Conrado Benitez St. ",
+   "Population": 12315,
+   "location__latitude": 14.64701,
+   "location__needs_recoding": false,
+   "location__longitude": 121.033818
+ },
+ {
+   "District": "District 4",
+   "Barangay": "SAN VICENTE ",
+   "Country": "PHILIPPINES",
+   "Address": "Maayusin Ext. ",
+   "Population": 7274,
+   "location__latitude": 14.652618,
+   "location__needs_recoding": false,
+   "location__longitude": 121.057061
+ },
+ {
+   "District": "District 4",
+   "Barangay": "SANTOL ",
+   "Country": "PHILIPPINES",
+   "Address": "#60 Silencio cor. Baloy St. ",
+   "Population": 7548,
+   "location__latitude": 14.613447,
+   "location__needs_recoding": false,
+   "location__longitude": 121.017231
+ },
+ {
+   "District": "District 4",
+   "Barangay": "SIKATUNA VILLAGE ",
+   "Country": "PHILIPPINES",
+   "Address": "Alley 80 V. Luna Ext. (beside Glori Supermarket) ",
+   "Population": 6996,
+   "location__latitude": 14.635862,
+   "location__needs_recoding": false,
+   "location__longitude": 121.059201
+ },
+ {
+   "District": "District 4",
+   "Barangay": "SOUTH TRIANGLE ",
+   "Country": "PHILIPPINES",
+   "Address": "Scout Bayoran ",
+   "Population": 15546,
+   "location__latitude": 14.638128,
+   "location__needs_recoding": false,
+   "location__longitude": 121.035487
+ },
+ {
+   "District": "District 4",
+   "Barangay": "STO. NIÑO ",
+   "Country": "PHILIPPINES",
+   "Address": "San Isidro cor. Santol St. ",
+   "Population": 10278,
+   "location__latitude": 14.611387,
+   "location__needs_recoding": false,
+   "location__longitude": 121.013054
+ },
+ {
+   "District": "District 4",
+   "Barangay": "TATALON ",
+   "Country": "PHILIPPINES",
+   "Address": "Cabalata St. ",
+   "Population": 63129,
+   "location__latitude": 14.623182,
+   "location__needs_recoding": false,
+   "location__longitude": 121.013248
+ },
+ {
+   "District": "District 4",
+   "Barangay": "TEACHERS' VILLAGE EAST ",
+   "Country": "PHILIPPINES",
+   "Address": "Maginhawa cor. Masinsinan St. ",
+   "Population": 3401,
+   "location__latitude": 14.645364,
+   "location__needs_recoding": false,
+   "location__longitude": 121.060882
+ },
+ {
+   "District": "District 4",
+   "Barangay": "TEACHERS' VILLAGE WEST ",
+   "Country": "PHILIPPINES",
+   "Address": "#49 Mahinhin St. ",
+   "Population": 4270,
+   "location__latitude": 14.645452,
+   "location__needs_recoding": false,
+   "location__longitude": 121.05563
+ },
+ {
+   "District": "District 4",
+   "Barangay": "UP CAMPUS ",
+   "Country": "PHILIPPINES",
+   "Address": "Amorsolo Civic Complex, CP Garcia Ave. ",
+   "Population": 45520,
+   "location__latitude": 14.647973,
+   "location__needs_recoding": false,
+   "location__longitude": 121.066145
+ },
+ {
+   "District": "District 4",
+   "Barangay": "UP VILLAGE ",
+   "Country": "PHILIPPINES",
+   "Address": "Maayusin cor. Mapayapa St. ",
+   "Population": 5157,
+   "location__latitude": 14.647284,
+   "location__needs_recoding": false,
+   "location__longitude": 121.058775
+ },
+ {
+   "District": "District 4",
+   "Barangay": "VALENCIA ",
+   "Country": "PHILIPPINES",
+   "Address": "#164ÂÂ  Santolan Road ",
+   "Population": 8547,
+   "location__latitude": 14.608787,
+   "location__needs_recoding": false,
+   "location__longitude": 121.046335
+ },
+ {
+   "District": "District 5",
+   "Barangay": "BAGBAG ",
+   "Country": "PHILIPPINES",
+   "Address": "#625 Parokya ng Pagkabuhay Road ",
+   "Population": 56936,
+   "location__latitude": 14.696594,
+   "location__needs_recoding": false,
+   "location__longitude": 121.030395
+ },
+ {
+   "District": "District 5",
+   "Barangay": "CAPRI ",
+   "Country": "PHILIPPINES",
+   "Address": "Narra St., Area 3, Brgy. Capri ",
+   "Population": 14587,
+   "location__latitude": 14.686648,
+   "location__needs_recoding": false,
+   "location__longitude": 121.063411
+ },
+ {
+   "District": "District 5",
+   "Barangay": "FAIRVIEW ",
+   "Country": "PHILIPPINES",
+   "Address": "Dahlia Ave., West fairview ",
+   "Population": 53151,
+   "location__latitude": 14.699475,
+   "location__needs_recoding": false,
+   "location__longitude": 121.062935
+ },
+ {
+   "District": "District 5",
+   "Barangay": "GREATER LAGRO ",
+   "Country": "PHILIPPINES",
+   "Address": "Blk. 47 Lot 1 Ascension St., Lagro Plaza ",
+   "Population": 22764,
+   "location__latitude": 14.714986,
+   "location__needs_recoding": false,
+   "location__longitude": 121.067109
+ },
+ {
+   "District": "District 5",
+   "Barangay": "GULOD ",
+   "Country": "PHILIPPINES",
+   "Address": "#915 Quirino Highway ",
+   "Population": 53325,
+   "location__latitude": 14.6954,
+   "location__needs_recoding": false,
+   "location__longitude": 121.031778
+ },
+ {
+   "District": "District 5",
+   "Barangay": "KALIGAYAHAN ",
+   "Country": "PHILIPPINES",
+   "Address": "Mockingbird St., Zabarte Subd. ",
+   "Population": 54576,
+   "location__latitude": 14.734037,
+   "location__needs_recoding": false,
+   "location__longitude": 121.052349
+ },
+ {
+   "District": "District 5",
+   "Barangay": "NAGKAISANG NAYON ",
+   "Country": "PHILIPPINES",
+   "Address": "Banahaw St., Sito Capri ",
+   "Population": 49048,
+   "location__latitude": 14.632288,
+   "location__needs_recoding": false,
+   "location__longitude": 120.967551
+ },
+ {
+   "District": "District 5",
+   "Barangay": "NORTH FAIRVIEW ",
+   "Country": "PHILIPPINES",
+   "Address": "Brookside cor. Brimley St., Fairview Homes ",
+   "Population": 41154,
+   "location__latitude": 14.707246,
+   "location__needs_recoding": false,
+   "location__longitude": 121.06355
+ },
+ {
+   "District": "District 5",
+   "Barangay": "NOVALICHES PROPER ",
+   "Country": "PHILIPPINES",
+   "Address": "Novaliches Proper ",
+   "Population": 15381,
+   "location__latitude": 14.720093,
+   "location__needs_recoding": false,
+   "location__longitude": 121.03781
+ },
+ {
+   "District": "District 5",
+   "Barangay": "PASONG PUTIK PROPER ",
+   "Country": "PHILIPPINES",
+   "Address": "Belfast Ave., cor. Bishop St., Teresa Heights Subd.",
+   "Population": 35135,
+   "location__latitude": 14.731246,
+   "location__needs_recoding": false,
+   "location__longitude": 121.054293
+ },
+ {
+   "District": "District 5",
+   "Barangay": "SAN AGUSTIN ",
+   "Country": "PHILIPPINES",
+   "Address": "Patnubay St., St. Francis Village ",
+   "Population": 22423,
+   "location__latitude": 14.729589,
+   "location__needs_recoding": false,
+   "location__longitude": 121.039548
+ },
+ {
+   "District": "District 5",
+   "Barangay": "SAN BARTOLOME ",
+   "Country": "PHILIPPINES",
+   "Address": "Quirino Highway cor. P. Dela Cruz St. ",
+   "Population": 45188,
+   "location__latitude": 14.700796,
+   "location__needs_recoding": false,
+   "location__longitude": 121.034961
+ },
+ {
+   "District": "District 5",
+   "Barangay": "STA. LUCIA ",
+   "Country": "PHILIPPINES",
+   "Address": "Sta. Lucia Ave ",
+   "Population": 25577,
+   "location__latitude": 14.707447,
+   "location__needs_recoding": false,
+   "location__longitude": 121.053584
+ },
+ {
+   "District": "District 5",
+   "Barangay": "STA. MONICA ",
+   "Country": "PHILIPPINES",
+   "Address": "Moises St., Jordan Plains ",
+   "Population": 46553,
+   "location__latitude": 14.721386,
+   "location__needs_recoding": false,
+   "location__longitude": 121.047838
+ },
+ {
+   "District": "District 6",
+   "Barangay": "APOLONIO SAMSON ",
+   "Country": "PHILIPPINES",
+   "Address": "Kaingin Road. cor. Old Samson Road ",
+   "Population": 38583,
+   "location__latitude": 14.655524,
+   "location__needs_recoding": false,
+   "location__longitude": 121.011617
+ },
+ {
+   "District": "District 6",
+   "Barangay": "BAESA ",
+   "Country": "PHILIPPINES",
+   "Address": "#3 Joaquin St., T.S. Cruz Subd. ",
+   "Population": 61278,
+   "location__latitude": 14.675025,
+   "location__needs_recoding": false,
+   "location__longitude": 121.012763
+ },
+ {
+   "District": "District 6",
+   "Barangay": "BALON BATO ",
+   "Country": "PHILIPPINES",
+   "Address": "Maxima Drive St ",
+   "Population": 8228,
+   "location__latitude": 14.631218,
+   "location__needs_recoding": false,
+   "location__longitude": 121.017553
+ },
+ {
+   "District": "District 6",
+   "Barangay": "CULIAT ",
+   "Country": "PHILIPPINES",
+   "Address": "Along Tandang Sora Ave. beside Culiat High School ",
+   "Population": 74304,
+   "location__latitude": 14.668174,
+   "location__needs_recoding": false,
+   "location__longitude": 121.056368
+ },
+ {
+   "District": "District 6",
+   "Barangay": "NEW ERA ",
+   "Country": "PHILIPPINES",
+   "Address": "St. Joseph St., Milton Hills ",
+   "Population": 13365,
+   "location__latitude": 14.62246,
+   "location__needs_recoding": false,
+   "location__longitude": 121.025507
+ },
+ {
+   "District": "District 6",
+   "Barangay": "PASONG TAMO ",
+   "Country": "PHILIPPINES",
+   "Address": "JP Eugenio St., Philand Drive ",
+   "Population": 103100,
+   "location__latitude": 14.675465,
+   "location__needs_recoding": false,
+   "location__longitude": 121.049496
+ },
+ {
+   "District": "District 6",
+   "Barangay": "SANGANDAAN ",
+   "Country": "PHILIPPINES",
+   "Address": "Premium St., cor. Parklane St., GSIS Village ",
+   "Population": 24061,
+   "location__latitude": 14.674344,
+   "location__needs_recoding": false,
+   "location__longitude": 121.021675
+ },
+ {
+   "District": "District 6",
+   "Barangay": "SAUYO ",
+   "Country": "PHILIPPINES",
+   "Address": "Old Sauyo Road cor. Sampaguita St. ",
+   "Population": 76039,
+   "location__latitude": 14.689598,
+   "location__needs_recoding": false,
+   "location__longitude": 121.033781
+ },
+ {
+   "District": "District 6",
+   "Barangay": "TALIPAPA ",
+   "Country": "PHILIPPINES",
+   "Address": "#506 Quirino Highway ",
+   "Population": 35077,
+   "location__latitude": 14.687658,
+   "location__needs_recoding": false,
+   "location__longitude": 121.025464
+ },
+ {
+   "District": "District 6",
+   "Barangay": "TANDANG SORA ",
+   "Country": "PHILIPPINES",
+   "Address": "#116 Mindanao Ave., Ext. ",
+   "Population": 90290,
+   "location__latitude": 14.691064,
+   "location__needs_recoding": false,
+   "location__longitude": 121.027629
+ },
+ {
+   "District": "District 6",
+   "Barangay": "UNANG SIGAW ",
+   "Country": "PHILIPPINES",
+   "Address": "Beside Bonifacio Ave. ",
+   "Population": 7267,
+   "location__latitude": 14.666206,
+   "location__needs_recoding": false,
+   "location__longitude": 121.035196
+ }
+]

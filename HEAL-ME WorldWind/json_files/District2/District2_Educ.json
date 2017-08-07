@@ -1,0 +1,23 @@
+[
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"No. 1 Villongco St. corner Commonwealth Ave "
+    ,"District":"District 2"
+    ,"Barangay":"Commonwealth"
+    ,"location":{
+    "latitude":14.731666
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048713
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"AICS Building Commonwealth Ave. cor. Holy Spirit Drive Brgy. San Antonio"
+    ,"District":"District 2"
+    ,"Barangay":"Holy Spirit"
+    ,"location":{
+    "latitude":14.73379
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061465
+}
+  }]

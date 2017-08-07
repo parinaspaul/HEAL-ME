@@ -1,0 +1,43 @@
+Hospital_Name,Country,Type,Address,Contact,Email,Website,location__latitude,location__needs_recoding,location__longitude,District
+Novaliches General Hospital,PHILIPPINES,Private,"793 Quirino Highway, Gulod, Novaliches, Quezon City",936-1817/938-7840/Fax:418-5074,novagenhosp@tri_isys.com,,14.709467,False,121.038901,6
+Casaul General Hospital Inc.,PHILIPPINES,Private,"16 Tandang Sora Avenue, Novaliches",,n/a,,14.674436,False,121.047146,6
+Bernardino General Hospital Corporation,PHILIPPINES,Private,"680 Quirino Highway, San Bartolome, Novaliches, Quezon City", 418-6711/418-6684/Fax: 939-8050 ,n/a,,14.695336,False,121.031738,6
+Queensberry Hospital,PHILIPPINES,Private,"56 Ramirez St., Novaliches",(02) 417 5827,n/a,,14.723806,False,121.039794,6
+San Lorenzo Hospital Health Management Co,PHILIPPINES,Private,"Quirino Highway, Bgy. Pasong Putik Lagro, Novaliches",,n/a,,14.692606,False,121.029594,1
+Word of Hope General Hospital Foundation Inc,PHILIPPINES,Private,"23 Buenamar Street, Buenamar Subd",(02) 417 9175,n/a,,14.719355,False,121.039035,6
+Bernardino General Hospital II,PHILIPPINES,Private,"Block 1 Lot Zabarte Rd. Brgy., 2 Olympus, Novaliches, Quezon City, Metro Manila",(02) 418 6684,n/a,,14.739742,False,121.04675,5
+Cruz-Dalida Maternity Hospital Inc,PHILIPPINES,Private,1025 F. Salvador Ave Jordan Plains Subd Bgy Santa Monic,417-4080/Fax: 936-6135,n/a,,14.724238,False,121.047287,5
+Nodado General Hospital,PHILIPPINES,Private,23 Zabarte Road Kaligayan,(02) 937 1485,n/a,,14.738316,False,121.047242,5
+Ann Francis Mother & Child Hospital,PHILIPPINES,Private,606 Quirino Highway,938-9424/936-3256,n/a,,14.725003,False,121.041442,6
+DIHMESCO General Hospital,PHILIPPINES,Private,"215 Gen. Luis Street, San Agustin , San Agustin , 1117 Quezon City , Metro Manila, Novaliches, Quezon City, Metro Manila",(02) 937 4552,n/a,,14.722041,False,121.035899,5
+Valdez-Padron Hospital,PHILIPPINES,Private,"12 Marianito St., Gulod, Novaliches, Quezon City",Tel.  419-9339,n/a,,14.708397,False,121.03966,5
+Neopolitan General Hospital,PHILIPPINES,Private,"Flordeliza Bldg., KM 23 Quirino Highway Lagro, Novaliches, Quezon City ",936-4575 to 76,n/a,,14.735265,False,121.068683,5
+Pascual General Hospital,PHILIPPINES,Private,"130 Baesa, Novaliches, Quezon City",Telefax: 362-5862,n/a,,14.665979,False,121.006702,6
+FEU-Nicanor Reyes Medical Foundation Medical Center,PHILIPPINES,Private,"Regalado Ave., West Fairview, Quezon City 1108",427-0213/938-4881/Fax: 938-4881,n/a,,14.699865,False,121.067706,5
+Fairview General Hospital,PHILIPPINES,Private,"Lot 20 Fairview Ave., cor. Mercury St., Brgy. Fairview, Capitol District,Quezon City",939-9689/Fax: 938-4796,n/a,,14.671402,False,121.035894,5
+Newman Homecare and Rehabilitation Center Inc,PHILIPPINES,Private,"37, Fairlane Street, corner Coronet Street, Fairview Park, Quezon City, 1118 Metro Manila",(02) 431 5059,n/a,,14.70269,False,121.065545,5
+F.Y. Manalo Medical Foundation Inc,PHILIPPINES,Private,Commonwealth Ave. cor Tandang Sora,,n/a,,14.665753,False,121.070844,6
+Gen. Miguel Malvar Medical Foundation Hospital,PHILIPPINES,Private,531 Commonwealth Avenue,(02) 932 8867,n/a,,14.667328,False,121.073205,2
+Overseas Contract Workers General Hospital,PHILIPPINES,Private,"39 Tandang Sora Avenue, Culiat St.",,n/a,,14.670622,False,121.051978,6
+Dr. Montano G. Ramos Hospital,PHILIPPINES,Private,"Mindanao Avenue, Bahay Toro",0905 557 7613,n/a,,14.669378,False,121.033026,1
+Q.C. St. Agnes General Hospital Inc,PHILIPPINES,Private,241 Roosevelt Ave San Francisco Del Monte," 374-2769/374-2772 to 73 (Dr. Marianito Abagon, Medical Director)",n/a,,14.640133,False,121.016412,1
+Excellent Community Care Center,PHILIPPINES,Private,"141 Roosevelt St., Bgy. Paraiso San Francisco Del Monte",,n/a,,14.639462,False,121.017721,1
+Dr. Montano G. Ramos General Hospital,PHILIPPINES,Private,"46 Bukidnon St., Bago Bantay",927-6628/453-1377/Fax: 453-2453 / (0919) 288-7389,n/a,,14.65962,False,121.023498,1
+J.P. Sioson Gen. Hosp. and Colleges Inc.,PHILIPPINES,Private,"75 Bukidnon St., Bago Bantay",927-1339/927-5643/Fax: 455-4281,n/a,,14.659852,False,121.025494,1
+Estrellas Nex Care Co,PHILIPPINES,Private,"175 Kamias Road, Quirino",,n/a,,14.631786,False,121.049427,4
+Full House Custodial Care Center,PHILIPPINES,Private,"150 K-6th St., East Kamias",(02) 922 3751,n/a,,14.633792,False,121.058367,4
+Dr. Jesus C. Delgado Memorial Hospital,PHILIPPINES,Private,7 Kamuning Road,Tel: 924-4051 to 61/Fax: 928-5945,jdmh@skyinet.net,,14.6277,False,121.034809,4
+Life Change Recovery Center Inc.,PHILIPPINES,Private,"105 Scout Rallos St., Bgy. Kamuning",(02) 415 6529 ,n/a,,14.633055,False,121.040284,4
+The Clinic of the Holy Spirit Inc.,PHILIPPINES,Private,"4 Los Angeles St., Immaculate Concepcion",(02) 721 7180,n/a,,14.624069,False,121.04269,4
+Sta. Teresita General Hospital,PHILIPPINES,Private,100 Tuazon St,Tel. 731-9803/731-7511/743-8770,n/a,,14.624705,False,121.00235,1
+Villarosa Hospital,PHILIPPINES,Private,11 Salalilla St.,Tel.  913-9705/421-1281/Fax  913-9712,n/a,,14.621833,False,121.066083,3
+St. Luke’s Medical Center,PHILIPPINES,Private,279 E. Rodriguez Sr. Blvd,Tel.  723-0101/Fax  724-4227 ,info@stluke.com.ph ,,14.622527,False,121.023238,4
+De Los Santos Medical Center,PHILIPPINES,Private,201 E. Rodriguez Sr. Blvd,(02) 893 5762 ,n/a,delossantosmed.ph ,14.619821,False,121.017648,4
+UERM Memorial Medical Center,PHILIPPINES,Private,"Aurora Blvd., Quezon City",(02) 715 0861,n/a,,14.62024,False,121.046889,4
+World Citi Medical Center,PHILIPPINES,Private,960 Aurora Blvd. Extension,Tel. 913-8380/Fax  913-8383,n/a,,14.627197,False,121.063374,4
+Sunshine.Com Inc.,PHILIPPINES,Private,"95 4th St., New Manila",(02) 721 7767 ,n/a,,14.615148,False,121.03353,4
+Sunrise Hill Therapeutic Community Hospital,PHILIPPINES,Private,"20 11th St., New Manila",(02) 724 6128,n/a,,14.616958,False,121.023175,4
+Capitol Medical Center,PHILIPPINES,Private,17 Panay Avenue,Tel.  938-7789/938-8882/Fax: 939-7229,n/a,,14.631611,False,121.019331,4
+Dr. Fe Del Mundo Medical Center,PHILIPPINES,Private,11 Banaue St.,(02) 712 0845 ,n/a,fedelmundo.com.ph ,14.620645,False,121.009388,4
+United Doctors Medical Center,PHILIPPINES,Private,6 N. Ramirez St.,Tel. 712-3640 to 49,n/a,,14.616894,False,121.00196,4
+,PHILIPPINES,Private,,,n/a,,,False,,

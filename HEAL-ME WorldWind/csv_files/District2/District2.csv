@@ -1,0 +1,3 @@
+Hospital_Name,Country,Type,Address,Contact,Email,Founded,location__latitude,location__needs_recoding,location__longitude,District
+Gen. Miguel Malvar Medical Foundation Hospital,PHILIPPINES,Private,531 Commonwealth Avenue,(02) 932 8867,n/a,,14.667328,False,121.073205,2
+Isidora Community Clinic and Lying In ,PHILIPPINES,,"De Leon Street, Holy Spirit , 1127 ",(02) 385 9490 ,n/a,,14.6849,False,121.075646,2

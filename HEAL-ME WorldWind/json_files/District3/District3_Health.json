@@ -1,0 +1,85 @@
+[
+  {
+     "Hospital_Name":"Camp Gen. Emilio Aguinaldo Station Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"Camp Gen. E. Aguinaldo, Murphy, Cubao"
+    ,"Contact":"(02) 911 6001"
+    ,"Email":"n/a"
+    ,"District":"3"
+    ,"location":{
+          "latitude":14.624835
+         ,"needs_recoding":"False"
+         ,"longitude":121.051786
+    }
+  },
+  {
+     "Hospital_Name":"Quirino Memorial Medical Center"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Public"
+    ,"Address":"Project 4, Katipunan, Quezon City"
+    ,"Contact":"913-4758/437-3660/Fax  913-4558"
+    ,"Email":"n/a"
+    ,"District":"3"
+    ,"location":{
+          "latitude":14.624216
+         ,"needs_recoding":"False"
+         ,"longitude":121.074298
+    }
+  },
+  {
+     "Hospital_Name":"Villarosa Hospital"
+    ,"Country":"PHILIPPINES"
+    ,"Type":"Private"
+    ,"Address":"11 Salalilla St."
+    ,"Contact":"Tel.  913-9705/421-1281/Fax  913-9712"
+    ,"Email":"n/a"
+    ,"District":"3"
+    ,"location":{
+          "latitude":14.621833
+         ,"needs_recoding":"False"
+         ,"longitude":121.066083
+    }
+  },
+  {
+     "Hospital_Name":"Community Medical and Dental Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"Do?a Felicidad, Matandang Balara"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"3"
+    ,"location":{
+          "latitude":14.674748
+         ,"needs_recoding":"False"
+         ,"longitude":121.075803
+    }
+  },
+  {
+     "Hospital_Name":"Friendly Care Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"2/F Metrolane Complex, P.Tuazon Corner 20th Avenue, Cubao"
+    ,"Contact":"(02) 421 1678"
+    ,"Email":"n/a"
+    ,"District":"3"
+    ,"location":{
+          "latitude":14.620992
+         ,"needs_recoding":"False"
+         ,"longitude":121.06323
+    }
+  },
+  {
+     "Hospital_Name":"HealthFirst Clinic"
+    ,"Country":"PHILIPPINES"
+    ,"Type":""
+    ,"Address":"Level 3, Spark Place, P. Tuazon Underpass, Cubao,"
+    ,"Contact":""
+    ,"Email":"n/a"
+    ,"District":"3"
+    ,"location":{
+          "latitude":14.618151
+         ,"needs_recoding":"False"
+         ,"longitude":121.056493
+    }
+  }]

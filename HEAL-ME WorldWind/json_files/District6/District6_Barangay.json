@@ -1,0 +1,132 @@
+[ {
+  "Barangay" : "APOLONIO SAMSON ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Kaingin Road. cor. Old Samson Road ",
+  "Population" : "38583",
+  "location" : {
+    "latitude" : "14.655524",
+    "needs_recoding" : false,
+    "longitude" : "121.011617"
+  }
+}
+,
+ {
+  "Barangay" : "BAESA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#3 Joaquin St., T.S. Cruz Subd. ",
+  "Population" : "61278",
+  "location" : {
+    "latitude" : "14.675025",
+    "needs_recoding" : false,
+    "longitude" : "121.012763"
+  }
+}
+,
+ {
+  "Barangay" : "BALON BATO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Maxima Drive St ",
+  "Population": "8228",
+  "location" : {
+    "latitude" : "14.631218",
+    "needs_recoding" : false,
+    "longitude" : "121.017553"
+  }
+}
+,
+ {
+  "Barangay" : "CULIAT ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Along Tandang Sora Ave. beside Culiat High School ",
+  "Population": "74304",
+  "location" : {
+    "latitude" : "14.668174",
+    "needs_recoding" : false,
+    "longitude" : "121.056368"
+  }
+}
+,
+ {
+  "Barangay" : "NEW ERA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "St. Joseph St., Milton Hills ",
+  "Population": "13365",
+  "location" : {
+    "latitude" : "14.62246",
+    "needs_recoding" : false,
+    "longitude" : "121.025507"
+  }
+}
+,
+ {
+  "Barangay" : "PASONG TAMO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "JP Eugenio St., Philand Drive ",
+  "Population": "103100",
+  "location" : {
+    "latitude" : "14.675465",
+    "needs_recoding" : false,
+    "longitude" : "121.049496"
+  }
+}
+,
+ {
+  "Barangay" : "SANGANDAAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Premium St., cor. Parklane St., GSIS Village ",
+  "Population": "24061",
+  "location" : {
+    "latitude" : "14.674344",
+    "needs_recoding" : false,
+    "longitude" : "121.021675"
+  }
+}
+,
+ {
+  "Barangay" : "SAUYO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Old Sauyo Road cor. Sampaguita St. ",
+  "Population": "76039",
+  "location" : {
+    "latitude" : "14.689598",
+    "needs_recoding" : false,
+    "longitude" : "121.033781"
+  }
+}
+,
+ {
+  "Barangay" : "TALIPAPA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#506 Quirino Highway ",
+  "Population": "35077",
+  "location" : {
+    "latitude" : "14.687658",
+    "needs_recoding" : false,
+    "longitude" : "121.025464"
+  }
+}
+,
+ {
+  "Barangay" : "TANDANG SORA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#116 Mindanao Ave., Ext. ",
+  "Population": "90290",
+  "location" : {
+    "latitude" : "14.691064",
+    "needs_recoding" : false,
+    "longitude" : "121.027629"
+  }
+}
+,
+ {
+  "Barangay" : "UNANG SIGAW ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Beside Bonifacio Ave. ",
+  "Population": "7267",
+  "location" : {
+    "latitude" : "14.666206",
+    "needs_recoding" : false,
+    "longitude" : "121.035196"
+  }
+}
+]

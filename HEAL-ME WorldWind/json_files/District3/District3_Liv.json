@@ -1,0 +1,1046 @@
+[
+  {
+     "Address":"8 Hillside Loop, Brgy. Blue Ridge "
+    ,"District":"District 3"
+    ,"Barangay":"Blue Ridge A"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.62067
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.075964
+}
+  },
+  {
+     "Address":"24 Oxford St. Brgy. E Rodriguez Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.626588
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.053485
+}
+  },
+  {
+     "Address":"Medalla Bldg., No. 596 EDSA Araneta Center, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.618303
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051942
+}
+  },
+  {
+     "Address":"#12 Manggahan Street, Barangay Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.605396
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.081904
+}
+  },
+  {
+     "Address":"86 Harvard Street, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.623721
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.05709
+}
+  },
+  {
+     "Address":"4/F Richstone Centerm 658 G. Araneta Avenue "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.626451
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.015271
+}
+  },
+  {
+     "Address":"8 Mercury Avenue, Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.612016
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.076914
+}
+  },
+  {
+     "Address":"#700 Road 1 near Tandang Sora corner Commonwealth Avenue, Old Balara "
+    ,"District":"District 3"
+    ,"Barangay":"Matandang Balara"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.660711
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034941
+}
+  },
+  {
+     "Address":"51 Vicente Avenue, North Susana Executive Village, Old Ballara "
+    ,"District":"District 3"
+    ,"Barangay":"Matandang Balara"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.672557
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.07105
+}
+  },
+  {
+     "Address":"Alimall Building, Araneta Center "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.619713
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.056669
+}
+  },
+  {
+     "Address":"Blk 13 Lot 7, E. Rodriguez Jr. Avenue, Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.609318
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.076706
+}
+  },
+  {
+     "Address":"DMWAI Building, 306 E. Rodriguez Sr. Boulevard "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.618021
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.007146
+}
+  },
+  {
+     "Address":"717 Edsa,?Quezon City "
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"Company_Type":"Construction"
+     ,"location":{
+    "latitude":14.626365
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047643
+}
+  },
+  {
+     "Address":"L/G Unit 3 Seneca Plaza, 1152 E. Rodriguez Avenue "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.664184
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.067744
+}
+  },
+  {
+     "Address":"8 Hillside Loop, Brgy. Blue Ridge "
+    ,"District":"District 3"
+    ,"Barangay":"Blue Ridge A"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.661547
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.033942
+}
+  },
+  {
+     "Address":"1 E-Commerce Avenue Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.59223
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.060028
+}
+  },
+  {
+     "Address":"1850 E. Rodriguez Sr. Boulevard, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.608314
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080874
+}
+  },
+  {
+     "Address":"R & G Tirol Building, 150 P. Tuazon Cor. EDSA, "
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.719275
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.009023
+}
+  },
+  {
+     "Address":"2/F Topy Bldg., #3 Economia St., Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Engineering"
+     ,"location":{
+    "latitude":14.657852
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.008868
+}
+  },
+  {
+     "Address":"One Beatriz Tower Unit 802 Lauan Street Brgy.Duyan Duyan Project 3 "
+    ,"District":"District 3"
+    ,"Barangay":"Duyan-Duyan"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.670458
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028117
+}
+  },
+  {
+     "Address":"Unit 1 3rd Floor La Defense Building E. Rodriguez Sr. Ave "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.679453
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.055547
+}
+  },
+  {
+     "Address":"Unit 804-B The Regalia Park Towers 150 P. Tuazon Ave. Cubao? "
+    ,"District":"District 3 "
+    ,"Barangay":"San Roque"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.677578
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.059488
+}
+  },
+  {
+     "Address":"Gateway Building 174 G Araneta Ave "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.624173
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.042125
+}
+  },
+  {
+     "Address":"142-15th Avenue Cubao, "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.671611
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.042665
+}
+  },
+  {
+     "Address":"142-15th Avenue Cubao? "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.621313
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.058973
+}
+  },
+  {
+     "Address":"17-C Colonel Salgado Street, West Kamias "
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.653778
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.021877
+}
+  },
+  {
+     "Address":"Unit 607 Prince John Condominium No. 291 P. Tuazon Corner 18th Ave. Cubao "
+    ,"District":"District 3 "
+    ,"Barangay":"San Roque"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.629283
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.997407
+}
+  },
+  {
+     "Address":"353 G. Araneta Ave. "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.655385
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.014108
+}
+  },
+  {
+     "Address":"Unit 402-404 Arayat Mansion # Arayat St. Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.625351
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.995307
+}
+  },
+  {
+     "Address":"916 Aurora blvd. barangay San Roque "
+    ,"District":"District 3"
+    ,"Barangay":"San Roque"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.637834
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.026185
+}
+  },
+  {
+     "Address":"Felta Multi-Media Center, No. 18 Notre Dame Street, Cubao,, NCR - Second District? "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.653845
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.020673
+}
+  },
+  {
+     "Address":"4F Annapoolis Center, 35 Annapolis Street, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.644549
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051516
+}
+  },
+  {
+     "Address":"31st Flr. IBM Plaza, Eastwood "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.629248
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.029063
+}
+  },
+  {
+     "Address":"Unit 96 Halili Complex, 992 Aurora Boulevard, Project 4, "
+    ,"District":"District 3 "
+    ,"Barangay":"Bagumbuhay"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.624674
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.050402
+}
+  },
+  {
+     "Address":"21B IBM Plaza, Eastwood City Cyberpark E. Rodriguez Jr. Avenue "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Advertising"
+     ,"location":{
+    "latitude":14.670627
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028164
+}
+  },
+  {
+     "Address":"BAGUMBAYAN "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.626467
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.032225
+}
+  },
+  {
+     "Address":"78 Xavierville ave. Loupola heights "
+    ,"District":"District 3"
+    ,"Barangay":"Amihan"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.677025
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.016165
+}
+  },
+  {
+     "Address":"24/F, IBM Plaza, Eastwood City Cyberpark E. Rodriguez Jr. Avenue, Libis, "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.6614
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.010011
+}
+  },
+  {
+     "Address":"231 Ermin Garcia Street, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.677139
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.035334
+}
+  },
+  {
+     "Address":"Stall 18 Automatic Transit Station, General McArthur Avenue, Araneta Center, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.628265
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.058162
+}
+  },
+  {
+     "Address":"Unit 131 2nd Floor Eastwood Cybermall, Eastwood City Cyberpark, E. Rodriguez Jr Ave., Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Logistics"
+     ,"location":{
+    "latitude":14.676709
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.033506
+}
+  },
+  {
+     "Address":"E. Rodriguez corner Tomas Morato, "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.616242
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.003776
+}
+  },
+  {
+     "Address":"2nd floor, Madizon Square Building, E. Roderiguez Jr. Ave., Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.634486
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.03571
+}
+  },
+  {
+     "Address":"Acropolis Center, Acropolis Green Subd., 80 E. Rodriguez Jr., Ave., Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.694052
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.030744
+}
+  },
+  {
+     "Address":"YDG Building 219 Katipunan Ave., Blue Ridge,? "
+    ,"District":"District 3"
+    ,"Barangay":"Blue Ridge A"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.672867
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079015
+}
+  },
+  {
+     "Address":"G/F The Tony Galvez Centrum 124 9th Avenue, cor P.Tuazon Boulevard, Araneta Center? "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.630775
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034761
+}
+  },
+  {
+     "Address":"Space D. Ground Floor One Orchard Road, Eastwood City Cyberpark, E.Rodriguez Avenue, "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.658313
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.044966
+}
+  },
+  {
+     "Address":"3/F Ali Mall, Araneta Center, Phase 2 Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.656778
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.020937
+}
+  },
+  {
+     "Address":"P. Tuazon Boulevard Araneta Center "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Beauty"
+     ,"location":{
+    "latitude":14.628976
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.003855
+}
+  },
+  {
+     "Address":"595 Edsa., Cubao, "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.612641
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.022366
+}
+  },
+  {
+     "Address":"133 Katipunan Ave., st., Ignatius Village,? "
+    ,"District":"District 3"
+    ,"Barangay":"Blue Ridge A"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.692606
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.029594
+}
+  },
+  {
+     "Address":"915 Aurora Boulevard, "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.644077
+    ,"needs_recoding":"FALSE"
+    ,"longitude":120.996546
+}
+  },
+  {
+     "Address":"926 G Araneta Avenue "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.650648
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.013169
+}
+  },
+  {
+     "Address":"1005 Aurora blvd "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.62098
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.004991
+}
+  },
+  {
+     "Address":"Rm. 11-M Maya Building, 678 Edsa, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.662236
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.027918
+}
+  },
+  {
+     "Address":"694 Edsa,?Q "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.624095
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.04959
+}
+  },
+  {
+     "Address":"306 E. Rodriguez Sr. Blvd "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"Handicraft"
+     ,"location":{
+    "latitude":14.691053
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.035319
+}
+  },
+  {
+     "Address":"27/F IBM Building, Eastwood City, Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.625097
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048868
+}
+  },
+  {
+     "Address":"2nd Floor BT&T Center, #20 E. Rodriguez Jr. Avenue, Libis "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.620253
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019502
+}
+  },
+  {
+     "Address":"#24 21st Avenue Brgy. Tagumpay, Cubao, "
+    ,"District":"District 3"
+    ,"Barangay":"Tagumpay"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.611801
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.07524
+}
+  },
+  {
+     "Address":"703 No. 1 S. Medalla Bldg. Mac Arthur Ave., EDSA Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.681641
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.096564
+}
+  },
+  {
+     "Address":"10F Aurora Milestone Building, 1045 Aurora Boulevard, "
+    ,"District":"District 3"
+    ,"Barangay":"Amihan"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.623148
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.063157
+}
+  },
+  {
+     "Address":"23A Tower 1 Eastwood Excelsior Eastwood City Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.647228
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.071948
+}
+  },
+  {
+     "Address":"23F IBM Plaza, Eastwood City Cyberpark, E. Rodriguez Jr. Ave., Libis "
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.637085
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.041528
+}
+  },
+  {
+     "Address":"11th Floor Cyber One Building, Eastwood City Cyberpark, E. Rodriguez Jr. Avenue, Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.608733
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079756
+}
+  },
+  {
+     "Address":"962-D Aurora Blvd, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.640386
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.016377
+}
+  },
+  {
+     "Address":"11th Flr., Unit MN, CyberOne Bldg., Cyberpark Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.620642
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047829
+}
+  },
+  {
+     "Address":"30/F Ibm Building, Cyber Park, Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.637182
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.028887
+}
+  },
+  {
+     "Address":"10th floor Aurora Milestone Bldg., 1045 Aurora Blvd "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607585
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080445
+}
+  },
+  {
+     "Address":"2F Topy's Place Industria St, Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.676041
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.0437
+}
+  },
+  {
+     "Address":"5F IBM Plaza Eastwood City Cyberpark Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.630819
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.071779
+}
+  },
+  {
+     "Address":"189 E. Rodriguez Jr. Avenue, 4/F NMP Building, Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.686472
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.021078
+}
+  },
+  {
+     "Address":"27 KJ St. Kamias, "
+    ,"District":"District 3"
+    ,"Barangay":"Quirino 3-A"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.629837
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.070104
+}
+  },
+  {
+     "Address":"C Lazo Bldg. Annapolis St. "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.63996
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.074026
+}
+  },
+  {
+     "Address":"Digitel Bldg., Urc Compound, 110 E. Rodriguez Jr. Avenue., Bagumbayan, Libis, "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.672867
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.079015
+}
+  },
+  {
+     "Address":"5 Eastwood Avenue Eastwood City Cyberpark Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.627388
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.020062
+}
+  },
+  {
+     "Address":"61 Antonio Luna St., Project 4 "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbuhay "
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.619699
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.000958
+}
+  },
+  {
+     "Address":"Eastwood City Cyberpark, Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.636458
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.021325
+}
+  },
+  {
+     "Address":"810 City Tower Condominium Aurora Boulevard Kaunlaran, Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.67166
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040946
+}
+  },
+  {
+     "Address":"8/F IBM Plaza, Eastwood City Cyberpark, "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Address":"15/F, IBM Plaza Bldg., #8 Eastwood City, Cyberpark E. Rodriguez Jr. Ave., Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.634129
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038862
+}
+  },
+  {
+     "Address":"28/F, IBM Plaza Building Eastwood City Cyberpark E. Rodriguez Jr. Ave., Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.641026
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.03144
+}
+  },
+  {
+     "Address":"19/F Citibank Square, Eastwood City Cyberpark, 188 E. Rodriguez Jr. Ave., Libis, "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.647825
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.062748
+}
+  },
+  {
+     "Address":"c/o Eastwood City Cyberpark, Libis, Que "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Address":"Unit 603 S. Medalla Bldg EDSA cor. Gen. Mc Arthur Ave., Araneta Ctr "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.6202
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.00972
+}
+  },
+  {
+     "Address":"11F. Ibm Plaza Eastwood Cyberpark Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.64781
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.07324
+}
+  },
+  {
+     "Address":"Rm. 404 Prince John Condominium, 291 P. Tuazon cor. 18th Ave., Cubao "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Address":"Eastwood City Cyberpark, Libis, "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.618328
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051915
+}
+  },
+  {
+     "Address":"G. Araneta Ave.,? "
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"Company_Type":"BPO"
+     ,"location":{
+    "latitude":14.680618
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.02364
+}
+  },
+  {
+     "Address":"23A Tower 1 Eastwood Excelsior Eastwood City Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Address":"6/F CyberOne Plaza, Orchard Road, Bagumbayan, Eastwood "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.705678
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038167
+}
+  },
+  {
+     "Address":"11th Flr., Unit MN, CyberOne Bldg., Cyberpark Bagumbayan "
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.6402
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.033997
+}
+  },
+  {
+     "Address":"10th floor Aurora Milestone Bldg., 1045 Aurora Blvd "
+    ,"District":"District 3"
+    ,"Barangay":"Amihan"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Address":"189 E. Rodriguez Jr. Avenue, 4/F NMP Building, Libis "
+    ,"District":"District 3"
+    ,"Barangay":"Libis"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.614024
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.074775
+}
+  },
+  {
+     "Address":"810 City Tower Condominium Aurora Boulevard Kaunlaran "
+    ,"District":"District 3"
+    ,"Barangay":"Amihan"
+    ,"Company_Type":"Software Solutions"
+     ,"location":{
+    "latitude":14.686472
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.021078
+}
+  }]

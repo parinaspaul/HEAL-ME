@@ -1,0 +1,287 @@
+[
+ {
+   "Hospital_Name": "Philippine Orthopedic Center",
+   "Type": "Public",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "AFP Medical Center",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Camp Gen. Emilio Aguinaldo Station Hospital",
+   "Type": "Public",
+   "District": "District 3"
+ },
+ {
+   "Hospital_Name": "Quezon Institute",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "PNP General Hospital (Main)",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "National Childrens Hospital",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Quezon City General Hospital",
+   "Type": "Public",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "East Avenue Medical Center",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "National Kidney & Transplant Institute",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Philippine Heart Center",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "UP Health Services",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Veterans Memorial Medical Center",
+   "Type": "Public",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "Novaliches District Hospital",
+   "Type": "Public",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "Lung Center of the Philippines",
+   "Type": "Public",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Philippine Childrens Medical Center",
+   "Type": "Public",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "Quirino Memorial Medical Center",
+   "Type": "Public",
+   "District": "District 3"
+ },
+ {
+   "Hospital_Name": "Novaliches General Hospital",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "Casaul General Hospital Inc.",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "Bernardino General Hospital Corporation",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "Queensberry Hospital",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "San Lorenzo Hospital Health Management Co",
+   "Type": "Private",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "Word of Hope General Hospital Foundation Inc",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "Bernardino General Hospital II",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "Cruz-Dalida Maternity Hospital Inc",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "Nodado General Hospital",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "Ann Francis Mother & Child Hospital",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "DIHMESCO General Hospital",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "Valdez-Padron Hospital",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "Neopolitan General Hospital",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "Pascual General Hospital",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "FEU-Nicanor Reyes Medical Foundation Medical Center",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "Fairview General Hospital",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "Newman Homecare and Rehabilitation Center Inc",
+   "Type": "Private",
+   "District": "District 5"
+ },
+ {
+   "Hospital_Name": "F.Y. Manalo Medical Foundation Inc",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "Gen. Miguel Malvar Medical Foundation Hospital",
+   "Type": "Private",
+   "District": "District 2"
+ },
+ {
+   "Hospital_Name": "Overseas Contract Workers General Hospital",
+   "Type": "Private",
+   "District": "District 6"
+ },
+ {
+   "Hospital_Name": "Dr. Montano G. Ramos Hospital",
+   "Type": "Private",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "Q.C. St. Agnes General Hospital Inc",
+   "Type": "Private",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "Excellent Community Care Center",
+   "Type": "Private",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "Dr. Montano G. Ramos General Hospital",
+   "Type": "Private",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "J.P. Sioson Gen. Hosp. and Colleges Inc.",
+   "Type": "Private",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "Estrellas Nex Care Co",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Full House Custodial Care Center",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Dr. Jesus C. Delgado Memorial Hospital",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Life Change Recovery Center Inc.",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "The Clinic of the Holy Spirit Inc.",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Sta. Teresita General Hospital",
+   "Type": "Private",
+   "District": "District 1"
+ },
+ {
+   "Hospital_Name": "Villarosa Hospital",
+   "Type": "Private",
+   "District": "District 3"
+ },
+ {
+   "Hospital_Name": "St. Lukes Medical Center",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "De Los Santos Medical Center",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "UERM Memorial Medical Center",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "World Citi Medical Center",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Sunshine.Com Inc.",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Sunrise Hill Therapeutic Community Hospital",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Capitol Medical Center",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "Dr. Fe Del Mundo Medical Center",
+   "Type": "Private",
+   "District": "District 4"
+ },
+ {
+   "Hospital_Name": "United Doctors Medical Center",
+   "Type": "Private",
+   "District": "District 4"
+ }
+]

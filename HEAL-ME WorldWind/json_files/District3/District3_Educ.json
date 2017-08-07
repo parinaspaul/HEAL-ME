@@ -1,0 +1,166 @@
+[
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"No. 96 E. Rodriguez Ave., cor. G. Araneta, Ave."
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"location":{
+    "latitude":14.697021
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.086802
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":" Rosario Bldg.999 Aurora Blvd."
+    ,"District":"District 3"
+    ,"Barangay":"Quirino 3-A "
+    ,"location":{
+    "latitude":14.652195
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.018297
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"ICTE Building Orchard Pond, Eastwood City Cyberpark"
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"location":{
+    "latitude":14.656346
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.030651
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Commonwealth Ave. cor. Rd. 44 Diliman"
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"location":{
+    "latitude":14.653013
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.018416
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"No. 26 West Kamias"
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"location":{
+    "latitude":14.621113
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051296
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"ICTE Building Orchard Pond, Eastwood City Cyberpark"
+    ,"District":"District 3"
+    ,"Barangay":"Bagumbayan"
+    ,"location":{
+    "latitude":14.653013
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.018416
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"Commonwealth Ave. cor. Rd. 44 Diliman"
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"location":{
+    "latitude":14.734037
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052349
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"201 E. Rodriguez Sr. Blvd."
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"location":{
+    "latitude":14.619821
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.017648
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"Commonwealth Ave. cor. Rd. 44 Diliman"
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"location":{
+    "latitude":14.641817
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.032411
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"201 E. Rodriguez Sr. Blvd."
+    ,"District":"District 3"
+    ,"Barangay":"E. Rodriguez"
+    ,"location":{
+    "latitude":14.612011
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.058908
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"No. 75 Montreal St. Cubao"
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"location":{
+    "latitude":14.62943
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047028
+}
+  },
+  {
+     "Type_of_Training":"Caregiving"
+    ,"Training_Center":"New City Hall Compound Civic Center, Diliman"
+    ,"District":"District 3"
+    ,"Barangay":"Socorro"
+    ,"location":{
+    "latitude":14.629489
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.0321
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"CRM Bldg. 2 No. 116 Kamias Rd"
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"location":{
+    "latitude":14.733334
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.050931
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"A. Francisco Gold Condominium 784 EDSA"
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"location":{
+    "latitude":14.655882
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.010679
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"VMCC Building Santolan Road cor. Grandad Ave. Valencia"
+    ,"District":"District 3"
+    ,"Barangay":"West Kamias"
+    ,"location":{
+    "latitude":14.705678
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038167
+}
+  }]

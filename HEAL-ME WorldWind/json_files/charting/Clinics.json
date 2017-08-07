@@ -1,0 +1,98 @@
+[
+ {
+   "District": "District 1",
+   "Barangay": "DEL MONTE ",
+   "Clinic_Name": "EXCELLENT Community Care Center",
+   "Clinic_Type": "Social Hygiene Clinics"
+ },
+ {
+   "District": "District 2",
+   "Barangay": "HOLY SPIRIT ",
+   "Clinic_Name": "Isidora Community Clinic and Lying In",
+   "Clinic_Type": "Lying-in Clinics"
+ },
+ {
+   "District": "District 3",
+   "Barangay": "MATANDANG BALARA",
+   "Clinic_Name": "Community Medical and Dental Clinic",
+   "Clinic_Type": "Lying-in Clinics"
+ },
+ {
+   "District": "District 3",
+   "Barangay": "QUIRINO 2-B ",
+   "Clinic_Name": "EDMED Multispecialty Clinic",
+   "Clinic_Type": "HIV-AIDS Clinics"
+ },
+ {
+   "District": "District 3",
+   "Barangay": "SOCORRO",
+   "Clinic_Name": "Friendly Care Clinic",
+   "Clinic_Type": "Lying-in Clinics"
+ },
+ {
+   "District": "District 3",
+   "Barangay": "SOCORRO",
+   "Clinic_Name": "HealthFirst Clinic",
+   "Clinic_Type": "Dialysis Clinics"
+ },
+ {
+   "District": "District 4",
+   "Barangay": "BOTOCAN ",
+   "Clinic_Name": "Roxas Community Medical Clinic",
+   "Clinic_Type": "Lying-in Clinics"
+ },
+ {
+   "District": "District 4",
+   "Barangay": "BOTOCAN ",
+   "Clinic_Name": "Pendragon Veterinary Clinic",
+   "Clinic_Type": "Social Hygiene Clinics"
+ },
+ {
+   "District": "District 4",
+   "Barangay": "BOTOCAN ",
+   "Clinic_Name": "Children International (Quezon City) Inc. - Community Center 2 Vasra",
+   "Clinic_Type": "Lying-in Clinics"
+ },
+ {
+   "District": "District 4",
+   "Barangay": "MARIANA ",
+   "Clinic_Name": "Christian Medical Clinic",
+   "Clinic_Type": "Lying-in Clinics"
+ },
+ {
+   "District": "District 4",
+   "Barangay": "PINAGKAISAHAN ",
+   "Clinic_Name": "Bernardo Social Hygiene Clinic-Primary Care Hub",
+   "Clinic_Type": "HIV-AIDS Clinics"
+ },
+ {
+   "District": "District 4",
+   "Barangay": "UP VILLAGE ",
+   "Clinic_Name": "Qualimed Clinic",
+   "Clinic_Type": "Dialysis Clinics"
+ },
+ {
+   "District": "District 5",
+   "Barangay": "NOVALICHES PROPER ",
+   "Clinic_Name": "North Fairview Health Center",
+   "Clinic_Type": "Social Hygiene Clinics"
+ },
+ {
+   "District": "District 6",
+   "Barangay": "SANGANDAAN ",
+   "Clinic_Name": "Tolentino Community Clinic",
+   "Clinic_Type": "Social Hygiene Clinics"
+ },
+ {
+   "District": "District 6",
+   "Barangay": "TANDANG SORA ",
+   "Clinic_Name": "FPOP Community Health Center",
+   "Clinic_Type": "Social Hygiene Clinics"
+ },
+ {
+   "District": "District 6",
+   "Barangay": "TANDANG SORA ",
+   "Clinic_Name": "Tandang Sora Multispecialty Clinic",
+   "Clinic_Type": "Dialysis Clinics"
+ }
+]

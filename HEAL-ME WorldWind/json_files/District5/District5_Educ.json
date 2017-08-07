@@ -1,0 +1,540 @@
+[
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"No. 12 Salvia Street Saint Dominic Subdivision Zabarte, Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.732767
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052894
+}
+  },
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"Electron Building Quirino Highway Bagbag, Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Bagbag Novaliches"
+    ,"location":{
+    "latitude":14.698952
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034274
+}
+  },
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"Lester Bldg. Km. 22, Quirino Highway Pasong Putik, Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Lagro"
+    ,"location":{
+    "latitude":14.735312
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.056783
+}
+  },
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"Blk 125, Lot 22, Quirino Highway Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.71574
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040587
+}
+  },
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"Quirino Highway Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.705678
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038167
+}
+  },
+  {
+     "Type_of_Training":"Automotive"
+    ,"Training_Center":"29 Jewel Street  Forest Hills, Gulod Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Gulod Novaliches"
+    ,"location":{
+    "latitude":14.717264
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.041349
+}
+  },
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"Electron Building Quirino Highway Bagbag, Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Bagbag Novaliches"
+    ,"location":{
+    "latitude":14.698952
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034274
+}
+  },
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"Lester Bldg. Km. 22, Quirino Highway Pasong Putik, Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.735312
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.056783
+}
+  },
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"Blk 125, Lot 22, Quirino Highway Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.71574
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040587
+}
+  },
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"Lot 10, Block 17, Dahlia Avenue Fairview"
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"location":{
+    "latitude":14.699905
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.067445
+}
+  },
+  {
+     "Type_of_Training":"Electrical"
+    ,"Training_Center":"29 Jewel Street  Forest Hills, Gulod Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Gulod Novaliches"
+    ,"location":{
+    "latitude":14.717264
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.041349
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"C.I. Plaza Quirino Highway cor. Zabarte Road Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.628086
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.064314
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Bonanza Plaza Bldg. 2 Putol na Daan cor. Quirino Highway"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.665227
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.003798
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Crown Link Building Regalado Avenue Fairview"
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"location":{
+    "latitude":14.734253
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.054514
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"044 Brgy. Sta. Monica Quirino Highway, Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.642134
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049176
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"No. 6 Kingfisher cor. Skylark St.Zabarte Subd"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.634486
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.03571
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"Genesis Bldg. Quirino Hi-way cor. Salvador Ave. Jordan Plain Subd."
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.704821
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.076805
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"CPE Building Lot 9 Blk 2 Don Mariano Marcos Ave. Brgy. Fairview"
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"location":{
+    "latitude":14.630176
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.016309
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"SM City Fairview Quirino Highway cor. Regalado Avenue Fairview"
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"location":{
+    "latitude":14.73188
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048517
+}
+  },
+  {
+     "Type_of_Training":"Programming"
+    ,"Training_Center":"C1 Plaza Bldg. Quirino Highway cor. Zabarte Road Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.675342
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.082088
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"C.I. Plaza Quirino Highway cor. Zabarte Road Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.634486
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.03571
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"Altan Bldg. 1056 Quirino Highway, Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.607951
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.080156
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"No. 6 Kingfisher cor. Skylark St. Zabarte Subd"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.735572
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.064778
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"362 Quirino High-way Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.627549
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.01
+}
+  },
+  {
+     "Type_of_Training":"Animation"
+    ,"Training_Center":"RNA Building 16 Quirino Highway Greater Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.731247
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048126
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"C.I. Plaza Quirino Highway cor. Zabarte Road Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.639122
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.074087
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"Altan Bldg. 1056 Quirino Highway, Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.633758
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.040061
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"No. 6 Kingfisher cor. Skylark St. Zabarte Subd"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.628086
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.064314
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"362 Quirino High-way Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.621045
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049776
+}
+  },
+  {
+     "Type_of_Training":"Culinary"
+    ,"Training_Center":"RNA Building 16 Quirino Highway Greater Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.642134
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049176
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"C.I. Plaza Quirino Highway cor. Zabarte Road Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.621045
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049776
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Altan Bldg.1056 Quirino Highway, Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.665227
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.003798
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Bonanza Plaza Bldg. 2 Putol na Daan cor. Quirino Highway"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.60593
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019444
+}
+  },
+  {
+     "Type_of_Training":"Bookkeeping"
+    ,"Training_Center":"Diana Building Regalado Avenue Greater Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.654386
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.030049
+}
+  },
+  {
+     "Type_of_Training":"Call Center Training"
+    ,"Training_Center":"Diana Building Regalado Avenue Greater Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.609328
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.045782
+}
+  },
+  {
+     "Type_of_Training":"Baking"
+    ,"Training_Center":"Crown Link Building Regalado Avenue Fairview"
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"location":{
+    "latitude":14.73379
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.061465
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"Crown Link Building Regalado Avenue Fairview"
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"location":{
+    "latitude":14.620645
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.047838
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"4M Square Bldg. Quirino Highway, Lagro"
+    ,"District":"District 5"
+    ,"Barangay":"Greater Lagro"
+    ,"location":{
+    "latitude":14.63148
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.048865
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"044 Brgy. Sta. Monica Quirino Highway, Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.622434
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049293
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"No. 6 Kingfisher cor. Skylark St.Zabarte Subd"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.663801
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.069597
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"362 Quirino High-way Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.734037
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.052349
+}
+  },
+  {
+     "Type_of_Training":"Bartending"
+    ,"Training_Center":"C1 Plaza Bldg. Quirino Highway cor. Zabarte Road Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.698952
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.034274
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"Crown Link Building Regalado Avenue Fairview"
+    ,"District":"District 5"
+    ,"Barangay":"Fairview"
+    ,"location":{
+    "latitude":14.64658
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.049659
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"044 Brgy. Sta. Monica Quirino Highway, Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.658298
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.019382
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"No. 6 Kingfisher cor. Skylark St.Zabarte Subd"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.655957
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.026652
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"Electron Building Quirino Highway Bagbag, Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Bagbag Novaliches"
+    ,"location":{
+    "latitude":14.664433
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.021228
+}
+  },
+  {
+     "Type_of_Training":"Housekeeping"
+    ,"Training_Center":"C1 Plaza Bldg. Quirino Highway cor. Zabarte Road Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.607649
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.038759
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"362 Quirino High-way Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Novaliches Proper"
+    ,"location":{
+    "latitude":14.616915
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.051965
+}
+  },
+  {
+     "Type_of_Training":"Massage Therapy"
+    ,"Training_Center":"Electron Building Quirino Highway Bagbag, Novaliches"
+    ,"District":"District 5"
+    ,"Barangay":"Bagbag Novaliches"
+    ,"location":{
+    "latitude":14.620703
+    ,"needs_recoding":"FALSE"
+    ,"longitude":121.04801
+}
+  }]

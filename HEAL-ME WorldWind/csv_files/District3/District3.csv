@@ -1,0 +1,7 @@
+Hospital_Name,Country,Type,Address,Contact,Email,Founded,location__latitude,location__needs_recoding,location__longitude,District
+Camp Gen. Emilio Aguinaldo Station Hospital,PHILIPPINES,Public,"Camp Gen. E. Aguinaldo, Murphy, Cubao",(02) 911 6001,n/a,,14.624835,False,121.051786,3
+Quirino Memorial Medical Center,PHILIPPINES,Public,"Project 4, Katipunan, Quezon City",913-4758/437-3660/Fax  913-4558,n/a,,14.624216,False,121.074298,3
+Villarosa Hospital,PHILIPPINES,Private,11 Salalilla St.,Tel.  913-9705/421-1281/Fax  913-9712,n/a,,14.621833,False,121.066083,3
+Community Medical and Dental Clinic ,PHILIPPINES,,"Doña Felicidad, Matandang Balara ",,n/a,,14.674748,False,121.075803,3
+Friendly Care Clinic ,PHILIPPINES,,"2/F Metrolane Complex, P.Tuazon Corner 20th Avenue, Cubao ",(02) 421 1678 ,n/a,,14.620992,False,121.06323,3
+HealthFirst Clinic ,PHILIPPINES,,"Level 3, Spark Place, P. Tuazon Underpass, Cubao,",,n/a,,14.618151,False,121.056493,3

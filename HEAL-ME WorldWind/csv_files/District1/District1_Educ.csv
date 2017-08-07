@@ -1,0 +1,38 @@
+Type_of_Training,Training_Center,District,Barangay,location__latitude,location__needs_recoding,location__longitude
+Programming,"295 Roosevelt Ave., cor. de Jesus St. San Antonio",District 1,San Antonio,14.607951,FALSE,121.080156
+Programming,Herminia Bldg.Commonwealth Ave. North Fairview,District 1,North Triangle,14.611658,FALSE,121.079979
+Programming,G/F Cyberzon Bldg. SM City North EDSA,District 1,North Triangle,14.655815,FALSE,121.028253
+Programming,North EDSA Bago Bantay Carpark Plaza,District 1,North Triangle,14.734,FALSE,121.059425
+Programming,304 Roosevelt Ave. cor. M. H. del Pilar Street Muñoz,District 1,Damayan,14.62147,FALSE,121.016266
+Programming,Tanco-Cu Bldg. EDSA cor. Congressional Avenue,District 1,San Antonio,14.715902,FALSE,121.061376
+Programming,70 Regalado Avenue North Fairview,District 1,North Triangle,14.61319,FALSE,121.057462
+Animation,121 MJ Cuenco St. Sto. Domingo,District 1,Damayan,14.699708,FALSE,121.034309
+Animation,Herminia Bldg.Commonwealth Ave. North Fairview,District 1,North Triangle,14.63148,FALSE,121.048865
+Animation,58 Examiner St.West Triangle Homes,District 1 ,West Triangle,14.638867,FALSE,121.040668
+Animation,Tanco-Cu Bldg. EDSA cor. Congressional Avenue,District 1,San Antonio,14.706076,,121.070594
+Animation,70 Regalado Avenue North Fairview,District 1,North Triangle,14.636614,,121.028367
+Culinary,121 MJ Cuenco St. Sto. Domingo,District 1,Damayan,14.735127,,121.062485
+Culinary,No. 26 West Kamias,District 1 ,West Triangle,14.658298,,121.019382
+Culinary,Cinderella Building 825 EDSA,District 1,San Antonio,14.61319,,121.057462
+Culinary,Herminia Bldg.Commonwealth Ave. North Fairview,District 1,North Triangle,14.735205,,121.066914
+Culinary,58 Examiner St.West Triangle Homes,District 1 ,West Triangle,14.614683,,121.049686
+Culinary,Tanco-Cu Bldg. EDSA cor. Congressional Avenue,District 1,San Antonio,14.652195,,121.018297
+Culinary,70 Regalado Avenue North Fairview,District 1,North Triangle,14.635649,,121.073978
+Bookkeeping,"Lands Street Brgy. Vasra, Visayas Ave",District 1,North Triangle,14.607951,,121.080156
+Bookkeeping,AICS Building Commonwealth Ave. cor. Holy Spirit Drive Brgy. San Antonio,District 1,San Antonio,14.656346,,121.030651
+Bookkeeping,"295 Roosevelt Ave., cor. de Jesus St. San Antonio",District 1,San Antonio,14.65352,,121.029486
+Bookkeeping,Herminia Bldg.Commonwealth Ave. North Fairview,District 1,North Triangle,14.627549,,121.01
+Call Center Training,AICS Building Commonwealth Ave. cor. Holy Spirit Drive Brgy. San Antonio,District 1,San Antonio,14.636614,,121.028367
+Call Center Training,G/F Cyberzon Bldg. SM City North EDSA,District 1,North Triangle,14.61319,,121.057462
+Call Center Training,"Penthouse D, Columbian Bldg. 160 West Avenue",District 1 ,West Triangle,14.620645,,121.047838
+Call Center Training,Pacific Corp.131 West Avenue,District 1 ,West Triangle,14.63148,,121.048865
+Baking,121 MJ Cuenco St. Sto. Domingo,District 1,Damayan,14.622434,,121.049293
+Baking,Herminia Bldg.Commonwealth Ave. North Fairview,District 1,North Triangle,14.612011,,121.058908
+Baking,304 Roosevelt Ave. cor. M. H. del Pilar Street Muñoz,District 1,North Triangle,14.731247,,121.048126
+Bartending,No. 26 West Kamias,District 1 ,West Triangle,14.633758,,121.040061
+Bartending,"Lands Street Brgy. Vasra, Visayas Ave",District 1,North Triangle,14.675342,,121.082088
+Bartending,Herminia Bldg.Commonwealth Ave. North Fairview,District 1,North Triangle,14.679639,,121.020947
+Bartending,304 Roosevelt Ave. cor. M. H. del Pilar Street Muñoz,District 1,San Antonio,14.73188,,121.048517
+Housekeeping,121 MJ Cuenco St. Sto. Domingo,District 1,Damayan,14.655957,,121.026652
+Housekeeping,No. 26 West Kamias,District 1 ,West Triangle,14.622434,,121.049293
+Housekeeping,58 Examiner St.West Triangle Homes,District 1 ,West Triangle,14.60593,,121.019444

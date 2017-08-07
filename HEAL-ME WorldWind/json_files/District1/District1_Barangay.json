@@ -1,0 +1,408 @@
+[ {
+  "Barangay" : "ALICIA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Batangas St., Bago Bantay ",
+  "Population": "6527",
+  "location" : {
+    "latitude" : "14.660547",
+    "needs_recoding" : false,
+    "longitude" : "121.025469"
+  }
+}
+, {
+  "Barangay" : "BAGONG PAG-ASA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Road 9 cor. Road 11",
+  "Population": "32267",
+  "location" : {
+    "latitude" : "14.662398",
+    "needs_recoding" : false,
+    "longitude" : "121.033056"
+  }
+}
+, {
+  "Barangay" : "BAHAY TORO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "1 Road 12 cor. Road 11, Proj. 8 ",
+  "Population": "70774",
+  "location" : {
+    "latitude" : "14.664224",
+    "needs_recoding" : false,
+    "longitude" : "121.02159"
+  }
+}
+, {
+  "Barangay" : "BALINGASA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#100 Balingasa St. ",
+  "Population": "20609",
+  "location" : {
+    "latitude" : "14.649644",
+    "needs_recoding" : false,
+    "longitude" : "121.002909"
+  }
+}
+, {
+  "Barangay" : "BUNGAD ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#11 Sanches St. Brgy. Bungad, SFDM ",
+  "Population": "8057",
+  "location" : {
+    "latitude" : "14.650772",
+    "needs_recoding" : false,
+    "longitude" : "121.023705"
+  }
+}
+, {
+  "Barangay" : "DAMAR ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Damar Loop ",
+  "Population": "1646",
+  "location" : {
+    "latitude" : "14.645972",
+    "needs_recoding" : false,
+    "longitude" : "121.002056"
+  }
+}
+, {
+  "Barangay" : "DAMAYAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "San Vicente cor. Zamora St. ",
+  "Population": "8716",
+  "location" : {
+    "latitude" : "14.63973",
+    "needs_recoding" : false,
+    "longitude" : "121.014981"
+  }
+}
+, {
+  "Barangay" : "DEL MONTE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "48 Osmena St. ",
+  "Population": "12185",
+  "location" : {
+    "latitude" : "14.643337",
+    "needs_recoding" : false,
+    "longitude" : "121.014269"
+  }
+}
+, {
+  "Barangay" : "KATIPUNAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Cor. San Antonio St. & Mangga St. ",
+  "Population": "2818",
+  "location" : {
+    "latitude" : "14.655278",
+    "needs_recoding" : false,
+    "longitude" : "121.017805"
+  }
+}
+, {
+  "Barangay" : "LOURDES ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Calamba cor. D. Tuazon St. ",
+  "Population": "4813",
+  "location" : {
+    "latitude" : "14.628905",
+    "needs_recoding" : false,
+    "longitude" : "121.000128"
+  }
+}
+, {
+  "Barangay" : "MAHARLIKA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#390 Apo St.",
+  "Population": "4425",
+  "location" : {
+    "latitude" : "14.636225",
+    "needs_recoding" : false,
+    "longitude" : "120.993835"
+  }
+}
+, {
+  "Barangay" : "MANRESA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Biak na Bato cor. Makaturing St. ",
+  "Population": "21413",
+  "location" : {
+    "latitude" : "14.641292",
+    "needs_recoding" : false,
+    "longitude" : "121.003128"
+  }
+}
+, {
+  "Barangay" : "MARIBLO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "De Vera St. cor. San Joaquin St. ",
+  "Population": "4078",
+  "location" : {
+    "latitude" : "14.63536",
+    "needs_recoding" : false,
+    "longitude" : "121.017573"
+  }
+}
+, {
+  "Barangay" : "MASAMBONG ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#2 Capoas St., Masambong St. ",
+  "Population": "12841",
+  "location" : {
+    "latitude" : "14.640379",
+    "needs_recoding" : false,
+    "longitude" : "121.011829"
+  }
+}
+, {
+  "Barangay" : "N.S. AMORANTO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Angelo St. ",
+  "Population": "6859",
+  "location" : {
+    "latitude" : "14.632609",
+    "needs_recoding" : false,
+    "longitude" : "120.994254"
+  }
+}
+, {
+  "Barangay" : "NAYONG KANLURAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "37 Sorsogon St. ",
+  "Population": "2428",
+  "location" : {
+    "latitude" : "14.641807",
+    "needs_recoding" : false,
+    "longitude" : "121.025859"
+  }
+}
+, {
+  "Barangay" : "PAANG BUNDOK ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Iriga St. bet. Retiro & Tacio Sts. ",
+  "Population": "5643",
+  "location" : {
+    "latitude" : "14.624723",
+    "needs_recoding" : false,
+    "longitude" : "120.996134"
+  }
+}
+, {
+  "Barangay" : "PAG-BIG SA NAYON ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#23 J. Pineda St. Balintawak ",
+  "Population": "5441",
+  "location" : {
+    "latitude" : "14.646317",
+    "needs_recoding" : false,
+    "longitude" : "120.996816"
+  }
+}
+, {
+  "Barangay" : "PALTOK ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Basa St., cor. Mendoza St., SFDM ",
+  "Population": "17342",
+  "location" : {
+    "latitude" : "14.643244",
+    "needs_recoding" : false,
+    "longitude" : "121.02251"
+  }
+}
+, {
+  "Barangay" : "PARAISO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Along Roosevelt Ave. cor. De Vera St. ",
+  "Population": "3790",
+  "location" : {
+    "latitude" : "14.635493",
+    "needs_recoding" : false,
+    "longitude" : "121.018621"
+  }
+}
+, {
+  "Barangay" : "PHIL-AM ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Baguio Road, Clubhouse Complex, Phil-Am Homes ",
+  "Population": "2673",
+  "location" : {
+    "latitude" : "14.648552",
+    "needs_recoding" : false,
+    "longitude" : "121.031227"
+  }
+}
+, {
+  "Barangay" : "PROJECT 6 ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Road 2 cor. Road 8, Proj. 6 ",
+  "Population": "15255",
+  "location" : {
+    "latitude" : "14.661537",
+    "needs_recoding" : false,
+    "longitude" : "121.034651"
+  }
+}
+, {
+  "Barangay" : "RAMON MAGSAYSAY ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Ilocos Sur cor Cagayan St. ",
+  "Population": "16281",
+  "location" : {
+    "latitude" : "14.658987",
+    "needs_recoding" : false,
+    "longitude" : "121.022543"
+  }
+}
+, {
+  "Barangay" : "SALVACION ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#74 Bulusan St., Laloma ",
+  "Population": "8056",
+  "location" : {
+    "latitude" : "14.627992",
+    "needs_recoding" : false,
+    "longitude" : "120.99499"
+  }
+}
+, {
+  "Barangay" : "SAN ANTONIO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#12 Batangas St., SFDM ",
+  "Population": "25043",
+  "location" : {
+    "latitude" : "14.660648",
+    "needs_recoding" : false,
+    "longitude" : "121.025078"
+  }
+}
+, {
+  "Barangay" : "SAN ISIDRO LABRADOR ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#91 Halcon St., cor. Maria Clara St. ",
+  "Population": "7181",
+  "location" : {
+    "latitude" : "14.622155",
+    "needs_recoding" : false,
+    "longitude" : "120.995474"
+  }
+}
+, {
+  "Barangay" : "SAN JOSE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#14 Tendido St. ",
+  "Population": "6271",
+  "location" : {
+    "latitude" : "14.639105",
+    "needs_recoding" : false,
+    "longitude" : "120.993425"
+  }
+}
+, {
+  "Barangay" : "SIENA",
+  "Country" : "PHILIPPINES",
+  "Address" : "Sto. Domingo fronting Bingo St.",
+  "Population": "3383",
+  "location" : {
+    "latitude" : "14.636402",
+    "needs_recoding" : false,
+    "longitude" : "121.006572"
+  }
+}
+, {
+  "Barangay" : "ST. PETER ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Patok cor. Cordillera St. ",
+  "Population": "4550",
+  "location" : {
+    "latitude" : "14.634981",
+    "needs_recoding" : false,
+    "longitude" : "120.998145"
+  }
+}
+, {
+  "Barangay" : "STA. CRUZ ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#101 Roosevelt Ave. ",
+  "Population": "4784",
+  "location" : {
+    "latitude" : "14.634749",
+    "needs_recoding" : false,
+    "longitude" : "121.017844"
+  }
+}
+, {
+  "Barangay" : "STA. TERESITA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Mayon cor. Dapitan St. ",
+  "Population": "8377",
+  "location" : {
+    "latitude" : "14.622033",
+    "needs_recoding" : false,
+    "longitude" : "120.999725"
+  }
+}
+, {
+  "Barangay" : "STO. CRISTO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#5 Romblon St ",
+  "Population": "10392",
+  "location" : {
+    "latitude" : "14.612998",
+    "needs_recoding" : false,
+    "longitude" : "121.006367"
+  }
+}
+, {
+  "Barangay" : "STO. DOMINGO ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Don Manuel Aggregado St. ",
+  "Population": "13989",
+  "location" : {
+    "latitude" : "14.631518",
+    "needs_recoding" : false,
+    "longitude" : "121.002367"
+  }
+}
+, {
+  "Barangay" : "TALAYAN ",
+  "Country" : "PHILIPPINES",
+  "Address" : "Simbal cor. Malambo St., Talayan Village ",
+  "Population": "5669",
+  "location" : {
+    "latitude" : "14.632654",
+    "needs_recoding" : false,
+    "longitude" : "121.012032"
+  }
+}
+, {
+  "Barangay" : "VASRA ",
+  "Country" : "PHILIPPINES",
+  "Address" : "40 Forestry St. ",
+  "Population": "8867",
+  "location" : {
+    "latitude" : "14.66127",
+    "needs_recoding" : false,
+    "longitude" : "121.044861"
+  }
+}
+, {
+  "Barangay" : "VETERANS VILLAGE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "61 Bansalangin St., Veterans Village ",
+  "Population": "11520",
+  "location" : {
+    "latitude" : "14.65353",
+    "needs_recoding" : false,
+    "longitude" : "121.024583"
+  }
+}
+, {
+  "Barangay" : "WEST TRIANGLE ",
+  "Country" : "PHILIPPINES",
+  "Address" : "#8 Daily Mirror St., West Triangle ",
+  "Population": "4199",
+  "location" : {
+    "latitude" : "14.643494",
+    "needs_recoding" : false,
+    "longitude" : "121.030355"
+  }
+}
+]
